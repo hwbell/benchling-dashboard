@@ -6,7 +6,6 @@ export async function getEntries (apiUrl) {
   const baseEncodedAuth = btoa(`${authOptions.user}:`);
   console.log(baseEncodedAuth);
   myHeaders.append('Authorization', `Basic ${baseEncodedAuth}`);
-  // myHeaders.append('Accept', `application/json`);
 
   let entries = await fetch(apiUrl, {
     method: 'GET',

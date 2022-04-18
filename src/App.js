@@ -4,24 +4,77 @@ import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 import { getEntries } from './tools/serverFunctions';
-import { entriesData } from './tools/sampleData';
+// import { entriesData } from './tools/sampleData';
 import { Spinner } from 'reactstrap';
-const apiUrl = `https://neb.benchling.com/api/v2/entries`;
+const apiUrl = `https://neb.benchling.com/api/v2/projects`;
 
 
 class App extends React.Component {
 
   constructor(props) {
     super(props);
+
+    this.state = {
+      records: null,
+      stats: null,
+    }
   }
   componentDidMount() {
-    // getEntries(apiUrl)
-    console.log(entriesData);
+    let records = getEntries(apiUrl);
+    
+    console.log(records);
 
+    setTimeout(() => {
+      this.setState({
+        entries: records
+      });
+    }, 2000)
+
+    
+  }
+
+  renderSpinners() {
+    return (
+      <div className="spinners-holder">
+        <Spinner
+            className="spinner"
+            color="primary"
+            type="grow"
+          >
+          </Spinner>
+          <Spinner
+            className="spinner"
+            color="primary"
+            type="grow"
+          >
+          </Spinner>
+          <Spinner
+            className="spinner"
+            color="primary"
+            type="grow"
+          >
+          </Spinner>
+      </div>
+    )
   }
 
   renderEntries() {
-    console.log('rendering entries')
+    console.log('rendering entries');
+  }
+
+  renderStats() {
+    console.log('rendering stats');
+
+    return (
+      <div>
+        {this.state.entries.map((entry) => {
+          console.log(entry)
+          return(
+            <div>Hello!</div>
+          )
+        })}
+      </div>
+    )
   }
 
   render() {
@@ -46,26 +99,9 @@ class App extends React.Component {
 
           <p>just a moment ... </p>
           <div className="loading-spinners">
-          <Spinner
-            className="spinner"
-            color="primary"
-            type="grow"
-          >
-          </Spinner>
-          <Spinner
-            className="spinner"
-            color="primary"
-            type="grow"
-            visible={true}
-          >
-          </Spinner>
-          <Spinner
-            className="spinner"
-            color="primary"
-            type="grow"
-            visible={true}
-          >
-          </Spinner>
+          {!this.state.entries ? 
+            this.renderSpinners()
+          : null }
           </div>
 
 

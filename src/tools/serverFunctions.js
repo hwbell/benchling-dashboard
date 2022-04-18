@@ -13,7 +13,8 @@ export async function getEntries (apiUrl) {
   })
     .then(response => response.json())
     .then((response) => {
-      console.log(response.error.message)
+      console.log(response)
+      console.log("message from server: "+response.error.message)
       return response;
     })
     .catch(err => console.log(err))

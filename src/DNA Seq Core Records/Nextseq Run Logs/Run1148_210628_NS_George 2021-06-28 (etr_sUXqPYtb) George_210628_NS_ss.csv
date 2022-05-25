@@ -1,0 +1,26 @@
+[Header],,,,,,,
+IEMFileVersion,5,,,,,,
+Investigator Name,George Tzertzinis,,,,,,
+Experiment Name,Recappable-seq AMPD replicates,,,,,,
+Date,3/19/17,,,,,,
+Workflow,GenerateFASTQ,,,,,,
+Application,FASTQ Only,,,,,,
+Instrument Type,Miseq,,,,,,
+Assay,TruSeq LT,,,,,,
+Description,,,,,,,
+Chemistry,Default,,,,,,
+,,,,,,,
+[Reads],,,,,,,
+75,,,,,,,
+75,,,,,,,
+,,,,,,,
+[Settings],,,,,,,
+,,,,,,,
+[Data],,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,Sample_Project,Description
+1_ctrl,,,,Index_6,GCCAAT,,tzertzinis@neb.com
+2_ctrl,,,,Index_12,CTTGTA,,tzertzinis@neb.com
+3_AMPD,,,,Index_18,GTCCGC,,tzertzinis@neb.com
+4_AMPD,,,,Index_21,GTTTCG,,tzertzinis@neb.com
+5_FTO_AMPD,,,,Index_22,CGTACG,,tzertzinis@neb.com
+6_FTO_AMPD,,,,Index_23,GAGTGG,,tzertzinis@neb.com

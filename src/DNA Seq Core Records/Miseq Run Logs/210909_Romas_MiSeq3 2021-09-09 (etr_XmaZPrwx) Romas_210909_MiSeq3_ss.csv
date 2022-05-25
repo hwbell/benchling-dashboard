@@ -1,0 +1,35 @@
+[Header],,,,,,,
+IEMFileVersion,4,,,,,,
+Investigator Name,Romas Vaisvila,,,,,,
+Experiment Name,Bacterial DNA Deaminases for Epigenetics Research,,,,,,
+Date,9/09/21,,,,,,
+Workflow,GenerateFASTQ,,,,,,
+Application,FASTQ Only,,,,,,
+Assay,TruSeq LT,,,,,,
+Description,,,,,,,
+Chemistry,Default,,,,,,
+,,,,,,,
+[Reads],,,,,,,
+75,,,,,,,
+75,,,,,,,
+,,,,,,,
+[Settings],,,,,,,
+,,,,,,,
+[Data],,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,Sample_Project,Description
+sample_1,,,,S01,ATCACG,,vaisvila@neb.com
+sample_2,,,,S02,CGATGT,,vaisvila@neb.com
+sample_3,,,,S03,TTAGGC,,vaisvila@neb.com
+sample_4,,,,S04,TGACCA,,vaisvila@neb.com
+sample_5,,,,S05,ACAGTG,,vaisvila@neb.com
+sample_6,,,,S06,GCCAAT,,vaisvila@neb.com
+sample_7,,,,S07,CAGATC,,vaisvila@neb.com
+sample_8,,,,S08,ACTTGA,,vaisvila@neb.com
+sample_9,,,,S09,GATCAG,,vaisvila@neb.com
+sample_10,,,,S10,TAGCTT,,vaisvila@neb.com
+sample_11,,,,S11,GGCTAC,,vaisvila@neb.com
+sample_12,,,,S12,CTTGTA,,vaisvila@neb.com
+sample_13,,,,S13,AGTCAA,,vaisvila@neb.com
+sample_14,,,,S14,AGTTCC,,vaisvila@neb.com
+sample_15,,,,S15,ATGTCA,,vaisvila@neb.com
+sample_16,,,,S16,CCGTCC,,vaisvila@neb.com

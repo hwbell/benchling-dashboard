@@ -1,0 +1,34 @@
+[Header],,,,,,,,,,,,,,,,,,,,,,,,,
+IEMFileVersion,5,,,,,,,,,,,,,,,,,,,,,,,,
+Investigator Name,BD,,,,,,,,,,,,,,,,,,,,,,,,
+Experiment Name,AB-WO4-101,,,,,,,,,,,,,,,,,,,,,,,,
+Date,4/19/20,,,,,,,,,,,,,,,,,,,,,,,,
+Workflow,GenerateFASTQ,,,,,,,,,,,,,,,,,,,,,,,,
+Application,FASTQ Only,,,,,,,,,,,,,,,,,,,,,,,,
+Assay,TruSeq HT,,,,,,,,,,,,,,,,,,,,,,,,
+Description,,,,,,,,,,,,,,,,,,,,,,,,,
+Chemistry,amplicon,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Reads],,,,,,,,,,,,,,,,,,,,,,,,,
+70,,,,,,,,,,,,,,,,,,,,,,,,,
+70,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Settings],,,,,,,,,,,,,,,,,,,,,,,,,
+ReverseComplement,0,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Data],,,,,,,,,,,,,,,,,,,,,,,,,
+Sample_ID,User,Sample_Name,Sample_Lot,Input_Amount,Condition,Sample_Plate,Sample_Well,Inline_ID,Index0,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Description,Library_ID,Library_Type,Sample_Type,Normal_Library_IDs,Target_Set,Genome,Analysis_Type,Read_Structure,Read_Length,Product
+AB-WO4-101-01,AB-WO4-101,HapMap24,x9-001a,30ng,3Blunt Cold Buffer,,,,,DHT85,TACTCCAG,Ri524-20210228,NNNNNNNNNNNNGCGTTATG,AB-WO4-101,desmond@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-101-02,AB-WO4-101,HapMap24,x9-001a,30ng,3Blunt RT Buffer,,,,,DHT86,GGAAGAGA,Ri524-20210228,NNNNNNNNNNNNGCGTTATG,AB-WO4-101,desmond@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-101-03,AB-WO4-101,HapMap24,x9-001a,30ng,3Blunt Cold Buffer,,,,,DHT87,GCGTTAGA,Ri524-20210228,NNNNNNNNNNNNGCGTTATG,AB-WO4-101,desmond@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-101-04,AB-WO4-101,HapMap24,x9-001a,30ng,3Blunt RT Buffer,,,,,DHT88,ATCTGACC,Ri524-20210228,NNNNNNNNNNNNGCGTTATG,AB-WO4-101,desmond@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-101-05,AB-WO4-101,HapMap24,x9-001a,30ng,3Blunt Cold Buffer,,,,,DHT89,AACCAGAG,Ri524-20210228,NNNNNNNNNNNNGCGTTATG,AB-WO4-101,desmond@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-101-06,AB-WO4-101,HapMap24,x9-001a,30ng,3Blunt RT Buffer,,,,,DHT90,GTACCACA,Ri524-20210228,NNNNNNNNNNNNGCGTTATG,AB-WO4-101,desmond@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-101-07,AB-WO4-101,HapMap24,x9-001a,30ng,3Blunt Cold Buffer,,,,,DHT91,GGTATAGG,Ri524-20210228,NNNNNNNNNNNNGCGTTATG,AB-WO4-101,desmond@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-101-08,AB-WO4-101,HapMap24,x9-001a,30ng,3Blunt RT Buffer,,,,,DHT92,CGAGAGAA,Ri524-20210228,NNNNNNNNNNNNGCGTTATG,AB-WO4-101,desmond@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-101-09,AB-WO4-101,HapMap24,x9-001a,30ng,3Blunt Cold Buffer,,,,,DHT93,CAGCATAC,Ri524-20210228,NNNNNNNNNNNNGCGTTATG,AB-WO4-101,desmond@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-101-10,AB-WO4-101,HapMap24,x9-001a,30ng,3Blunt RT Buffer,,,,,DHT94,CTCGACTT,Ri524-20210228,NNNNNNNNNNNNGCGTTATG,AB-WO4-101,desmond@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-101-11,AB-WO4-101,HapMap24,x9-001a,30ng,3Blunt Cold Buffer,,,,,DHT95,CTTCGGTT,Ri524-20210228,NNNNNNNNNNNNGCGTTATG,AB-WO4-101,desmond@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-101-12,AB-WO4-101,HapMap24,x9-001a,30ng,3Blunt RT Buffer,,,,,DHT96,CCACAACA,Ri524-20210228,NNNNNNNNNNNNGCGTTATG,AB-WO4-101,desmond@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,70T8B12M8B70T,,HsAlpha

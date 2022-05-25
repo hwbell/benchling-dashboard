@@ -1,0 +1,26 @@
+[Header],,,,,,,
+IEMFileVersion,5,,,,,,
+Investigator Name,Gene Chin,,,,,,
+Experiment Name,FFPE_NEATSeq,,,,,,
+Date,9/3/21,,,,,,
+Workflow,GenerateFASTQ,,,,,,
+Application,FASTQ Only,,,,,,
+Instrument Type,Nextseq,,,,,,
+Assay,TruSeq LT,,,,,,
+Description,,,,,,,
+Chemistry,Default,,,,,,
+,,,,,,,
+[Reads],,,,,,,
+75,,,,,,,
+75,,,,,,,
+,,,,,,,
+[Settings],,,,,,,
+,,,,,,,
+[Data],,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,Sample_Project,Description
+1,FFPE_IgG_gHNH,,,Index_7,CAGATC,,chinh@neb.com
+3,FFPE_K27ac_gHNH,,,Index_11,GGCTAC,,chinh@neb.com
+5,FFPE_K27me3_gHNH,,,Index_15,ATGTCA,,chinh@neb.com
+7,FFPE_IgG_GLNt,,,Index_20,GTGGCC,,chinh@neb.com
+9,FFPE_K27ac_GLNt,,,Index_35,CATTTT,,chinh@neb.com
+10,FFPE_K27me23_GLNt,,,Index_42,TAATCG,,chinh@neb.com

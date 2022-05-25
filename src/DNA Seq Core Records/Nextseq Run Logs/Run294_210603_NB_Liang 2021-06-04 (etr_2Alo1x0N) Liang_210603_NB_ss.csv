@@ -1,0 +1,28 @@
+[Header],,,,,,,
+IEMFileVersion,4,,,,,,
+Investigator Name,Liang_Wang,,,,,,
+Experiment Name,VCEempty,,,,,,
+Date,6/3/21,,,,,,
+Workflow,GenerateFASTQ,,,,,,
+Application,FASTQ Only,,,,,,
+Assay,TruSeq LT,,,,,,
+Description,,,,,,,
+Chemistry,Default,,,,,,
+,,,,,,,
+[Reads],,,,,,,
+75,,,,,,,
+75,,,,,,,
+[Settings],,,,,,,
+,,,,,,,
+[Data],,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,Sample_Project,Description
+3427_seed_1,,,,S01,ATCACG,,lwang@neb.com
+3427_seed_2,,,,S02,CGATGT,,lwang@neb.com
+3427_27h_1,,,,S03,TTAGGC,,lwang@neb.com
+3427_27h_2,,,,S04,TGACCA,,lwang@neb.com
+3427_57h_1,,,,S05,ACAGTG,,lwang@neb.com
+3427_57h_2,,,,S06,GCCAAT,,lwang@neb.com
+3427_57h_a_1,,,,S07,CAGATC,,lwang@neb.com
+3427_57h_a_2,,,,S08,ACTTGA,,lwang@neb.com
+3427_77h_1,,,,S09,GATCAG,,lwang@neb.com
+3427_77h_2,,,,S10,TAGCTT,,lwang@neb.com

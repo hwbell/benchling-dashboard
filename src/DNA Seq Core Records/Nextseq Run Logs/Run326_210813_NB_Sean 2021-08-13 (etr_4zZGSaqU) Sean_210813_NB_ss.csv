@@ -1,0 +1,43 @@
+[Header],,,,,,,,,
+IEMFileVersion,4,,,,,,,,
+Investigator Name,Sean Maguire,,,,,,,,
+Experiment Name,Yeast_S1_Opt,,,,,,,,
+Date,8/13/21,,,,,,,,
+Workflow,GenerateFASTQ,,,,,,,,
+Application,FASTQ Only,,,,,,,,
+Assay,TruSeq HT,,,,,,,,
+Description,,,,,,,,,
+Chemistry,Amplicon,,,,,,,,
+,,,,,,,,,
+[Reads],,,,,,,,,
+70,,,,,,,,,
+70,,,,,,,,,
+,,,,,,,,,
+[Settings],,,,,,,,,
+,,,,,,,,,
+[Data],,,,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Description
+RNase1,,,,S705,CGTATCTCNNNNNNNNNNN,S563,GTACCTTG,,smaguire@neb.com
+RNase2,,,,S701,TTACGTGCNNNNNNNNNNN,S597,CAAGGTCT,,smaguire@neb.com
+RNase3,,,,S754,AGCTAAGCNNNNNNNNNNN,S535,GTAACGAC,,smaguire@neb.com
+RNase4,,,,S798,AAGACACCNNNNNNNNNNN,S527,TCGGTTAC,,smaguire@neb.com
+RNase5,,,,S751,CAACTCCANNNNNNNNNNN,S542,ACGGATTC,,smaguire@neb.com
+RNase6,,,,S717,GATCTTGCNNNNNNNNNNN,S595,TGCTCATG,,smaguire@neb.com
+RNase7,,,,S765,CTTCACTGNNNNNNNNNNN,S549,GTCCTAAG,,smaguire@neb.com
+RNase8,,,,S793,CTCGACTTNNNNNNNNNNN,S573,GGTCAGAT,,smaguire@neb.com
+S1opt1,,,,S719,GTACACCTNNNNNNNNNNN,S569,CATGAGGA,,smaguire@neb.com
+S1opt2,,,,S744,CCAAGGTTNNNNNNNNNNN,S552,GCTATCCT,,smaguire@neb.com
+S1opt3,,,,S785,GAACGGTTNNNNNNNNNNN,S504,ATTCCTCC,,smaguire@neb.com
+S1opt4,,,,S718,CCAGTTGANNNNNNNNNNN,S515,ATGACGTC,,smaguire@neb.com
+S1opt5,,,,S748,GTCATCGTNNNNNNNNNNN,S553,TTAAGCGG,,smaguire@neb.com
+S1opt6,,,,S768,CAATGCGANNNNNNNNNNN,S558,AGTTCGTC,,smaguire@neb.com
+S1opt7,,,,S741,GGTTGAACNNNNNNNNNNN,S584,AACGTGGA,,smaguire@neb.com
+S1opt8,,,,S720,CTTCGGTTNNNNNNNNNNN,S514,CTCTGGTT,,smaguire@neb.com
+S1opt9,,,,S731,CGGCATTANNNNNNNNNNN,S571,TGACTGAC,,smaguire@neb.com
+S1opt10,,,,S789,CACGCAATNNNNNNNNNNN,S579,ATGGAAGG,,smaguire@neb.com
+S1opt11,,,,S787,GGAATGTCNNNNNNNNNNN,S588,GTGTTCCT,,smaguire@neb.com
+S1opt12,,,,S703,TGGTGAAGNNNNNNNNNNN,S539,GCTGTAAG,,smaguire@neb.com
+S1opt13,,,,S776,GGACATCANNNNNNNNNNN,S537,TGCAGGTA,,smaguire@neb.com
+S1opt14,,,,S782,GGTGTACANNNNNNNNNNN,S528,TAGCGTCT,,smaguire@neb.com
+S1opt15,,,,S730,GATAGCCANNNNNNNNNNN,S580,CTGTGTTG,,smaguire@neb.com
+S1opt16,,,,S733,CCACAACANNNNNNNNNNN,S561,TGTGGTAC,,smaguire@neb.com

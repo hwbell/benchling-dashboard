@@ -1,0 +1,26 @@
+[Header],,,,,,,,,
+IEMFileVersion,4,,,,,,,,
+Investigator Name,Ping,,,,,,,,
+Experiment Name,Novaseq S4 for PCR-free marketing figure,,,,,,,,
+Date,4/16/20,,,,,,,,
+Workflow,GenerateFASTQ,,,,,,,,
+Application,FASTQ Only,,,,,,,,
+Assay,TruSeq HT,,,,,,,,
+Description,,,,,,,,,
+Chemistry,Amplicon,,,,,,,,
+,,,,,,,,,
+[Reads],,,,,,,,,
+151,,,,,,,,,
+151,,,,,,,,,
+[Settings],,,,,,,,,
+,,,,,,,,,
+[Data],,,,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Description
+KM_Illumina_PCRfree_250ng_7D,,,D07,UDP0052,TGATGTAAGANNNNNNNNN,UDP0052,AAGGACGCAC,,liu@neb.com
+KM_Illumina_PCRfree_250ng_7E,,,E07,UDP0053,GGAATTGTAANNNNNNNNN,UDP0053,AGGATGTGCT,,liu@neb.com
+PL_Illumina_PCRfree_250ng_11E,,,E11,UDP0085,TGGTACCTAANNNNNNNNN,UDP0085,AGTACTCATG,,liu@neb.com
+PL_Illumina_PCRfree_250ng_11F,,,F11,UDP0086,TTGGAATTCCNNNNNNNNN,UDP0086,GTATTGACGT,,liu@neb.com
+KM_FS_250ng_450bp_A3,,,A3,S702,TCGGATTCNNNNNNNNNNN,S523,TAGTTGCGGT,,liu@neb.com
+KM_FS_250ng_450bp_B6,,,B6,S779,CCTTCCATNNNNNNNNNNN,S589,ATTGCGTGGT,,liu@neb.com
+PL_FS_250ng_450DTT_E9,,,E9,S778,CTCGAACANNNNNNNNNNN,S522,GGAATTGCGT,,liu@neb.com
+PL_FS_250ng_450DTT_E12,,,E12,S776,GGACATCANNNNNNNNNNN,S537,TGCAGGTAGT,,liu@neb.com

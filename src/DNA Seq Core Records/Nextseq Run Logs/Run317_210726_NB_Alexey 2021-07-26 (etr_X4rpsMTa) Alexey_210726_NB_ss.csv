@@ -1,0 +1,27 @@
+[Header],,,,,,,
+IEMFileVersion,5,,,,,,
+Investigator Name,ALEXEY FOMENKOV,,,,,,
+Experiment Name,RIMSeq,,,,,,
+Date,3/19/17,,,,,,
+Workflow,GenerateFASTQ,,,,,,
+Application,FASTQ Only,,,,,,
+Instrument Type,Miseq,,,,,,
+Assay,TruSeq LT,,,,,,
+Description,,,,,,,
+Chemistry,Default,,,,,,
+,,,,,,,
+[Reads],,,,,,,
+75,,,,,,,
+75,,,,,,,
+,,,,,,,
+[Settings],,,,,,,
+,,,,,,,
+[Data],,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,Sample_Project,Description
+Thermus_sp_NEB947,,,,Index_1,ATCACG,,fomenkov@neb.com
+Tfr_BP9_50,,,,Index_2,CGATGT,,fomenkov@neb.com
+Drd_Iain,,,,Index_3,TTAGGC,,fomenkov@neb.com
+Eco5a_Iain,,,,Index_4,TGACCA,,fomenkov@neb.com
+2796_M_Sen312ORF20165,,,,Index_5,ACAGTG,,fomenkov@neb.com
+2796_M_RSen312ORF20165,,,,Index_6,GCCAAT,,fomenkov@neb.com
+2796_MplusRSen312ORF20165,,,,Index_7,CAGATC,,fomenkov@neb.com

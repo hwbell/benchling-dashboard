@@ -1,0 +1,28 @@
+[Header],,,,,,,
+IEMFileVersion,5,,,,,,
+Investigator Name,Rick Feehery,,,,,,
+Experiment Name,RTFPAM5_OT,,,,,,
+Date,4/09/21,,,,,,
+Workflow,GenerateFASTQ,,,,,,
+Application,FASTQ Only,,,,,,
+Instrument Type,Miseq,,,,,,
+Assay,TruSeq LT,,,,,,
+Description,,,,,,,
+Chemistry,Default,,,,,,
+,,,,,,,
+[Reads],,,,,,,
+75,,,,,,,
+,,,,,,,
+,,,,,,,
+[Settings],,,,,,,
+,,,,,,,
+[Data],,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,Sample_Project,Description
+2,,,,Index_2,CGATGT,,feehery@neb.com
+3,,,,Index_3,TTAGGC,,feehery@neb.com
+5,,,,Index_5,ACAGTG,,feehery@neb.com
+6,,,,Index_6,GCCAAT,,feehery@neb.com
+7,,,,Index_7,CAGATC,,feehery@neb.com
+8,,,,Index_8,ACTTGA,,feehery@neb.com
+10,,,,Index_10,TAGCTT,,feehery@neb.com
+11,,,,Index_11,GGCTAC,,feehery@neb.com

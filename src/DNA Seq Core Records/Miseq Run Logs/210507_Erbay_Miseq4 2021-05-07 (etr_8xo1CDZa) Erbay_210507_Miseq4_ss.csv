@@ -1,0 +1,46 @@
+[Header],,,,,,,,,,,
+IEMFileVersion,5,,,,,,,,,,
+Investigator Name,Erbay Yigit,,,,,,,,,,
+Experiment Name,MazF enzyme,,,,,,,,,,
+Date,5/7/21,,,,,,,,,,
+Workflow,SmallRNA,,,,,,,,,,
+Application,Small RNA,,,,,,,,,,
+Instrument Type,Miseq,,,,,,,,,,
+Assay,TruSeq Small RNA,,,,,,,,,,
+Description,,,,,,,,,,,
+Chemistry,Default,,,,,,,,,,
+,,,,,,,,,,,
+[Reads],,,,,,,,,,,
+13,,,,,,,,,,,
+13,,,,,,,,,,,
+[Settings]
+,,,,,,,,,,,
+[Data],,,,,,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,Sample_Project,Description,GenomeFolder,Contaminants,RNA,miRNA
+10,,,,Index_10,TAGCTT,,yigit@neb.com,,NA,NA,NA
+11,,,,Index_11,GGCTAC,,yigit@neb.com,,NA,NA,NA
+12,,,,Index_12,CTTGTA,,yigit@neb.com,,NA,NA,NA
+13,,,,Index_13,AGTCAA,,yigit@neb.com,,NA,NA,NA
+14,,,,Index_14,AGTTCC,,yigit@neb.com,,NA,NA,NA
+15,,,,Index_15,ATGTCA,,yigit@neb.com,,NA,NA,NA
+16,,,,Index_16,CCGTCC,,yigit@neb.com,,NA,NA,NA
+17,,,,Index_17,GTAGAG,,yigit@neb.com,,NA,NA,NA
+18,,,,Index_18,GTCCGC,,yigit@neb.com,,NA,NA,NA
+19,,,,Index_19,GTGAAA,,yigit@neb.com,,NA,NA,NA
+20,,,,Index_20,GTGGCC,,yigit@neb.com,,NA,NA,NA
+21,,,,Index_21,GTTTCG,,yigit@neb.com,,NA,NA,NA
+22,,,,Index_22,CGTACG,,yigit@neb.com,,NA,NA,NA
+23,,,,Index_23,GAGTGG,,yigit@neb.com,,NA,NA,NA
+24,,,,Index_24,GGTAGC,,yigit@neb.com,,NA,NA,NA
+25,,,,Index_25,ACTGAT,,yigit@neb.com,,NA,NA,NA
+26,,,,Index_26,ATGAGC,,yigit@neb.com,,NA,NA,NA
+27,,,,Index_27,ATTCCT,,yigit@neb.com,,NA,NA,NA
+28,,,,Index_28,CAAAAG,,yigit@neb.com,,NA,NA,NA
+29,,,,Index_29,CAACTA,,yigit@neb.com,,NA,NA,NA
+30,,,,Index_30,CACCGG,,yigit@neb.com,,NA,NA,NA
+31,,,,Index_31,CACGAT,,yigit@neb.com,,NA,NA,NA
+32,,,,Index_32,CACTCA,,yigit@neb.com,,NA,NA,NA
+33,,,,Index_33,CAGGCG,,yigit@neb.com,,NA,NA,NA
+34,,,,Index_34,CATGGC,,yigit@neb.com,,NA,NA,NA
+35,,,,Index_35,CATTTT,,yigit@neb.com,,NA,NA,NA
+36,,,,Index_36,CCAACA,,yigit@neb.com,,NA,NA,NA

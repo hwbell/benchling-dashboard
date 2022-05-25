@@ -1,0 +1,31 @@
+[Header],,,,,,,
+IEMFileVersion,5,,,,,,
+Investigator Name,Gene Chin,,,,,,
+Experiment Name,Improvement_of_Nice_seq,,,,,,
+Date,2/22/21,,,,,,
+Workflow,GenerateFASTQ,,,,,,
+Application,FASTQ Only,,,,,,
+Instrument Type,Miseq,,,,,,
+Assay,TruSeq LT,,,,,,
+Description,,,,,,,
+Chemistry,Default,,,,,,
+,,,,,,,
+[Reads],,,,,,,
+75,,,,,,,
+75,,,,,,,
+,,,,,,,
+[Settings],,,,,,,
+,,,,,,,
+[Data],,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,Sample_Project,Description
+1,K562_Index1,,,Index_1,ATCACG,,chinh@neb.com
+2,K562_Index4,,,Index_4,TGACCA,,chinh@neb.com
+3,K562_Index33,,,Index_33,CAGGCG,,chinh@neb.com
+4,K562_Index34,,,Index_34,CATGGC,,chinh@neb.com
+5,HCT116_Index28,,,Index_28,CAAAAG,,chinh@neb.com
+6,HCT116_Index29,,,Index_29,CAACTA,,chinh@neb.com
+7,HCT116_Index_48,,,Index_24,GGTAGC,,chinh@neb.com
+8,HCT116_Index_24,,,Index_26,ATGAGC,,chinh@neb.com
+9,HCT115_Index26,,,Index_31,CACGAT,,chinh@neb.com
+10,HCT117_Index31,,,Index_31,CACGAT,,chinh@neb.com
+11,HCT116_Index10_CTR,,,Index_10,TAGCTT,,chinh@neb.com

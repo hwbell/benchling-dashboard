@@ -1,0 +1,38 @@
+[Header],,,,,,,
+IEMFileVersion,4,,,,,,
+Investigator Name,Gene Chin,,,,,,
+Experiment Name,FFPQ_QC,,,,,,
+Date,7/8/21,,,,,,
+Workflow,GenerateFASTQ,,,,,,
+Application,FASTQ Only,,,,,,
+Assay,TruSeq HT,,,,,,
+Description,,,,,,,
+Chemistry,Amplicon,,,,,,
+,,,,,,,
+[Reads],,,,,,,
+75,,,,,,,
+75,,,,,,,
+[Settings],,,,,,,
+,,,,,,,
+[Data],,,,,,,
+Sample_ID,Sample_Name,Sample_Well,I7_Index_ID,index,I5_Index_ID,index2,Description
+FFPE_24h_gDNA,FFPE_24h_gDNA,A1,S762,TTACCGAC,S512,CGTATTCG,chinh@neb.com
+FFPE_48h_gDNA,FFPE_48h_gDNA,B1,S713,TCGTCTGA,S586,TCAAGGAC,chinh@neb.com
+FFPE_24h_gDNA_ON_decrosslink,FFPE_24h_gDNA_ON_decrosslink,C1,S736,TTCCAGGT,S543,AAGCACTG,chinh@neb.com
+FFPE_48h_gDNA_ON_decrosslink,FFPE_48h_gDNA_ON_decrosslink,D1,S709,TACGGTCT,S575,GCAATGGA,chinh@neb.com
+FFPE_24h_ATL_TLPK_ON_decrosslink,FFPE_24h_ATL_TLPK_ON_decrosslink,E1,S732,AAGACCGT,S550,CAATCGAC,chinh@neb.com
+FFPE_48h_ATL_TLPK_ON_decrosslink,FFPE_48h_ATL_TLPK_ON_decrosslink,F1,S774,CAGGTTCA,S506,GGCGTTAT,chinh@neb.com
+FFPE_24h_SDS_TLPK_ON_decrosslink,FFPE_24h_SDS_TLPK_ON_decrosslink,G1,S747,TAGGAGCT,S524,GTTAAGGC,chinh@neb.com
+FFPE_48h_SDS_TLPK_ON_decrosslink,FFPE_48h_SDS_TLPK_ON_decrosslink,H1,S794,TACTCCAG,S590,CCTATACC,chinh@neb.com
+50K_Spike_500pg_P9,50K_Spike_500pg_P9,A2,S729,AGTGACCT,S591,CTCCTAGA,chinh@neb.com
+50K_Spike_1ng_P9,50K_Spike_1ng_P9,B2,S777,AGCCTATC,S526,GTTACGCA,chinh@neb.com
+50K_Spike_1.5ng_P9,50K_Spike_1.5ng_P9,C2,S772,TCATCTCC,S567,CTAGCAAG,chinh@neb.com
+50K_Spike_2ng_P9,50K_Spike_2ng_P9,D2,S725,CCAGTATC,S538,ATCTCGCT,chinh@neb.com
+50K_Spike_500pg_P11,50K_Spike_500pg_P11,E2,S755,TTGCGAGA,S566,GTGCCATA,chinh@neb.com
+50K_Spike_1ng_P11,50K_Spike_1ng_P11,F2,S760,GAACGAAG,S511,GGTGATTC,chinh@neb.com
+50K_Spike_1.5ng_P11,50K_Spike_1.5ng_P11,G2,S716,CGAATTGC,S559,CACCTTAC,chinh@neb.com
+50K_Spike_2ng_P11,50K_Spike_2ng_P11,H2,S708,GGAAGAGA,S521,TTCTCTCG,chinh@neb.com
+FFPE_24h_ATL_TLPK,FFPE_24h_ATL_TLPK,A3,S702,TCGGATTC,S523,TAGTTGCG,chinh@neb.com
+FFPE_48h_ATL_TLPK ,FFPE_48h_ATL_TLPK ,A4,S763,CAAGGTAC,S505,GAGATACG,chinh@neb.com
+FFPE_24h_SDS_TLPK,FFPE_24h_SDS_TLPK,A5,S769,TCCTCATG,S519,AGGTGTAC,chinh@neb.com
+FFPE_48h_SDS_TLPK,FFPE_48h_SDS_TLPK,A6,S771,GTCAGTCA,S531,TAATGCCG,chinh@neb.com

@@ -1,0 +1,28 @@
+[Header],,,,,,,,,
+IEMFileVersion,4,,,,,,,,
+Investigator Name,Sebastian-Erbay,,,,,,,,
+Experiment Name,,,,,,,,,
+Date,8/23/21,,,,,,,,
+Workflow,GenerateFASTQ,,,,,,,,
+Application,FASTQ Only,,,,,,,,
+Assay,TruSeq HT,,,,,,,,
+Description,,,,,,,,,
+Chemistry,Amplicon,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+[Reads],,,,,,,,,
+50,,,,,,,,,
+50,,,,,,,,,
+,,,,,,,,,
+[Settings],,,,,,,,,
+,,,,,,,,,
+[Data],,,,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Description
+i705_i501,blood_rand_i501_i705,,,i705,ATTCAGAA,i501,TATAGCCT,,sgruenberg@neb.com
+i708_i506,H293_rand_i506_i708,,,i708,TAATGCGC,i506,TAATCTTA,,sgruenberg@neb.com
+i709_i504,blood_splint_i504_i709,,,i709,CGGCTATG,i504,GGCTCTGA,,sgruenberg@neb.com
+i706_i507,H293_splint_i507_i706,,,i706,GAATTCGT,i507,CAGGACGT ,,sgruenberg@neb.com
+i701_i508,EY_blood_splint_i508_i701,,,i701,ATTACTCG,i508,GTACTGAC,,sgruenberg@neb.com
+i1_std,blood_std_i1,,,i7_i1,ATCACGAT,i5_SR,GTTCAGAG,,sgruenberg@neb.com
+i4_rand,blood_rand_i4,,,i7_i4,TGACCAAT,i5_SR,GTTCAGAG,,sgruenberg@neb.com

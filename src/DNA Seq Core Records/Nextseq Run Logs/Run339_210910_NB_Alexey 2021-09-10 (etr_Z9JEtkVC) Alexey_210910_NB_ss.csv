@@ -1,0 +1,32 @@
+[Header],,,,,,,
+IEMFileVersion,5,,,,,,
+Investigator Name,Alexey Fomenkov,,,,,,
+Experiment Name,E.coli 5mC Modification,,,,,,
+Date,9/10/21,,,,,,
+Workflow,GenerateFASTQ,,,,,,
+Application,FASTQ Only,,,,,,
+Instrument Type,Miseq,,,,,,
+Assay,TruSeq LT,,,,,,
+Description,,,,,,,
+Chemistry,Default,,,,,,
+,,,,,,,
+[Reads],,,,,,,
+75,,,,,,,
+75,,,,,,,
+,,,,,,,
+[Settings],,,,,,,
+,,,,,,,
+[Data],,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,Sample_Project,Description
+ER2566_RIMSeq,,,,Index_3,TTAGGC,,fomenkov@neb.com
+ER2925_RIMSeq,,,,Index_4,TGACCA,,fomenkov@neb.com
+ER2683_RIMSeq,,,,Index_5,ACAGTG,,fomenkov@neb.com
+ER2796_RIMSeq,,,,Index_7,CAGATC,,fomenkov@neb.com
+ER2566_RIMSeq_User,,,,Index_8,ACTTGA,,fomenkov@neb.com
+ER2925_RIMSeq_User,,,,Index_9,GATCAG,,fomenkov@neb.com
+ER2683_RIMSeq_User,,,,Index_10,TAGCTT,,fomenkov@neb.com
+ER2796_RIMSeq_User,,,,Index_11,GGCTAC,,fomenkov@neb.com
+ER2566_EMseq,,,,Index_12,CTTGTA,,fomenkov@neb.com
+ER2925_EMseq,,,,Index_13,AGTCAA,,fomenkov@neb.com
+ER2863_EMseq,,,,Index_14,AGTTCC,,fomenkov@neb.com
+ER2795_EMseq,,,,Index_15,ATGTCA,,fomenkov@neb.com

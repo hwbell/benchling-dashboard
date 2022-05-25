@@ -1,0 +1,24 @@
+[Header],,,,,,,,,
+IEMFileVersion,4,,,,,,,,
+Investigator Name,Sean Maguire,,,,,,,,
+Experiment Name,R Loop Mapping,,,,,,,,
+Date,7/26/21,,,,,,,,
+Workflow,GenerateFASTQ,,,,,,,,
+Application,FASTQ Only,,,,,,,,
+Assay,TruSeq HT,,,,,,,,
+Description,,,,,,,,,
+Chemistry,Amplicon,,,,,,,,
+,,,,,,,,,
+[Reads],,,,,,,,,
+70,,,,,,,,,
+70,,,,,,,,,
+,,,,,,,,,
+[Settings],,,,,,,,,
+,,,,,,,,,
+[Data],,,,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Description
+WT_noRH,,,,S723,CGCAACTANNNNNNNNNNN,S502,TCGGATTC,,smaguire@neb.com
+WT_RH,,,,S707,CACAGACTNNNNNNNNNNN,S596,CTGTACCA,,smaguire@neb.com
+KO_noRH,,,,S745,TGGAAGCANNNNNNNNNNN,S557,GAGAGTAC,,smaguire@neb.com
+KO_RH,,,,S746,CAATAGCCNNNNNNNNNNN,S583,TCTACGCA,,smaguire@neb.com
+

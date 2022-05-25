@@ -1,0 +1,25 @@
+﻿[Header],,,,,,,,,,,,,,,,,,,,,,,,,
+IEMFileVersion,5,,,,,,,,,,,,,,,,,,,,,,,,
+Investigator Name,SA,,,,,,,,,,,,,,,,,,,,,,,,
+Experiment Name,W02190.2,,,,,,,,,,,,,,,,,,,,,,,,
+Date,8/27/21,,,,,,,,,,,,,,,,,,,,,,,,
+Workflow,GenerateFASTQ,,,,,,,,,,,,,,,,,,,,,,,,
+Application,FASTQ Only,,,,,,,,,,,,,,,,,,,,,,,,
+Assay,TruSeq HT,,,,,,,,,,,,,,,,,,,,,,,,
+Description,,,,,,,,,,,,,,,,,,,,,,,,,
+Chemistry,amplicon,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Reads],,,,,,,,,,,,,,,,,,,,,,,,,
+150,,,,,,,,,,,,,,,,,,,,,,,,,
+150,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Settings],,,,,,,,,,,,,,,,,,,,,,,,,
+ReverseComplement,0,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Data],,,,,,,,,,,,,,,,,,,,,,,,,
+Sample_ID,User,Sample_Name,Sample_Batch,Input_Amount,Condition,Sample_Plate,Sample_Well,Inline_ID,Index0,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Description,Library_ID,Library_Type,Sample_Type,Normal_Library_IDs,Target_Set,Genome,Analysis_Type,Read_Structure,Read_Length,Product
+W02190_01,SA,HM24x,9,100ng,CancerHotSpot,,,,,DHT27,GAGAGTAC,,NNNNNNNNNNNN,,adams@directedgenomics.com,,,,,CancerHotSpot,,Production,75T73S8B12M75T75S,,Classic
+W02190_02,SA,HM24x,9,100ng,CancerHotSpot,,,,,DHT28,GTCGTTAC,,NNNNNNNNNNNN,,adams@directedgenomics.com,,,,,CancerHotSpot,,Production,75T73S8B12M75T75S,,Classic
+W02190_03,SA,HM24x,9,500ng,000174_202010063,,,,,DHT29,GGAGGAAT,,NNNNNNNNNNNN,,adams@directedgenomics.com,,,,,000174_202010063,,Production,148T8B12M150T,,Classic
+W02190_04,SA,HM24x,9,500ng,000174_202010063,,,,,DHT30,AGGAACAC,,NNNNNNNNNNNN,,adams@directedgenomics.com,,,,,000174_202010063,,Production,148T8B12M150T,,Classic
+W02190_05,SA,HM24x,9,500ng,000174_202010063,,,,,DHT31,CAGTGCTT,,NNNNNNNNNNNN,,adams@directedgenomics.com,,,,,000174_202010063,,Production,148T8B12M150T,,Classic

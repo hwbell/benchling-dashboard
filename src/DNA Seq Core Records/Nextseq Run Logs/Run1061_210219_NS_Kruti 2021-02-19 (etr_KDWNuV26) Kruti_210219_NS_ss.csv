@@ -1,0 +1,36 @@
+[Header],,,,,,,,,,,,,,,,,,,,,,,,,
+IEMFileVersion,5,,,,,,,,,,,,,,,,,,,,,,,,
+Investigator Name,KMP,,,,,,,,,,,,,,,,,,,,,,,,
+Experiment Name,AB-WO4-070,,,,,,,,,,,,,,,,,,,,,,,,
+Date,2/19/21,,,,,,,,,,,,,,,,,,,,,,,,
+Workflow,GenerateFASTQ,,,,,,,,,,,,,,,,,,,,,,,,
+Application,FASTQ Only,,,,,,,,,,,,,,,,,,,,,,,,
+Assay,TruSeq HT,,,,,,,,,,,,,,,,,,,,,,,,
+Description,,,,,,,,,,,,,,,,,,,,,,,,,
+Chemistry,amplicon,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Reads],,,,,,,,,,,,,,,,,,,,,,,,,
+70,,,,,,,,,,,,,,,,,,,,,,,,,
+70,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Settings],,,,,,,,,,,,,,,,,,,,,,,,,
+ReverseComplement,0,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Data],,,,,,,,,,,,,,,,,,,,,,,,,
+Sample_ID,User,Sample_Name,Sample_Lot,Input_Amount,Condition,Sample_Plate,Sample_Well,Inline_ID,Index0,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Description,Library_ID,Library_Type,Sample_Type,Normal_Library_IDs,Target_Set,Genome,Analysis_Type,Read_Structure,Read_Length,Product
+AB-WO4-070-01,AB-WO4-070,FFPE-colon,c505161,30ng_90min,FFPE-colon_30ng_90min,,,,,DHT13,TCGTCTGA,Ri501-5A,NNNNNNNNNNNNAGGCTATA,AB-WO4-070,patel@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-070-02,AB-WO4-070,FFPE-colon,c505161,50ng_90min,FFPE-colon_50ng_90min,,,,,DHT14,AGCCTATC,Ri502-5A,NNNNNNNNNNNNGCCTCTAT,AB-WO4-070,patel@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-070-03,AB-WO4-070,FFPE-lung,c505128,30ng_90min,FFPE-lung_30ng_90min,,,,,DHT15,CTGTACCA,Ri503-5A,NNNNNNNNNNNNAGGATAGG,AB-WO4-070,patel@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-070-04,AB-WO4-070,FFPE-lung,c505128,50ng_90min,FFPE-lung_50ng_90min,,,,,DHT16,AGACCTTG,Ri504-5A,NNNNNNNNNNNNTCAGAGCC,AB-WO4-070,patel@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-070-05,AB-WO4-070,FFPE-colon,c505161,30ng_90min,FFPE-colon_30ng_90min,,,,,DHT17,AGGATAGC,Ri505-5A,NNNNNNNNNNNNCTTCGCCT,AB-WO4-070,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-070-06,AB-WO4-070,FFPE-colon,c505161,50ng_90min,FFPE-colon_50ng_90min,,,,,DHT18,CCTTCCAT,Ri506-5A,NNNNNNNNNNNNTAAGATTA,AB-WO4-070,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-070-07,AB-WO4-070,FFPE-lung,c505128,30ng_90min,FFPE-lung_30ng_90min,,,,,DHT19,GTCCTTGA,Ri507-5A,NNNNNNNNNNNNACGTCCTG,AB-WO4-070,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-070-08,AB-WO4-070,FFPE-lung,c505128,50ng_90min,FFPE-lung_50ng_90min,,,,,DHT20,TGCGTAAC,Ri508-5A,NNNNNNNNNNNNGTCAGTAC,AB-WO4-070,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-070-09,AB-WO4-070,FFPE-colon,c505161,30ng_ON,FFPE-colon_30ng_ON,,,,,DHT21,CACAGACT,Ri509-5A,NNNNNNNNNNNNGCAAGCAA,AB-WO4-070,patel@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-070-10,AB-WO4-070,FFPE-colon,c505161,50ng_ON,FFPE-colon_50ng_ON,,,,,DHT22,TTACGTGC,Ri510-5A,NNNNNNNNNNNNAACCTCTC,AB-WO4-070,patel@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-070-11,AB-WO4-070,FFPE-lung,c505128,30ng_ON,FFPE-lung_30ng_ON,,,,,DHT23,CCAAGGTT,Ri511-5A,NNNNNNNNNNNNAACCAGGT,AB-WO4-070,patel@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-070-12,AB-WO4-070,FFPE-lung,c505128,50ng_ON,FFPE-lung_50ng_ON,,,,,DHT24,CACGCAAT,Ri512-5A,NNNNNNNNNNNNTTCCGCTT,AB-WO4-070,patel@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-070-13,AB-WO4-070,FFPE-colon,c505161,30ng_ON,FFPE-colon_30ng_ON,,,,,DHT25,TTCCAGGT,Ri513-5A,NNNNNNNNNNNNTTGTTCCG,AB-WO4-070,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b39,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-070-14,AB-WO4-070,FFPE-colon,c505161,50ng_ON,FFPE-colon_50ng_ON,,,,,DHT26,TCATCTCC,Ri514-5A,NNNNNNNNNNNNAGCTTACC,AB-WO4-070,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b40,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-070-15,AB-WO4-070,FFPE-lung,c505128,30ng_ON,FFPE-lung_30ng_ON,,,,,DHT27,GAGAGTAC,Ri515-5A,NNNNNNNNNNNNATGCCACA,AB-WO4-070,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b41,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-070-16,AB-WO4-070,FFPE-lung,c505128,50ng_ON,FFPE-lung_50ng_ON,,,,,DHT28,GTCGTTAC,Ri516-5A,NNNNNNNNNNNNTCCGTAGT,AB-WO4-070,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b42,Research,70T8B12M8B70T,,HsAlpha

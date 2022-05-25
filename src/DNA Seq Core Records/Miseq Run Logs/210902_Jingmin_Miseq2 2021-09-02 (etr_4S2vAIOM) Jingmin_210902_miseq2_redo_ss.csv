@@ -1,0 +1,28 @@
+[Header],,,,,,,,,,,
+IEMFileVersion,5,,,,,,,,,,
+Investigator Name,Jingming Jin,,,,,,,,,,
+Experiment Name,,,,,,,,,,,
+Date,9/2/21,,,,,,,,,,
+Workflow,SmallRNA,,,,,,,,,,
+Application,Small RNA,,,,,,,,,,
+Instrument Type,Miseq,,,,,,,,,,
+Assay,TruSeq Small RNA,,,,,,,,,,
+Description,,,,,,,,,,,
+Chemistry,Default,,,,,,,,,,
+,,,,,,,,,,,
+[Reads],,,,,,,,,,,
+13,,,,,,,,,,,
+13,,,,,,,,,,,
+[Settings],,,,,,,,,,,
+,,,,,,,,,,,
+[Data],,,,,,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,Sample_Project,Description,GenomeFolder,Contaminants,RNA,miRNA
+eyR351_pEY101_index40,,,,index40,CTCAGA,,yigit@neb.com,,NA,NA,NA
+eyR351_pEY102_index41,,,,index41,GACGAC,,yigit@neb.com,,NA,NA,NA
+eyR351_pEY103_index43,,,,index43,TACAGC,,yigit@neb.com,,NA,NA,NA
+eyR351_pEY105_index44,,,,index44,TATAAT,,yigit@neb.com,,NA,NA,NA
+eyR351_pEY106_index46,,,,index46,TCGGGA,,yigit@neb.com,,NA,NA,NA
+eyR351_pEY107_index47,,,,index47,TCGAAG,,yigit@neb.com,,NA,NA,NA
+eyR351_pEY108_index48,,,,index48,TCGGCA,,yigit@neb.com,,NA,NA,NA
+eyR351_pEY110_index37,,,,index37,CGGAAT,,yigit@neb.com,,NA,NA,NA
+eyR351_pEY114_index39,,,,index39,CTATAC,,yigit@neb.com,,NA,NA,NA

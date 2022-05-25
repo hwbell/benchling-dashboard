@@ -1,0 +1,50 @@
+[Header],,,,,,,,,
+IEMFileVersion,4,,,,,,,,
+Investigator Name,BSS,,,,,,,,
+Experiment Name,BSS_Exp98,,,,,,,,
+Date,3/12/21,,,,,,,,
+Workflow,GenerateFASTQ,,,,,,,,
+Application,FASTQ Only,,,,,,,,
+Assay,TruSeq HT,,,,,,,,
+Description,BSS_Exp98,,,,,,,,
+Chemistry,Amplicon,,,,,,,,
+,,,,,,,,,
+[Reads],,,,,,,,,
+76,,,,,,,,,
+76,,,,,,,,,
+,,,,,,,,,
+[Settings],,,,,,,,,
+ReverseComplement,0,,,,,,,,
+,,,,,,,,,
+[Data],,,,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Description
+100ng_NA12878_BufferNoKClBSAlargebatch_150mMKCl_4ulsEM_15mins_37degrees_15mins65degrees-1,,,A9,S723,CGCAACTA,,,,bsexton@neb.com
+100ng_NA12878_BufferNoKClBSAlargebatch_150mMKCl_4ulsEM_15mins_37degrees_15mins65degrees-2,,,B9,S707,CACAGACT,,,,bsexton@neb.com
+100ng_NA12878_BufferNoKClBSAlargebatch_150mMKCl_4ulsEM_20mins_37degrees_15mins65degrees-1,,,C9,S745,TGGAAGCA,,,,bsexton@neb.com
+100ng_NA12878_BufferNoKClBSAlargebatch_150mMKCl_4ulsEM_20mins_37degrees_15mins65degrees-2,,,D9,S746,CAATAGCC,,,,bsexton@neb.com
+100ng_NA12878_BufferNoKClBSAlargebatch_150mMKCl_4ulsEM_25mins_37degrees_15mins65degrees-1,,,E9,S778,CTCGAACA,,,,bsexton@neb.com
+100ng_NA12878_BufferNoKClBSAlargebatch_150mMKCl_4ulsEM_25mins_37degrees_15mins65degrees-2,,,F9,S781,GGCAAGTT,,,,bsexton@neb.com
+100ng_NA12878_StdFS-1,,,G9,S740,AGCTACCA,,,,bsexton@neb.com
+100ng_NA12878_StdFS-2,,,H9,S792,CAGCATAC,,,,bsexton@neb.com
+100ng_NA12878_Covaris-1,,,A10,S705,CGTATCTC,,,,bsexton@neb.com
+100ng_NA12878_Covaris-2,,,B10,S701,TTACGTGC,,,,bsexton@neb.com
+100ng_Hela_BufferNoKClBSAlargebatch_150mMKCl_4ulsEM_10mins_37degrees_15mins65degrees-1,,,C10,S754,AGCTAAGC,,,,bsexton@neb.com
+100ng_Hela_BufferNoKClBSAlargebatch_150mMKCl_4ulsEM_10mins_37degrees_15mins65degrees-2,,,D10,S798,AAGACACC,,,,bsexton@neb.com
+100ng_Hela_BufferNoKClBSAlargebatch_150mMKCl_4ulsEM_15mins_37degrees_15mins65degrees-1,,,E10,S751,CAACTCCA,,,,bsexton@neb.com
+100ng_Hela_BufferNoKClBSAlargebatch_150mMKCl_4ulsEM_15mins_37degrees_15mins65degrees-2,,,F10,S717,GATCTTGC,,,,bsexton@neb.com
+100ng_Hela_BufferNoKClBSAlargebatch_150mMKCl_4ulsEM_20mins_37degrees_15mins65degrees-1,,,G10,S765,CTTCACTG,,,,bsexton@neb.com
+100ng_Hela_BufferNoKClBSAlargebatch_150mMKCl_4ulsEM_20mins_37degrees_15mins65degrees-2,,,H10,S793,CTCGACTT,,,,bsexton@neb.com
+100ng_Hela_StdFS-1,,,A11,S719,GTACACCT,,,,bsexton@neb.com
+100ng_Hela_StdFS-2,,,B11,S744,CCAAGGTT,,,,bsexton@neb.com
+100ng_Hela_Covaris-1,,,C11,S785,GAACGGTT,,,,bsexton@neb.com
+100ng_Hela_Covaris-2,,,D11,S718,CCAGTTGA,,,,bsexton@neb.com
+100ng_Ecoli_BufferNoKClBSAlargebatch_150mMKCl_4ulsEM_20mins_37degrees_15mins65degrees-1,,,E11,S748,GTCATCGT,,,,bsexton@neb.com
+100ng_Ecoli_BufferNoKClBSAlargebatch_150mMKCl_4ulsEM_20mins_37degrees_15mins65degrees-2,,,F11,S768,CAATGCGA,,,,bsexton@neb.com
+100ng_Ecoli_BufferNoKClBSAlargebatch_150mMKCl_4ulsEM_25mins_37degrees_15mins65degrees-1,,,G11,S741,GGTTGAAC,,,,bsexton@neb.com
+100ng_Ecoli_BufferNoKClBSAlargebatch_150mMKCl_4ulsEM_25mins_37degrees_15mins65degrees-2,,,H11,S720,CTTCGGTT,,,,bsexton@neb.com
+100ng_Ecoli_BufferNoKClBSAlargebatch_150mMKCl_4ulsEM_30mins_37degrees_15mins65degrees-1,,,A12,S731,CGGCATTA,,,,bsexton@neb.com
+100ng_Ecoli_BufferNoKClBSAlargebatch_150mMKCl_4ulsEM_30mins_37degrees_15mins65degrees-2,,,B12,S789,CACGCAAT,,,,bsexton@neb.com
+100ng_Ecoli_StdFS-1,,,C12,S787,GGAATGTC,,,,bsexton@neb.com
+100ng_Ecoli_StdFS-2,,,D12,S703,TGGTGAAG,,,,bsexton@neb.com
+100ng_Ecoli_Covaris-1,,,E12,S776,GGACATCA,,,,bsexton@neb.com
+100ng_Ecoli_Covaris-2,,,F12,S782,GGTGTACA,,,,bsexton@neb.com

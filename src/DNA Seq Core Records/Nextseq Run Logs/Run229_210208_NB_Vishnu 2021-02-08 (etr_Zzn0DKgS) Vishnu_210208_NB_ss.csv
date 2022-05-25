@@ -1,0 +1,30 @@
+[Header],,,,,,,
+IEMFileVersion,5,,,,,,
+Investigator Name,Vishnu,,,,,,
+Experiment Name,GM12878_lowcell numbers_NicEseq,,,,,,
+Date,2/8/21,,,,,,
+Workflow,GenerateFASTQ,,,,,,
+Application,FASTQ Only,,,,,,
+Instrument Type,Miseq,,,,,,
+Assay,TruSeq LT,,,,,,
+Description,,,,,,,
+Chemistry,Default,,,,,,
+,,,,,,,
+[Reads],,,,,,,
+75,,,,,,,
+75,,,,,,,
+,,,,,,,
+[Settings],,,,,,,
+,,,,,,,
+[Data],,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,Sample_Project,Description
+1,,,,Index_1,ATCACG,,vus@neb.com
+3,,,,Index_3,TTAGGC,,vus@neb.com
+5,,,,Index_5,ACAGTG,,vus@neb.com
+7,,,,Index_7,CAGATC,,vus@neb.com
+9,,,,Index_9,GATCAG,,vus@neb.com
+11,,,,Index_11,GGCTAC,,vus@neb.com
+25,,,,Index_25,ACTGAT,,vus@neb.com
+27,,,,Index_27,ATTCCT,,vus@neb.com
+29,,,,Index_29,CAACTA,,vus@neb.com
+33,,,,Index_33,CAGGCG,,vus@neb.com

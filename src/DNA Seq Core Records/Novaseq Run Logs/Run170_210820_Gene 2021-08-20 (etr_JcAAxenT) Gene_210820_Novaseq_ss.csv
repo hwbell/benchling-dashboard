@@ -1,0 +1,38 @@
+[Header],,,,,,,,,
+IEMFileVersion,4,,,,,,,,
+Investigator Name,,Gene (Hang Gyeong) Chin,,,,,,,
+Experiment Name,,SpikeIn_enzyme lot test,,,,,,,
+Date,,8/20/21,,,,,,,
+Workflow,GenerateFASTQ,,,,,,,,
+Application,FASTQ Only,,,,,,,,
+Assay,TruSeq HT,,,,,,,,
+Description,,,,,,,,,
+Chemistry,Amplicon,,,,,,,,
+,,,,,,,,,
+[Reads],,,,,,,,,
+75,,,,,,,,,
+75,,,,,,,,,
+[Settings],,,,,,,,,
+,,,,,,,,,
+[Data],,,,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Description
+50K_1_500pg_D1,50K_1_500pg_D1,,C4,S735,GTCGTTAC,S554,GCTTAGCT,,chinh@neb.com
+50K_1_500pg_D2,50K_1_500pg_D2,,D4,S727,GTAACCGA,S598,GGTGTCTT,,chinh@neb.com
+50K_1_1ng_D1,50K_1_1ng_D1,,E4,S742,GAATCCGT,S551,TGGAGTTG,,chinh@neb.com
+50K_1_1ng_D2,50K_1_1ng_D2,,F4,S795,CATGAGCA,S517,GCAAGATC,,chinh@neb.com
+50K_1_1.5ng_D1,50K_1_1.5ng_D1,,G4,S749,CTTAGGAC,S565,CAGTGAAG,,chinh@neb.com
+50K_1_1.5ng_D2,50K_1_1.5ng_D2,,H4,S773,ATCTGACC,S593,AAGTCGAG,,chinh@neb.com
+50K_1_2ng_D1,50K_1_2ng_D1,,B5,S752,AGGATAGC,S544,AACCTTGG,,chinh@neb.com
+50K_1_2ng_D2,50K_1_2ng_D2,,C5,S704,GGAGGAAT,S585,AACCGTTC,,chinh@neb.com
+50K_1_NoDNA_D1,50K_1_NoDNA_D1,,D5,S715,GACGTCAT,S518,TCAACTGG,,chinh@neb.com
+50K_1_NoDNA_D2,50K_1_NoDNA_D2,,E5,S753,CCGCTTAA,S548,ACGATGAC,,chinh@neb.com
+50K_4_500pg_D1,50K_4_500pg_D1,,F5,S758,GACGAACT,S568,TCGCATTG,,chinh@neb.com
+50K_4_500pg_D2,50K_4_500pg_D2,,G5,S784,TCCACGTT,S541,GTTCAACC,,chinh@neb.com
+50K_4_1ng_D1,50K_4_1ng_D1,,H5,S714,AACCAGAG,S520,AACCGAAG,,chinh@neb.com
+50K_4_1ng_D2,50K_4_1ng_D2,,B6,S779,CCTTCCAT,S589,ATTGCGTG,,chinh@neb.com
+50K_4_1.5ng_D1,50K_4_1.5ng_D1,,C6,S788,AGGAACAC,S587,GACATTCC,,chinh@neb.com
+50K_4_1.5ng_D2,50K_4_1.5ng_D2,,D6,S739,CTTACAGC,S503,CTTCACCA,,chinh@neb.com
+50K_4_2ng_D1,50K_4_2ng_D1,,E6,S737,TACCTGCA,S576,TGATGTCC,,chinh@neb.com
+50K_4_2ng_D2,50K_4_2ng_D2,,F6,S728,AGACGCTA,S582,TGTACACC,,chinh@neb.com
+50K_4_NoDNA_D1,50K_4_NoDNA_D1,,G6,S780,CAACACAG,S530,TGGCTATC,,chinh@neb.com
+50K_4_NoDNA_D2,50K_4_NoDNA_D2,,H6,S761,GTACCACA,S533,TGTTGTGG,,chinh@neb.com

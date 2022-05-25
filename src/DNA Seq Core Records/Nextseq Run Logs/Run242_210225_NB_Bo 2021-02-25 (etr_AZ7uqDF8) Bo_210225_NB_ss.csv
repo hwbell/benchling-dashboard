@@ -1,0 +1,42 @@
+ [Header],,,,,,,,,
+IEMFileVersion,4,,,,,,,,
+Investigator Name,Bo Yan,,,,,,,,
+Experiment Name,,,,,,,,,
+Date,2/25/21,,,,,,,,
+Workflow,GenerateFASTQ,,,,,,,,
+Application,FASTQ Only,,,,,,,,
+Assay,,,,,,,,,
+Description,75bp single-end nextseq high output,,,,,,,,
+Chemistry,Amplicon,,,,,,,,
+,,,,,,,,,
+[Reads],,,,,,,,,
+75,,,,,,,,,
+,,,,,,,,,
+[Settings],,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+[Data],,,,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Description
+E12,E12,E6440,E12,S776,GGACATCA,S537,TGCAGGTA,BO,yan@neb.com
+F1,F1,E6440,F1,S774,CAGGTTCA,S506,GGCGTTAT,BO,yan@neb.com
+F2,F2,E6440,F2,S760,GAACGAAG,S511,GGTGATTC,BO,yan@neb.com
+F3,F3,E6440,F3,S710,CTCAGAAG,S581,AACTTGCC,BO,yan@neb.com
+F4,F4,E6440,F4,S795,CATGAGCA,S517,GCAAGATC,BO,yan@neb.com
+F5,F5,E6440,F5,S758,GACGAACT,S568,TCGCATTG,BO,yan@neb.com
+F6,F6,E6440,F6,S728,AGACGCTA,S582,TGTACACC,BO,yan@neb.com
+F7,F7,E6440,F7,S706,ATAACGCC,S574,TGAACCTG,BO,yan@neb.com
+F8,F8,E6440,F8,S711,GAATCACC,S560,GAACGAAG,BO,yan@neb.com
+F11,F11,E6440,F11,S768,CAATGCGA,S558,GACGAACT,BO,yan@neb.com
+F12,F12,E6440,F12,S782,GGTGTACA,S528,AGACGCTA,BO,yan@neb.com
+Hela_AccSeq,Hela_AccSeq,E7600,NA,i712,AGCGATAG,i507,ACGTCCTG,AccSeq,yan@neb.com
+enrich,enrich,E7600,NA,i707,CTGAAGCT,i503,AGGATAGG,weiwei,yan@neb.com
+control,control,E7600,NA,i708,TAATGCGC,i504,TCAGAGCC,weiwei,yan@neb.com
+azido_protoscript,azido_protoscript,E6440,B4,S797,AGACCTTG,S501,GCACGTAA,weiwei,yan@neb.com
+gtp_protoscript,gtp_protoscript,E6440,B5,S752,AGGATAGC,S544,AACCTTGG,weiwei,yan@neb.com
+azido_superscript,azido_superscript,E6440,B1,S713,TCGTCTGA,S586,TCAAGGAC,weiwei,yan@neb.com
+gtp_superscript,gtp_superscript,E6440,B2,S777,AGCCTATC,S526,GTTACGCA,weiwei,yan@neb.com
+6h_adapter,6h_adapter,E6440,C1,S736,TTCCAGGT,S543,AAGCACTG,weiwei,yan@neb.com
+6h,6h,E6440,C2,S772,TCATCTCC,S567,CTAGCAAG,weiwei,yan@neb.com
+1h,1h,E6440,C3,S757,GAGAGTAC,S545,TGCTTCCA,weiwei,yan@neb.com
+uncut_adapter,uncut_adapter,E6440,C4,S735,GTCGTTAC,S554,GCTTAGCT,weiwei,yan@neb.com
+uncut,uncut,E6440,C5,S704,GGAGGAAT,S585,AACCGTTC,weiwei,yan@neb.com

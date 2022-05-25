@@ -1,0 +1,32 @@
+[Header],,,,,,,,,,,,,,,,,,,,,,,,,
+IEMFileVersion,5,,,,,,,,,,,,,,,,,,,,,,,,
+Investigator Name,BD,,,,,,,,,,,,,,,,,,,,,,,,
+Experiment Name,AB-WO4-093,,,,,,,,,,,,,,,,,,,,,,,,
+Date,4/2/21,,,,,,,,,,,,,,,,,,,,,,,,
+Workflow,GenerateFASTQ,,,,,,,,,,,,,,,,,,,,,,,,
+Application,FASTQ Only,,,,,,,,,,,,,,,,,,,,,,,,
+Assay,TruSeq HT,,,,,,,,,,,,,,,,,,,,,,,,
+Description,,,,,,,,,,,,,,,,,,,,,,,,,
+Chemistry,amplicon,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Reads],,,,,,,,,,,,,,,,,,,,,,,,,
+70,,,,,,,,,,,,,,,,,,,,,,,,,
+70,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Settings],,,,,,,,,,,,,,,,,,,,,,,,,
+ReverseComplement,0,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Data],,,,,,,,,,,,,,,,,,,,,,,,,
+Sample_ID,User,Sample_Name,Sample_Lot,Input_Amount,Condition,Sample_Plate,Sample_Well,Inline_ID,Index0,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Description,Library_ID,Library_Type,Sample_Type,Normal_Library_IDs,Target_Set,Genome,Analysis_Type,Read_Structure,Read_Length,Product
+AB-WO4-093-11,AB-WO4-093,HapMap24,x9-001a,30ng,ON hyb SOP,,,,,DHT79,GCCTTAAC,Ri523-20210228,NNNNNNNNNNNNACACTCAG,AB-WO4-093,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-093-12,AB-WO4-093,HapMap24,x9-001a,30ng,ON hyb SOP,,,,,DHT80,GTAAGGTG,Ri523-20210228,NNNNNNNNNNNNACACTCAG,AB-WO4-093,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-093-13,AB-WO4-093,HapMap24,x9-001a,30ng,ON hyb Baits 8µL,,,,,DHT81,AGCTACCA,Ri523-20210228,NNNNNNNNNNNNACACTCAG,AB-WO4-093,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-093-14,AB-WO4-093,HapMap24,x9-001a,30ng,ON hyb Baits 8µL,,,,,DHT82,CTTCACTG,Ri523-20210228,NNNNNNNNNNNNACACTCAG,AB-WO4-093,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-093-15,AB-WO4-093,HapMap24,x9-001a,30ng,ON hyb Baits 12µL,,,,,DHT83,GGTTGAAC,Ri523-20210228,NNNNNNNNNNNNACACTCAG,AB-WO4-093,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-093-16,AB-WO4-093,HapMap24,x9-001a,30ng,ON hyb Baits 12µL,,,,,DHT84,GATAGCCA,Ri523-20210228,NNNNNNNNNNNNACACTCAG,AB-WO4-093,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-093-17,AB-WO4-093,HapMap24,x9-001a,30ng,ON Hyb 120µL,,,,,DHT85,TACTCCAG,Ri523-20210228,NNNNNNNNNNNNACACTCAG,AB-WO4-093,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-093-18,AB-WO4-093,HapMap24,x9-001a,30ng,ON Hyb 120µL,,,,,DHT86,GGAAGAGA,Ri523-20210228,NNNNNNNNNNNNACACTCAG,AB-WO4-093,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-093-19,AB-WO4-093,HapMap25,x9-001a,30ng,ON Hyb 120µL Baits 12µL,,,,,DHT87,GCGTTAGA,Ri523-20210228,NNNNNNNNNNNNACACTCAG,AB-WO4-093,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-093-20,AB-WO4-093,HapMap26,x9-001a,30ng,ON Hyb 120µL Baits 12µL,,,,,DHT88,ATCTGACC,Ri523-20210228,NNNNNNNNNNNNACACTCAG,AB-WO4-093,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha

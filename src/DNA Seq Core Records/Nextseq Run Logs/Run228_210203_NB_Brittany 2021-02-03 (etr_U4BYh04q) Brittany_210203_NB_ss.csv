@@ -1,0 +1,55 @@
+[Header],,,,,,,
+IEMFileVersion,4,,,,,,
+Investigator Name,BSS,,,,,,
+Experiment Name,Exp84_85_BSS_020321,,,,,,
+Date,2/3/21,,,,,,
+Workflow,GenerateFASTQ,,,,,,
+Application,FASTQ Only,,,,,,
+Assay,TruSeq HT,,,,,,
+Description,BSS_Exp59_Exp60_61020,,,,,,
+Chemistry,Amplicon,,,,,,
+,,,,,,,
+[Reads],,,,,,,
+76,,,,,,,
+76,,,,,,,
+,,,,,,,
+[Settings],,,,,,,
+ReverseComplement,0,,,,,,
+,,,,,,,
+[Data],,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,Sample_Project,Description
+FFPE_Lot2Buffer_Lot3AM8_0.08largebatch120820_Lot4Hifitaqligase_20mins_37degrees-1,,,,P10-A10,CGTATCTC,,bsexton@neb.com
+FFPE_Lot2Buffer_Lot3AM8_0.08largebatch120820_Lot4Hifitaqligase_20mins_37degrees-2,,,,P22-B10,TTACGTGC,,bsexton@neb.com
+FFPE_BufferNoKClBSAlargebatch_Lot3AM8_0.08largebatch120820P1_Lot4Hifitaqligase_20mins_37degrees-1,,,,P34-C10,AGCTAAGC,,bsexton@neb.com
+FFPE_BufferNoKClBSAlargebatch_Lot3AM8_0.08largebatch120820P1_Lot4Hifitaqligase_10mins_30degrees-1,,,,P46-D10,AAGACACC,,bsexton@neb.com
+FFPE_BufferNoKClBSAlargebatch_Lot3AM8_0.08largebatch120820P1_Lot4Hifitaqligase_10mins_30degrees-2,,,,P58-E10,CAACTCCA,,bsexton@neb.com
+FFPE_BufferNoKClBSAlargebatch_Lot3AM8_0.08largebatch120820P1_Lot4Hifitaqligase_15mins_30degrees-1,,,,P70-F10,GATCTTGC,,bsexton@neb.com
+FFPE_BufferNoKClBSAlargebatch_Lot3AM8_0.08largebatch120820P1_Lot4Hifitaqligase_15mins_30degrees-2,,,,P82-G10,CTTCACTG,,bsexton@neb.com
+FFPE_BufferNoKClBSAlargebatch_Lot3AM8_0.08largebatch120820P1_Lot4Hifitaqligase_20mins_30degrees-1,,,,P94-H10,CTCGACTT,,bsexton@neb.com
+FFPE_BufferNoKClBSAlargebatch_Lot3AM8_0.08largebatch120820P1_Lot4Hifitaqligase_20mins_30degrees-2,,,,P11-A11,GTACACCT,,bsexton@neb.com
+FFPE_BufferNoKClBSAlargebatch_Lot3AM8_0.08largebatch120820P1_Lot4Hifitaqligase_15mins_30degrees_20mins65degrees-1,,,,P23-B11,CCAAGGTT,,bsexton@neb.com
+FFPE_BufferNoKClBSAlargebatch_Lot3AM8_0.08largebatch120820P1_Lot4Hifitaqligase_15mins_30degrees_20mins65degrees-2,,,,P35-C11,GAACGGTT,,bsexton@neb.com
+FFPE_BufferNoKClBSAlargebatch_Lot3AM8_0.08largebatch120820P1_Lot4Hifitaqligase_15mins_30degrees_15mins65degrees-1,,,,P47-D11,CCAGTTGA,,bsexton@neb.com
+FFPE_BufferNoKClBSAlargebatch_Lot3AM8_0.08largebatch120820P1_Lot4Hifitaqligase_15mins_30degrees_15mins65degrees-2,,,,P59-E11,GTCATCGT,,bsexton@neb.com
+FFPE_BufferNoKClBSAlargebatch_Lot3AM8_0.08largebatch120820P1_Lot4Hifitaqligase_15mins_30degrees_10mins65degrees-1,,,,P71-F11,CAATGCGA,,bsexton@neb.com
+FFPE_BufferNoKClBSAlargebatch_Lot3AM8_0.08largebatch120820P1_Lot4Hifitaqligase_15mins_30degrees_10mins65degrees-2,,,,P83-G11,GGTTGAAC,,bsexton@neb.com
+FFPE_Covaris-1,,,,P95-H11,CTTCGGTT,,bsexton@neb.com
+NA12878_Lot2Buffer_Lot3AM8_0.08largebatch120820_Lot4Hifitaqligase_20mins_37degrees-1,,,,P12-A12,CGGCATTA,,bsexton@neb.com
+NA12878_BufferNoKClBSAlargebatch_Lot3AM8_0.08largebatch120820P1_Lot4Hifitaqligase_20mins_30degrees_30mins65degrees-1,,,,P24-B12,CACGCAAT,,bsexton@neb.com
+NA12878_BufferNoKClBSAlargebatch_Lot3AM8_0.08largebatch120820P1_Lot4Hifitaqligase_20mins_30degrees_30mins65degrees-2,,,,P36-C12,GGAATGTC,,bsexton@neb.com
+NA12878_BufferNoKClBSAlargebatch_Lot3AM8_0.08largebatch120820P1_Lot4Hifitaqligase_20mins_30degrees_20mins65degrees-1,,,,P48-D12,TGGTGAAG,,bsexton@neb.com
+NA12878_BufferNoKClBSAlargebatch_Lot3AM8_0.08largebatch120820P1_Lot4Hifitaqligase_20mins_30degrees_20mins65degrees-2,,,,P60-E12,GGACATCA,,bsexton@neb.com
+NA12878_BufferNoKClBSAlargebatch_Lot3AM8_0.08largebatch120820P1_Lot4Hifitaqligase_20mins_30degrees_15mins65degrees-1,,,,P72-F12,GGTGTACA,,bsexton@neb.com
+NA12878_BufferNoKClBSAlargebatch_Lot3AM8_0.08largebatch120820P1_Lot4Hifitaqligase_20mins_30degrees_15mins65degrees-2,,,,P84-G12,GATAGCCA,,bsexton@neb.com
+NA12878_BufferNoKClBSAlargebatch_Lot3AM8_0.08largebatch120820P1_Lot4Hifitaqligase_20mins_30degrees_10mins65degrees-1,,,,P96-H12,CCACAACA,,bsexton@neb.com
+NA12878_BufferNoKClBSAlargebatch_Lot3AM8_0.08largebatch120820P1_Lot4Hifitaqligase_20mins_30degrees_10mins65degrees-2,,,,P33-C9,TGGAAGCA,,bsexton@neb.com
+NA12878_BufferNoKClBSAlargebatch_Lot3AM8_0.08largebatch120820P1_Lot4Hifitaqligase_20mins_30degrees_30mins65degrees_4deg1hr-1,,,,P45-D9,CAATAGCC,,bsexton@neb.com
+NA12878_BufferNoKClBSAlargebatch_Lot3AM8_0.08largebatch120820P1_Lot4Hifitaqligase_20mins_30degrees_30mins65degrees_4deg1hr-2,,,,P57-E9,CTCGAACA,,bsexton@neb.com
+NA12878_BufferNoKClBSAlargebatch_Lot3AM8_0.08largebatch120820P1_Lot4Hifitaqligase_20mins_30degrees_20mins65degrees_4deg1hr-1,,,,P69-F9,GGCAAGTT,,bsexton@neb.com
+NA12878_BufferNoKClBSAlargebatch_Lot3AM8_0.08largebatch120820P1_Lot4Hifitaqligase_20mins_30degrees_20mins65degrees_4deg1hr-2,,,,P81-G9,AGCTACCA,,bsexton@neb.com
+NA12878_BufferNoKClBSAlargebatch_Lot3AM8_0.08largebatch120820P1_Lot4Hifitaqligase_20mins_30degrees_15mins65degrees_4deg1hr-1,,,,P93-H9,CAGCATAC,,bsexton@neb.com
+NA12878_BufferNoKClBSAlargebatch_Lot3AM8_0.08largebatch120820P1_Lot4Hifitaqligase_20mins_30degrees_15mins65degrees_4deg1hr-2,,,,P52-E4,GAATCCGT,,bsexton@neb.com
+NA12878_BufferNoKClBSAlargebatch_Lot3AM8_0.08largebatch120820P1_Lot4Hifitaqligase_20mins_30degrees_10mins65degrees_4deg1hr-1,,,,P64-F4,CATGAGCA,,bsexton@neb.com
+NA12878_BufferNoKClBSAlargebatch_Lot3AM8_0.08largebatch120820P1_Lot4Hifitaqligase_20mins_30degrees_10mins65degrees_4deg1hr-2,,,,P76-G4,CTTAGGAC,,bsexton@neb.com
+NA12878_Covaris-1,,,,P88-H4,ATCTGACC,,bsexton@neb.com
+,,,,,,,

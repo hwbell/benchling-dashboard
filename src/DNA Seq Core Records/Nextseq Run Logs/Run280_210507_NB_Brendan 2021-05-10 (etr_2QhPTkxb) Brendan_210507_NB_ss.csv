@@ -1,0 +1,34 @@
+﻿[Header],,,,,,,,,,,,,,,,,,,,,,,,,
+IEMFileVersion,5,,,,,,,,,,,,,,,,,,,,,,,,
+Investigator Name,BD,,,,,,,,,,,,,,,,,,,,,,,,
+Experiment Name,AB-WO4-108,,,,,,,,,,,,,,,,,,,,,,,,
+Date,5/7/21,,,,,,,,,,,,,,,,,,,,,,,,
+Workflow,GenerateFASTQ,,,,,,,,,,,,,,,,,,,,,,,,
+Application,FASTQ Only,,,,,,,,,,,,,,,,,,,,,,,,
+Assay,TruSeq HT,,,,,,,,,,,,,,,,,,,,,,,,
+Description,,,,,,,,,,,,,,,,,,,,,,,,,
+Chemistry,amplicon,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Reads],,,,,,,,,,,,,,,,,,,,,,,,,
+70,,,,,,,,,,,,,,,,,,,,,,,,,
+70,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Settings],,,,,,,,,,,,,,,,,,,,,,,,,
+ReverseComplement,0,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Data],,,,,,,,,,,,,,,,,,,,,,,,,
+Sample_ID,User,Sample_Name,Sample_Lot,Input_Amount,Condition,Sample_Plate,Sample_Well,Inline_ID,Index0,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Description,Library_ID,Library_Type,Sample_Type,Normal_Library_IDs,Target_Set,Genome,Analysis_Type,Read_Structure,Read_Length,Product
+AB-WO4-108-01,AB-WO4-108,HapMap24,x9-001b,30ng,SOP,,,,,DHT13,TCGTCTGA,Ri513-20210421,NNNNNNNNNNNNTTGTTCCG,AB-WO4-108,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-108-02,AB-WO4-108,HapMap24,x9-001b,30ng,SOP,,,,,DHT14,AGCCTATC,Ri514-20210421,NNNNNNNNNNNNAGCTTACC,AB-WO4-108,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-108-03,AB-WO4-108,HapMap24,x9-001b,30ng,SOP,,,,,DHT15,CTGTACCA,Ri515-20210421,NNNNNNNNNNNNATGCCACA,AB-WO4-108,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-108-04,AB-WO4-108,HapMap24,x9-001b,30ng,USER2 in PCR,,,,,DHT16,AGACCTTG,Ri516-20210421,NNNNNNNNNNNNTCCGTAGT,AB-WO4-108,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-108-05,AB-WO4-108,HapMap24,x9-001b,30ng,USER2 in PCR,,,,,DHT17,AGGATAGC,Ri517-20210421,NNNNNNNNNNNNGTGTAACC,AB-WO4-108,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-108-06,AB-WO4-108,HapMap24,x9-001b,30ng,USER2 in PCR,,,,,DHT18,CCTTCCAT,Ri518-20210421,NNNNNNNNNNNNTGTGTGCT,AB-WO4-108,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-108-07,AB-WO4-108,HapMap24,x9-001b,30ng,LinAmp 62C,,,,,DHT19,GTCCTTGA,Ri519-20210421,NNNNNNNNNNNNACCGAATC,AB-WO4-108,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-108-08,AB-WO4-108,HapMap24,x9-001b,30ng,LinAmp 62C,,,,,DHT20,TGCGTAAC,Ri520-20210421,NNNNNNNNNNNNACACCGTA,AB-WO4-108,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-108-09,AB-WO4-108,HapMap24,x9-001b,30ng,LinAmp 62C,,,,,DHT21,CACAGACT,Ri521-20210421,NNNNNNNNNNNNAACACGAC,AB-WO4-108,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-108-10,AB-WO4-108,HapMap24,x9-001b,30ng,LinAmp 62C + USER2 in PCR,,,,,DHT22,TTACGTGC,Ri522-20210421,NNNNNNNNNNNNGTGGTCTT,AB-WO4-108,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-108-11,AB-WO4-108,HapMap24,x9-001b,30ng,LinAmp 62C + USER2 in PCR,,,,,DHT23,CCAAGGTT,Ri523-20210421,NNNNNNNNNNNNACACTCAG,AB-WO4-108,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-108-12,AB-WO4-108,HapMap24,x9-001b,30ng,LinAmp 62C + USER2 in PCR,,,,,DHT24,CACGCAAT,Ri524-20210421,NNNNNNNNNNNNGCGTTATG,AB-WO4-108,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha

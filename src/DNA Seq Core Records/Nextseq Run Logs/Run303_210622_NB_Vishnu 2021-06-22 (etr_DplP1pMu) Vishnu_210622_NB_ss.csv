@@ -1,0 +1,27 @@
+[Header],,,,,,,,,
+IEMFileVersion,4,,,,,,,,
+Investigator Name,Vishnu,,,,,,,,
+Experiment Name,HeLa,,,,,,,,
+Date,6/22/21,,,,,,,,
+Workflow,GenerateFASTQ,,,,,,,,
+Application,FASTQ Only,,,,,,,,
+Assay,TruSeq HT,,,,,,,,
+Description,,,,,,,,,
+Chemistry,Amplicon,,,,,,,,
+,,,,,,,,,
+[Reads],,,,,,,,,
+75,,,,,,,,,
+75,,,,,,,,,
+,,,,,,,,,
+[Settings],,,,,,,,,
+,,,,,,,,,
+[Data],,,,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Description
+FLAG_H4K20me1_1,,,,Index25,ACTGATAT,Universal,AGATCTCG,,vus@neb.com
+FLAG_H4K20me1_2,,,,Index27,ATTCCTTT,Universal,AGATCTCG,,vus@neb.com
+PARP_H4K20me1_1,,,,Index33,CAGGCGAT,Universal,AGATCTCG,,vus@neb.com
+PARP_H4K20me1_2,,,,Index42,TAATCGAT,Universal,AGATCTCG,,vus@neb.com
+CM1_1,,,,S772,TCATCTCC,S567,CTAGCAAG,,vus@neb.com
+CM1_2,,,,S725,CCAGTATC,S538,ATCTCGCT,,vus@neb.com
+CM3_1,,,,S755,TTGCGAGA,S566,GTGCCATA,,vus@neb.com
+CM3_2,,,,S760,GAACGAAG,S511,GGTGATTC,,vus@neb.com

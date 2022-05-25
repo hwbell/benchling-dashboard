@@ -1,0 +1,38 @@
+[Header],,,,,,,,,,,,,,,,,,,,,,,,,
+IEMFileVersion,5,,,,,,,,,,,,,,,,,,,,,,,,
+Investigator Name,BD,,,,,,,,,,,,,,,,,,,,,,,,
+Experiment Name,AB-WO4-Bst-day-090,,,,,,,,,,,,,,,,,,,,,,,,
+Date,9/8/21,,,,,,,,,,,,,,,,,,,,,,,,
+Workflow,GenerateFASTQ,,,,,,,,,,,,,,,,,,,,,,,,
+Application,FASTQ Only,,,,,,,,,,,,,,,,,,,,,,,,
+Assay,TruSeq HT,,,,,,,,,,,,,,,,,,,,,,,,
+Description,,,,,,,,,,,,,,,,,,,,,,,,,
+Chemistry,amplicon,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Reads],,,,,,,,,,,,,,,,,,,,,,,,,
+75,,,,,,,,,,,,,,,,,,,,,,,,,
+75,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Settings],,,,,,,,,,,,,,,,,,,,,,,,,
+ReverseComplement,0,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Data],,,,,,,,,,,,,,,,,,,,,,,,,
+Sample_ID,User,Sample_Name,Sample_Lot,Input_Amount,Condition,Sample_Plate,Sample_Well,Inline_ID,Index0,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Description,Library_ID,Library_Type,Sample_Type,Normal_Library_IDs,Target_Set,Genome,Analysis_Type,Read_Structure,Read_Length,Product
+AB-WO4-Bst-day-090-01,AB-WO4-Bst-day-090,HapMap24,x9-001c,15ng,Separate,,,,,DHT77,TCCACGTT,Ri514-20210603,NNNNNNNNNNNNAGCTTACC,AB-WO4-Bst-day-090,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-Bst-day-090-02,AB-WO4-Bst-day-090,HapMap24,x9-001c,15ng,Separate,,,,,DHT78,CAACACAG,Ri514-20210603,NNNNNNNNNNNNAGCTTACC,AB-WO4-Bst-day-090,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-Bst-day-090-03,AB-WO4-Bst-day-090,HapMap24,x9-001c,15ng,NickT MM -20C,,,,,DHT79,GCCTTAAC,Ri514-20210603,NNNNNNNNNNNNAGCTTACC,AB-WO4-Bst-day-090,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-Bst-day-090-04,AB-WO4-Bst-day-090,HapMap24,x9-001c,15ng,NickT MM -20C,,,,,DHT80,GTAAGGTG,Ri514-20210603,NNNNNNNNNNNNAGCTTACC,AB-WO4-Bst-day-090,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-Bst-day-090-05,AB-WO4-Bst-day-090,HapMap24,x9-001c,15ng,NickT MM 4C,,,,,DHT81,AGCTACCA,Ri514-20210603,NNNNNNNNNNNNAGCTTACC,AB-WO4-Bst-day-090,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-Bst-day-090-06,AB-WO4-Bst-day-090,HapMap24,x9-001c,15ng,NickT MM 4C,,,,,DHT82,CTTCACTG,Ri514-20210603,NNNNNNNNNNNNAGCTTACC,AB-WO4-Bst-day-090,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-Bst-day-090-07,AB-WO4-Bst-day-090,HapMap24,x9-001c,100ng,Separate,,,,,DHT83,GGTTGAAC,Ri514-20210603,NNNNNNNNNNNNAGCTTACC,AB-WO4-Bst-day-090,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-Bst-day-090-08,AB-WO4-Bst-day-090,HapMap24,x9-001c,100ng,Separate,,,,,DHT84,GATAGCCA,Ri514-20210603,NNNNNNNNNNNNAGCTTACC,AB-WO4-Bst-day-090,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-Bst-day-090-09,AB-WO4-Bst-day-090,HapMap24,x9-001c,100ng,NickT MM -20C,,,,,DHT85,TACTCCAG,Ri514-20210603,NNNNNNNNNNNNAGCTTACC,AB-WO4-Bst-day-090,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-Bst-day-090-10,AB-WO4-Bst-day-090,HapMap24,x9-001c,100ng,NickT MM -20C,,,,,DHT86,GGAAGAGA,Ri514-20210603,NNNNNNNNNNNNAGCTTACC,AB-WO4-Bst-day-090,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-Bst-day-090-11,AB-WO4-Bst-day-090,HapMap24,x9-001c,100ng,NickT MM 4C,,,,,DHT87,GCGTTAGA,Ri514-20210603,NNNNNNNNNNNNAGCTTACC,AB-WO4-Bst-day-090,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-Bst-day-090-12,AB-WO4-Bst-day-090,HapMap24,x9-001c,100ng,NickT MM 4C,,,,,DHT88,ATCTGACC,Ri514-20210603,NNNNNNNNNNNNAGCTTACC,AB-WO4-Bst-day-090,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-Bst-day-090-13,AB-WO4-Bst-day-090,HapMap24,x9-001c,15ng,NickT MM 20210301 Day 147,,,,,DHT89,AACCAGAG,Ri514-20210603,NNNNNNNNNNNNAGCTTACC,AB-WO4-Bst-day-090,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-Bst-day-090-14,AB-WO4-Bst-day-090,HapMap24,x9-001c,15ng,NickT MM 20210301 Day 147,,,,,DHT90,GTACCACA,Ri514-20210603,NNNNNNNNNNNNAGCTTACC,AB-WO4-Bst-day-090,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-Bst-day-090-15,AB-WO4-Bst-day-090,HapMap24,x9-001c,100ng,NickT MM 20210301 Day 147,,,,,DHT91,GGTATAGG,Ri514-20210603,NNNNNNNNNNNNAGCTTACC,AB-WO4-Bst-day-090,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-Bst-day-090-16,AB-WO4-Bst-day-090,HapMap24,x9-001c,100ng,NickT MM 20210301 Day 147,,,,,DHT92,CGAGAGAA,Ri514-20210603,NNNNNNNNNNNNAGCTTACC,AB-WO4-Bst-day-090,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha

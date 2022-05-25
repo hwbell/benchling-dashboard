@@ -1,0 +1,26 @@
+[Header],,,,,,,
+IEMFileVersion,5,,,,,,
+Investigator Name,Madalee Wulf,,,,,,
+Experiment Name,MW-VI-450,,,,,,
+Date,6/15/21,,,,,,
+Workflow,GenerateFASTQ,,,,,,
+Application,FASTQ Only,,,,,,
+Instrument Type,Miseq,,,,,,
+Assay,TruSeq LT,,,,,,
+Description,,,,,,,
+Chemistry,Default,,,,,,
+,,,,,,,
+[Reads],,,,,,,
+50,,,,,,,
+,,,,,,,
+,,,,,,,
+[Settings],,,,,,,
+,,,,,,,
+[Data],,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,Sample_Project,Description
+Cap_mirxplore_0.5pg_450_SMART_A,,,,Index_1,ATTACTCG,,mwulf@neb.com
+Cap_mirxplore_0.5pg_450_SMART_B,,,,Index_2,TCCGGAGA,,mwulf@neb.com
+Cap_mirxplore_0.5pg_450_SMART_C,,,,Index_3,CGCTCATT,,mwulf@neb.com
+Uncap_mirxplore_0.5pg_450_SMART_A,,,,Index_4,GAGATTCC,,mwulf@neb.com
+Uncap_mirxplore_0.5pg_450_SMART_B,,,,Index_5,ATTCAGAA,,mwulf@neb.com
+Uncap_mirxplore_0.5pg_450_SMART_C,,,,Index_6,GAATTCGT,,mwulf@neb.com

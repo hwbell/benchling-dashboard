@@ -1,0 +1,22 @@
+[Header],,,,,,,
+IEMFileVersion,5,,,,,,
+Investigator Name,Sean Maguire,,,,,,
+Experiment Name,Sequencing Vaccine Discards,,,,,,
+Date,4/5/21,,,,,,
+Workflow,GenerateFASTQ,,,,,,
+Application,FASTQ Only,,,,,,
+Instrument Type,Miseq,,,,,,
+Assay,TruSeq LT,,,,,,
+Description,,,,,,,
+Chemistry,Default,,,,,,
+,,,,,,,
+[Reads],,,,,,,
+75,,,,,,,
+75,,,,,,,
+,,,,,,,
+[Settings],,,,,,,
+,,,,,,,
+[Data],,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,Sample_Project,Description
+Pfizer,,,,Index_18,GTCCGC,,smaguire@neb.com
+Moderna,,,,Index_25,ACTGAT,,smaguire@neb.com

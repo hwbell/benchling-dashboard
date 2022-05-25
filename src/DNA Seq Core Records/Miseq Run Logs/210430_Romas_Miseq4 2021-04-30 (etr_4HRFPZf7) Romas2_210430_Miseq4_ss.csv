@@ -1,0 +1,29 @@
+[Header],,,,,,,,,
+IEMFileVersion,4,,,,,,,,
+Investigator Name,Romas V,,,,,,,,
+Experiment Name,Rita_3T3_02,,,,,,,,
+Date,4/30/21,,,,,,,,
+Workflow,GenerateFASTQ,,,,,,,,
+Application,FASTQ Only,,,,,,,,
+Assay,TruSeq HT,,,,,,,,
+Description,,,,,,,,,
+Chemistry,Amplicon,,,,,,,,
+,,,,,,,,,
+[Reads],,,,,,,,,
+75,,,,,,,,,
+75,,,,,,,,,
+[Settings],,,,,,,,,
+,,,,,,,,,
+[Data],,,,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Description
+1,,,Index 1,P7126,CACTGTAG,P5134,AAGCGACT,,vaisvila@neb.com
+2,,,Index 2,P7148,GTGCACGA,P5136,TGATAGGC,,vaisvila@neb.com
+3,,,Index 3,P7134,AAGCGACT,P5135,ACGAATCC,,vaisvila@neb.com
+4,,,Index 4,P7136,TGATAGGC,P5170,GTCTGAGT,,vaisvila@neb.com
+5,,,Index 5,P7135,ACGAATCC,P5127,ATTACCCA,,vaisvila@neb.com
+6,,,Index 6,P7170,GTCTGAGT,P5169,GACTTGTG,,vaisvila@neb.com
+7,,,Index 7,P7127,ATTACCCA,P5126,CACTGTAG,,vaisvila@neb.com
+8,,,Index 8,P7169,GACTTGTG,P5148,GTGCACGA,,vaisvila@neb.com
+9,,,Index 9,P7101,TTCAATAG,P5115,TCCCACGA,,vaisvila@neb.com
+10,,,Index 10,P7116,GTTTGCTC,P5132,ACCAACAG,,vaisvila@neb.com
+11,,,Index 11,P7105,ACCGGAGT,P5114,AAGGAAGG,,vaisvila@neb.com

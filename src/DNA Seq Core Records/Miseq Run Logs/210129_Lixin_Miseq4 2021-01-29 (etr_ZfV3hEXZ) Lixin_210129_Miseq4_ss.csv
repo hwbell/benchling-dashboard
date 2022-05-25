@@ -1,0 +1,28 @@
+[Header],,,,,,,
+IEMFileVersion,5,,,,,,
+Investigator Name,Lixin Chen,,,,,,
+Experiment Name,XP12 DNA,,,,,,
+Date,1/29/21,,,,,,
+Workflow,GenerateFASTQ,,,,,,
+Application,FASTQ Only,,,,,,
+Instrument Type,Miseq,,,,,,
+Assay,TruSeq LT,,,,,,
+Description,,,,,,,
+Chemistry,Default,,,,,,
+,,,,,,,
+[Reads],,,,,,,
+75,,,,,,,
+75,,,,,,,
+,,,,,,,
+[Settings],,,,,,,
+,,,,,,,
+[Data],,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,Sample_Project,Description
+No_damage_index1,,,,Index_1,ATCACG,,chen@neb.com
+Damage_no-repair_Index2,,,,Index_2,CGATGT,,chen@neb.com
+Damage_hTDG-wt_-20_Index3,,,,Index_3,TTAGGC,,chen@neb.com
+Damage_hTDG-wt_-80_Index4,,,,Index_4,TGACCA,,chen@neb.com
+Damage_hTDG-M1-lot1_-20_Index5,,,,Index_5,ACAGTG,,chen@neb.com
+Damage_hTDG-M1-lot1_-80_Index6,,,,Index_6,GCCAAT,,chen@neb.com
+Damage_hTDG-M1-lot2_-20_Index7,,,,Index_7,CAGATC,,chen@neb.com
+Damage_hTDG-M1-lot2_-80_Index8,,,,Index_8,ACTTGA,,chen@neb.com

@@ -1,0 +1,36 @@
+[Header],,,,,,,,,,,,,,,,,,,,,,,,,
+IEMFileVersion,5,,,,,,,,,,,,,,,,,,,,,,,,
+Investigator Name,BD,,,,,,,,,,,,,,,,,,,,,,,,
+Experiment Name,AB-WO4-149,,,,,,,,,,,,,,,,,,,,,,,,
+Date,9/13/21,,,,,,,,,,,,,,,,,,,,,,,,
+Workflow,GenerateFASTQ,,,,,,,,,,,,,,,,,,,,,,,,
+Application,FASTQ Only,,,,,,,,,,,,,,,,,,,,,,,,
+Assay,TruSeq HT,,,,,,,,,,,,,,,,,,,,,,,,
+Description,,,,,,,,,,,,,,,,,,,,,,,,,
+Chemistry,amplicon,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Reads],,,,,,,,,,,,,,,,,,,,,,,,,
+75,,,,,,,,,,,,,,,,,,,,,,,,,
+75,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Settings],,,,,,,,,,,,,,,,,,,,,,,,,
+ReverseComplement,0,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Data],,,,,,,,,,,,,,,,,,,,,,,,,
+Sample_ID,User,Sample_Name,Sample_Lot,Input_Amount,Condition,Sample_Plate,Sample_Well,Inline_ID,Index0,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Description,Library_ID,Library_Type,Sample_Type,Normal_Library_IDs,Target_Set,Genome,Analysis_Type,Read_Structure,Read_Length,Product
+AB-WO4-149-01,AB-WO4-149,FFPE-BioChain-Liver,C604041,50ng,Liver EnzFrag,,,,,DHT1,TTACCGAC,Ri518-20210603,NNNNNNNNNNNNTGTGTGCT,AB-WO4-149,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-149-02,AB-WO4-149,FFPE-BioChain-Liver,C604041,50ng,Liver EnzFrag,,,,,DHT2,AGTGACCT,Ri518-20210603,NNNNNNNNNNNNTGTGTGCT,AB-WO4-149,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-149-03,AB-WO4-149,FFPE-BioChain-Colon,C210244,50ng,Colon EnzFrag,,,,,DHT3,TCGGATTC,Ri518-20210603,NNNNNNNNNNNNTGTGTGCT,AB-WO4-149,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-149-04,AB-WO4-149,FFPE-BioChain-Colon,C210244,50ng,Colon EnzFrag,,,,,DHT4,CAAGGTAC,Ri518-20210603,NNNNNNNNNNNNTGTGTGCT,AB-WO4-149,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-149-05,AB-WO4-149,FFPE-BioChain-Stomach,C102008,50ng,Stomach EnzFrag,,,,,DHT5,TCCTCATG,Ri518-20210603,NNNNNNNNNNNNTGTGTGCT,AB-WO4-149,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-149-06,AB-WO4-149,FFPE-BioChain-Stomach,C102008,50ng,Stomach EnzFrag,,,,,DHT6,GTCAGTCA,Ri518-20210603,NNNNNNNNNNNNTGTGTGCT,AB-WO4-149,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-149-07,AB-WO4-149,HapMap24,x9,50ng,HapMap24 EnzFrag,,,,,DHT7,CGAATACG,Ri518-20210603,NNNNNNNNNNNNTGTGTGCT,AB-WO4-149,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-149-08,AB-WO4-149,HapMap24,x9,50ng,HapMap24 EnzFrag,,,,,DHT8,TCTAGGAG,Ri518-20210603,NNNNNNNNNNNNTGTGTGCT,AB-WO4-149,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-149-09,AB-WO4-149,FFPE-BioChain-Liver,C604041,50ng,Liver Shear,,,,,DHT9,CGCAACTA,Ri518-20210603,NNNNNNNNNNNNTGTGTGCT,AB-WO4-149,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-149-10,AB-WO4-149,FFPE-BioChain-Colon,C210244,50ng,Colon Shear,,,,,DHT10,CGTATCTC,Ri518-20210603,NNNNNNNNNNNNTGTGTGCT,AB-WO4-149,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-149-11,AB-WO4-149,FFPE-BioChain-Stomach,C102008,50ng,Stomach Shear,,,,,DHT11,GTACACCT,Ri518-20210603,NNNNNNNNNNNNTGTGTGCT,AB-WO4-149,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-149-12,AB-WO4-149,FFPE-BioChain-Lung,C505128,50ng,Lung Shear,,,,,DHT12,CGGCATTA,Ri518-20210603,NNNNNNNNNNNNTGTGTGCT,AB-WO4-149,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-149-13,AB-WO4-149,HapMap24,x9-20210908,50ng,HapMap24 Shear,,,,,DHT13,TCGTCTGA,Ri518-20210603,NNNNNNNNNNNNTGTGTGCT,AB-WO4-149,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-149-14,AB-WO4-149,HapMap24,x9-20210908,50ng,HapMap24 Shear,,,,,DHT14,AGCCTATC,Ri518-20210603,NNNNNNNNNNNNTGTGTGCT,AB-WO4-149,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha

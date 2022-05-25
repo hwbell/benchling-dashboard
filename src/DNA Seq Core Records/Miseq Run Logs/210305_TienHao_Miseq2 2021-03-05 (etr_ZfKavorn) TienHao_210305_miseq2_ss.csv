@@ -1,0 +1,24 @@
+[Header],,,,,,,
+IEMFileVersion,5,,,,,,
+Investigator Name,Tien-Hao Chen,,,,,,
+Experiment Name,T7_001,,,,,,
+Date,3/5/21,,,,,,
+Workflow,GenerateFASTQ,,,,,,
+Application,FASTQ Only,,,,,,
+Instrument Type,Miseq,,,,,,
+Assay,TruSeq LT,,,,,,
+Description,,,,,,,
+Chemistry,Default,,,,,,
+,,,,,,,
+[Reads],,,,,,,
+150,,,,,,,
+150,,,,,,,
+,,,,,,,
+[Settings],,,,,,,
+,,,,,,,
+[Data],,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,Sample_Project,Description
+Fix_DNA,,,,Index_2,CGATGT,,thchen@neb.com
+Fix_RNA,,,,Index_4,TGACCA,,thchen@neb.com
+DR_DNA,,,,Index_6,GCCAAT,,thchen@neb.com
+DR_RNA,,,,Index_12,CTTGTA,,thchen@neb.com

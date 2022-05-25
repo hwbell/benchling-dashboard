@@ -1,0 +1,40 @@
+[Header],,,,,,,
+IEMFileVersion,5,,,,,,
+Investigator Name,Liang_Wang,,,,,,
+Experiment Name,VCEinactive,,,,,,
+Date,8/28/21,,,,,,
+Workflow,GenerateFASTQ,,,,,,
+Application,FASTQ Only,,,,,,
+Instrument Type,,,,,,,
+Assay,TruSeq LT,,,,,,
+Description,,,,,,,
+Chemistry,Default,,,,,,
+,,,,,,,
+[Reads],,,,,,,
+75,,,,,,,
+75,,,,,,,
+,,,,,,,
+[Settings],,,,,,,
+,,,,,,,
+[Data],,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,Sample_Project,Description
+1,,,,Index_1,ATCACG,,lwang@neb.com
+2,,,,Index_2,CGATGT,,lwang@neb.com
+3,,,,Index_3,TTAGGC,,lwang@neb.com
+4,,,,Index_4,TGACCA,,lwang@neb.com
+5,,,,Index_5,ACAGTG,,lwang@neb.com
+6,,,,Index_6,GCCAAT,,lwang@neb.com
+7,,,,Index_7,CAGATC,,lwang@neb.com
+8,,,,Index_8,ACTTGA,,lwang@neb.com
+9,,,,Index_9,GATCAG,,lwang@neb.com
+10,,,,Index_10,TAGCTT,,lwang@neb.com
+11,,,,Index_11,GGCTAC,,lwang@neb.com
+12,,,,Index_12,CTTGTA,,lwang@neb.com
+13,,,,Index_13,AGTCAA,,lwang@neb.com
+14,,,,Index_14,AGTTCC,,lwang@neb.com
+15,,,,Index_15,ATGTCA,,lwang@neb.com
+16,,,,Index_16,CCGTCC,,lwang@neb.com
+18,,,,Index_18,GTCCGC,,lwang@neb.com
+19,,,,Index_19,GTGAAA,,lwang@neb.com
+20,,,,Index_20,GTGGCC,,lwang@neb.com
+27,,,,Index_27,ATTCCT,,lwang@neb.com

@@ -1,0 +1,39 @@
+[Header],,,,,,,
+IEMFileVersion,5,,,,,,
+Investigator Name,Gene Chin,,,,,,
+Experiment Name,NicE-seq-_standard_SpikeIn,,,,,,
+Date,04/14/21,,,,,,
+Workflow,GenerateFASTQ,,,,,,
+Application,FASTQ Only,,,,,,
+Instrument Type,Miseq,,,,,,
+Assay,TruSeq LT,,,,,,
+Description,,,,,,,
+Chemistry,Default,,,,,,
+,,,,,,,
+[Reads],,,,,,,
+75,,,,,,,
+75,,,,,,,
+,,,,,,,
+[Settings],,,,,,,
+,,,,,,,
+[Data],,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,Sample_Project,Description
+100K_Index2,,,,Index_2,CGATGT,,chinh@neb.com
+100K_Index4,,,,Index_4,TGACCA,,chinh@neb.com
+100K_Index6,,,,Index_6,GCCAAT,,chinh@neb.com
+100K_Index8,,,,Index_8,ACTTGA,,chinh@neb.com
+100K_Index10,,,,Index_10,TAGCTT,,chinh@neb.com
+100K_Index12,,,,Index_12,CTTGTA,,chinh@neb.com
+100K_Index14,,,,Index_14,AGTTCC,,chinh@neb.com
+100K_Index16,,,,Index_16,CCGTCC,,chinh@neb.com
+100K_Index18,,,,Index_18,GTCCGC,,chinh@neb.com
+100K_Index20,,,,Index_20,GTGGCC,,chinh@neb.com
+100K_Index21,,,,Index_21,GTTTCG,,chinh@neb.com
+100K_Index23,,,,Index_23,GAGTGG,,chinh@neb.com
+100K_Index24,,,,Index_24,GGTAGC,,chinh@neb.com
+100K_Index26,,,,Index_26,ATGAGC,,chinh@neb.com
+100K_Index29,,,,Index_29,CAACTA,,chinh@neb.com
+100K_Index33,,,,Index_33,CAGGCG,,chinh@neb.com
+100K_Index34,,,,Index_34,CATGGC,,chinh@neb.com
+100K_Index35,,,,Index_35,CATTTT,,chinh@neb.com
+100K_Index42,,,,Index_42,TAATCG,,chinh@neb.com

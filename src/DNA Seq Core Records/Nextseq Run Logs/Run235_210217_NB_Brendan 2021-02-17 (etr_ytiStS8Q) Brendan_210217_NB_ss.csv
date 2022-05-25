@@ -1,0 +1,68 @@
+[Header],,,,,,,,,,,,,,,,,,,,,,,,,
+IEMFileVersion,5,,,,,,,,,,,,,,,,,,,,,,,,
+Investigator Name,BD,,,,,,,,,,,,,,,,,,,,,,,,
+Experiment Name,AB-WO4-069,,,,,,,,,,,,,,,,,,,,,,,,
+Date,2/17/21,,,,,,,,,,,,,,,,,,,,,,,,
+Workflow,GenerateFASTQ,,,,,,,,,,,,,,,,,,,,,,,,
+Application,FASTQ Only,,,,,,,,,,,,,,,,,,,,,,,,
+Assay,TruSeq HT,,,,,,,,,,,,,,,,,,,,,,,,
+Description,,,,,,,,,,,,,,,,,,,,,,,,,
+Chemistry,amplicon,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Reads],,,,,,,,,,,,,,,,,,,,,,,,,
+70,,,,,,,,,,,,,,,,,,,,,,,,,
+70,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Settings],,,,,,,,,,,,,,,,,,,,,,,,,
+ReverseComplement,0,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Data],,,,,,,,,,,,,,,,,,,,,,,,,
+Sample_ID,User,Sample_Name,Sample_Lot,Input_Amount,Condition,Sample_Plate,Sample_Well,Inline_ID,Index0,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Description,Library_ID,Library_Type,Sample_Type,Normal_Library_IDs,Target_Set,Genome,Analysis_Type,Read_Structure,Read_Length,Product
+AB-WO4-069-01,AB-WO4-069,HapMap24,x8-001c,30ng,SOP,,,,,DHT73,TAGGAGCT,Ri501-5A,NNNNNNNNNNNNAGGCTATA,AB-WO4-069,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-069-02,AB-WO4-069,HapMap24,x8-001c,30ng,SOP,,,,,DHT74,CGAATTGC,Ri502-5A,NNNNNNNNNNNNGCCTCTAT,AB-WO4-069,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-069-03,AB-WO4-069,HapMap24,x8-001c,30ng,BluntSU 20µM,,,,,DHT75,GTCCTAAG,Ri503-5A,NNNNNNNNNNNNAGGATAGG,AB-WO4-069,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-069-04,AB-WO4-069,HapMap24,x8-001c,30ng,BluntSU 20µM,,,,,DHT76,CTTAGGAC,Ri504-5A,NNNNNNNNNNNNTCAGAGCC,AB-WO4-069,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-069-05,AB-WO4-069,HapMap24,x8-001c,30ng,Ligase 20µL,,,,,DHT77,TCCACGTT,Ri505-5A,NNNNNNNNNNNNCTTCGCCT,AB-WO4-069,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-069-06,AB-WO4-069,HapMap24,x8-001c,30ng,Ligase 20µL,,,,,DHT78,CAACACAG,Ri506-5A,NNNNNNNNNNNNTAAGATTA,AB-WO4-069,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-069-07,AB-WO4-069,HapMap24,x8-001c,30ng,BluntSU 20µM Ligase 20µL,,,,,DHT79,GCCTTAAC,Ri507-5A,NNNNNNNNNNNNACGTCCTG,AB-WO4-069,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-069-08,AB-WO4-069,HapMap24,x8-001c,30ng,BluntSU 20µM Ligase 20µL,,,,,DHT80,GTAAGGTG,Ri511-5A,NNNNNNNNNNNNAACCAGGT,AB-WO4-069,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-069-09,AB-WO4-069,HapMap24,x8-001c,30ng,Ligation 30min,,,,,DHT81,AGCTACCA,Ri513-5A,NNNNNNNNNNNNTTGTTCCG,AB-WO4-069,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-069-10,AB-WO4-069,HapMap24,x8-001c,30ng,Ligation 30min,,,,,DHT82,CTTCACTG,Ri514-5A,NNNNNNNNNNNNAGCTTACC,AB-WO4-069,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-069-11,AB-WO4-069,HapMap24,x8-001c,30ng,BluntSU 20µM Ligation 30min,,,,,DHT83,GGTTGAAC,Ri515-5A,NNNNNNNNNNNNATGCCACA,AB-WO4-069,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-069-12,AB-WO4-069,HapMap24,x8-001c,30ng,BluntSU 20µM Ligation 30min,,,,,DHT84,GATAGCCA,Ri516-5A,NNNNNNNNNNNNTCCGTAGT,AB-WO4-069,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,

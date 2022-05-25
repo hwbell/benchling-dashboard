@@ -1,0 +1,35 @@
+[Header],,,,,,,
+IEMFileVersion,5,,,,,,
+Investigator Name,Meemanage DeZoysa,,,,,,
+Experiment Name,circRNA-rRNA depleted,,,,,,
+Date,2/26/21,,,,,,
+Workflow,GenerateFASTQ,,,,,,
+Application,FASTQ Only,,,,,,
+Instrument Type,Miseq,,,,,,
+Assay,TruSeq LT,,,,,,
+Description,,,,,,,
+Chemistry,Default,,,,,,
+,,,,,,,
+[Reads],,,,,,,
+150,,,,,,,
+150,,,,,,,
+,,,,,,,
+[Settings],,,,,,,
+,,,,,,,
+[Data],,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,Sample_Project,Description
+13,,,,Index_13,AGTCAA,,mdezoysa@neb.com
+14,,,,Index_14,AGTTCC,,mdezoysa@neb.com
+15,,,,Index_15,ATGTCA,,mdezoysa@neb.com
+16,,,,Index_16,CCGTCC,,mdezoysa@neb.com
+17,,,,Index_17,GTAGAG,,mdezoysa@neb.com
+18,,,,Index_18,GTCCGC,,mdezoysa@neb.com
+19,,,,Index_19,GTGAAA,,mdezoysa@neb.com
+20,,,,Index_20,GTGGCC,,mdezoysa@neb.com
+21,,,,Index_21,GTTTCG,,mdezoysa@neb.com
+22,,,,Index_22,CGTACG,,mdezoysa@neb.com
+23,,,,Index_23,GAGTGG,,mdezoysa@neb.com
+24,,,,Index_24,GGTAGC,,mdezoysa@neb.com
+25,,,,Index_25,ACTGAT,,mdezoysa@neb.com
+26,,,,Index_26,ATGAGC,,mdezoysa@neb.com
+27,,,,Index_27,ATTCCT,,mdezoysa@neb.com

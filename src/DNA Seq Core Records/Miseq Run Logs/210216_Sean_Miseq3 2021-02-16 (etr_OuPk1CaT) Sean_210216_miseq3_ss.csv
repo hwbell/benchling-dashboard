@@ -1,0 +1,26 @@
+[Header],,,,,,,,,
+IEMFileVersion,4,,,,,,,,
+Investigator Name,Sean Maguire,,,,,,,,
+Experiment Name,,,,,,,,,
+Date,2/16/21,,,,,,,,
+Workflow,GenerateFASTQ,,,,,,,,
+Application,FASTQ Only,,,,,,,,
+Assay,TruSeq HT,,,,,,,,
+Description,,,,,,,,,
+Chemistry,Amplicon,,,,,,,,
+,,,,,,,,,
+[Reads],,,,,,,,,
+70,,,,,,,,,
+70,,,,,,,,,
+,,,,,,,,,
+[Settings],,,,,,,,,
+,,,,,,,,,
+[Data],,,,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Description
+No_RNAP,,,,S712,CGAATACGNNNNNNNNNNNN,S562,TTACCGAC,,smaguire@neb.com
+T7,,,,S786,GTCCTTGANNNNNNNNNNNN,S513,TCGTCTGA,,smaguire@neb.com
+T7_RH,,,,S743,CAGTGCTTNNNNNNNNNNNN,S536,TTCCAGGT,,smaguire@neb.com
+T3,,,,S775,TCCATTGCNNNNNNNNNNNN,S509,TACGGTCT,,smaguire@neb.com
+T3_RH,,,,S750,GTCGATTGNNNNNNNNNNNN,S532,AAGACCGT,,smaguire@neb.com
+BO,,,,S706,ATAACGCCNNNNNNNNNNNN,S574,CAGGTTCA,,smaguire@neb.com
+BO_RH,,,,S724,GCCTTAACNNNNNNNNNNNN,S547,TAGGAGCT,,smaguire@neb.com

@@ -1,0 +1,346 @@
+[Header],,,,,,,,,,,,,,,,,,,,,,,,,
+IEMFileVersion,5,,,,,,,,,,,,,,,,,,,,,,,,
+Investigator Name,BD,,,,,,,,,,,,,,,,,,,,,,,,
+Experiment Name,AB-WO4-ExoT-Dil-Day-040,,,,,,,,,,,,,,,,,,,,,,,,
+Date,9/20/21,,,,,,,,,,,,,,,,,,,,,,,,
+Workflow,GenerateFASTQ,,,,,,,,,,,,,,,,,,,,,,,,
+Application,FASTQ Only,,,,,,,,,,,,,,,,,,,,,,,,
+Assay,TruSeq HT,,,,,,,,,,,,,,,,,,,,,,,,
+Description,,,,,,,,,,,,,,,,,,,,,,,,,
+Chemistry,amplicon,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Reads],,,,,,,,,,,,,,,,,,,,,,,,,
+75,,,,,,,,,,,,,,,,,,,,,,,,,
+75,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Settings],,,,,,,,,,,,,,,,,,,,,,,,,
+ReverseComplement,0,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Data],,,,,,,,,,,,,,,,,,,,,,,,,
+Sample_ID,User,Sample_Name,Sample_Lot,Input_Amount,Condition,Sample_Plate,Sample_Well,Inline_ID,Index0,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Description,Library_ID,Library_Type,Sample_Type,Normal_Library_IDs,Target_Set,Genome,Analysis_Type,Read_Structure,Read_Length,Product
+20210916-GS-mini-01-001,BD,NA12878,GIAB,25ng,GS 1x,,,5GS001-A1,TTCGCTCA,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-002,BD,NA12878,GIAB,25ng,GS 1x,,,5GS002-B1,TATGGCAC,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-003,BD,NA12878,GIAB,25ng,GS 1x,,,5GS003-C1,CGTATCTC,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-004,BD,NA12878,GIAB,25ng,GS 1x,,,5GS004-D1,GTCATCGT,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-005,BD,NA12878,GIAB,25ng,GS 1x,,,5GS005-E1,TTACCGAC,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-006,BD,NA12878,GIAB,25ng,GS 1x,,,5GS006-F1,TTCCCTTT,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-007,BD,NA12878,GIAB,25ng,GS 1x,,,5GS007-G1,CAAGGTAC,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-008,BD,NA12878,GIAB,25ng,GS 1x,,,5GS008-H1,CCGCTTAA,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-009,BD,NA12878,GIAB,25ng,GS 1x,,,5GS009-A2,GTCCTTGA,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-010,BD,NA12878,GIAB,25ng,GS 1x,,,5GS010-B2,GAATCACC,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-011,BD,NA12878,GIAB,25ng,GS 1x,,,5GS011-C2,TTACGTGC,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-012,BD,NA12878,GIAB,25ng,GS 1x,,,5GS012-D2,CAATGCGA,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-013,BD,NA12878,GIAB,25ng,GS 1x,,,5GS013-E2,TCGTCTGA,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-014,BD,NA12878,GIAB,25ng,GS 1x,,,5GS014-F2,GAACGAAG,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-015,BD,NA12878,GIAB,25ng,GS 1x,,,5GS015-G2,AGACCTTG,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-016,BD,NA12878,GIAB,25ng,GS 1x,,,5GS016-H2,GACGAACT,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-017,BD,NA12878,GIAB,25ng,GS 1x,,,5GS017-A3,CAGTGCTT,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-018,BD,NA12878,GIAB,25ng,GS 1x,,,5GS018-B3,GTAAGGTG,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-019,BD,NA12878,GIAB,25ng,GS 1x,,,5GS019-C3,AGCTAAGC,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-020,BD,NA12878,GIAB,25ng,GS 1x,,,5GS020-D3,GGTTGAAC,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-021,BD,NA12878,GIAB,25ng,GS 1x,,,5GS021-E3,TTGCACCG,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-022,BD,NA12878,GIAB,25ng,GS 1x,,,5GS022-F3,CGAATTGC,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-023,BD,NA12878,GIAB,25ng,GS 1x,,,5GS023-G3,GTCGTTAC,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-024,BD,NA12878,GIAB,25ng,GS 1x,,,5GS024-H3,TCCACGTT,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-025,BD,NA12878,GIAB,25ng,GS 1x,,,5GS025-A4,TCCATTGC,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-026,BD,NA12878,GIAB,25ng,GS 1x,,,5GS026-B4,CGAGAGAA,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-027,BD,NA12878,GIAB,25ng,GS 1x,,,5GS027-C4,AAGACACC,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-028,BD,NA12878,GIAB,25ng,GS 1x,,,5GS028-D4,CTTCGGTT,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-029,BD,NA12878,GIAB,25ng,GS 1x,,,5GS029-E4,TACGGTCT,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-030,BD,NA12878,GIAB,25ng,GS 1x,,,5GS030-F4,GGAAGAGA,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-031,BD,NA12878,GIAB,25ng,GS 1x,,,5GS031-G4,GTAACCGA,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-032,BD,NA12878,GIAB,25ng,GS 1x,,,5GS032-H4,AACCAGAG,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-033,BD,NA12878,GIAB,25ng,GS 1x,,,5GS033-A5,GTCGATTG,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-034,BD,NA12878,GIAB,25ng,GS 1x,,,5GS034-B5,CGCAACTA,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-035,BD,NA12878,GIAB,25ng,GS 1x,,,5GS035-C5,CAACTCCA,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-036,BD,NA12878,GIAB,25ng,GS 1x,,,5GS036-D5,CGGCATTA,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-037,BD,NA12878,GIAB,25ng,GS 1x,,,5GS037-E5,AAGACCGT,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-038,BD,NA12878,GIAB,25ng,GS 1x,,,5GS038-F5,TCGGATTC,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-039,BD,NA12878,GIAB,25ng,GS 1x,,,5GS039-G5,GAATCCGT,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-040,BD,NA12878,GIAB,25ng,GS 1x,,,5GS040-H5,GTCAGTCA,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-041,BD,NA12878,GIAB,25ng,GS 1x,,,5GS041-A6,ATAACGCC,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-042,BD,NA12878,GIAB,25ng,GS 1x,,,5GS042-B6,CACAGACT,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-043,BD,NA12878,GIAB,25ng,GS 1x,,,5GS043-C6,GATCTTGC,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-044,BD,NA12878,GIAB,25ng,GS 1x,,,5GS044-D6,CACGCAAT,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-045,BD,NA12878,GIAB,25ng,GS 1x,,,5GS045-E6,CAGGTTCA,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-046,BD,NA12878,GIAB,25ng,GS 1x,,,5GS046-F6,CTGTACCA,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-047,BD,NA12878,GIAB,25ng,GS 1x,,,5GS047-G6,CATGAGCA,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-048,BD,NA12878,GIAB,25ng,GS 1x,,,5GS048-H6,CCTTCCAT,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-049,BD,NA12878,GIAB,25ng,GS 1x,,,5GS049-A7,GCCTTAAC,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-050,BD,NA12878,GIAB,25ng,GS 1x,,,5GS050-B7,TGGAAGCA,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-051,BD,NA12878,GIAB,25ng,GS 1x,,,5GS051-C7,CTTCACTG,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-052,BD,NA12878,GIAB,25ng,GS 1x,,,5GS052-D7,GGAATGTC,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-053,BD,NA12878,GIAB,25ng,GS 1x,,,5GS053-E7,TAGGAGCT,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-054,BD,NA12878,GIAB,25ng,GS 1x,,,5GS054-F7,GAGAGTAC,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-055,BD,NA12878,GIAB,25ng,GS 1x,,,5GS055-G7,CTTAGGAC,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-056,BD,NA12878,GIAB,25ng,GS 1x,,,5GS056-H7,AGGAACAC,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-057,BD,NA12878,GIAB,25ng,GS 1x,,,5GS057-A8,GGTATAGG,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-058,BD,NA12878,GIAB,25ng,GS 1x,,,5GS058-B8,CAATAGCC,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-059,BD,NA12878,GIAB,25ng,GS 1x,,,5GS059-C8,CTCGACTT,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-060,BD,NA12878,GIAB,25ng,GS 1x,,,5GS060-D8,TGGTGAAG,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-061,BD,NA12878,GIAB,25ng,GS 1x,,,5GS061-E8,TACTCCAG,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-062,BD,NA12878,GIAB,25ng,GS 1x,,,5GS062-F8,TCTACGCA,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-063,BD,NA12878,GIAB,25ng,GS 1x,,,5GS063-G8,ATCTGACC,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-064,BD,NA12878,GIAB,25ng,GS 1x,,,5GS064-H8,CTTACAGC,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-065,BD,NA12878,GIAB,25ng,GS 1x,,,5GS065-A9,TCTAGGAG,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-066,BD,NA12878,GIAB,25ng,GS 1x,,,5GS066-B9,CTCGAACA,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-067,BD,NA12878,GIAB,25ng,GS 1x,,,5GS067-C9,GTACACCT,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-068,BD,NA12878,GIAB,25ng,GS 1x,,,5GS068-D9,TTGATTCG,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-069,BD,NA12878,GIAB,25ng,GS 1x,,,5GS069-E9,AGTGACCT,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-070,BD,NA12878,GIAB,25ng,GS 1x,,,5GS070-F9,GCAATTCC,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-071,BD,NA12878,GIAB,25ng,GS 1x,,,5GS071-G9,TCCTCATG,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-072,BD,NA12878,GIAB,25ng,GS 1x,,,5GS072-H9,TACCTGCA,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-073,BD,NA12878,GIAB,25ng,GS 1x,,,5GS073-A10,TGCGTAAC,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-074,BD,NA12878,GIAB,25ng,GS 1x,,,5GS074-B10,GGCAAGTT,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-075,BD,NA12878,GIAB,25ng,GS 1x,,,5GS075-C10,CCAAGGTT,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-076,BD,NA12878,GIAB,25ng,GS 1x,,,5GS076-D10,GGTGTACA,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-077,BD,NA12878,GIAB,25ng,GS 1x,,,5GS077-E10,AGCCTATC,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-078,BD,NA12878,GIAB,25ng,GS 1x,,,5GS078-F10,CTCAGAAG,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-079,BD,NA12878,GIAB,25ng,GS 1x,,,5GS079-G10,AGGATAGC,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-080,BD,NA12878,GIAB,25ng,GS 1x,,,5GS080-H10,AGACGCTA,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-081,BD,NA12878,GIAB,25ng,GS 1x,,,5GS081-A11,CTTGCTAG,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-082,BD,NA12878,GIAB,25ng,GS 1x,,,5GS082-B11,AGCTACCA,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-083,BD,NA12878,GIAB,25ng,GS 1x,,,5GS083-C11,GAACGGTT,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-084,BD,NA12878,GIAB,25ng,GS 1x,,,5GS084-D11,GATAGCCA,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-085,BD,NA12878,GIAB,25ng,GS 1x,,,5GS085-E11,TCATCTCC,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-086,BD,NA12878,GIAB,25ng,GS 1x,,,5GS086-F11,GTCCTAAG,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-087,BD,NA12878,GIAB,25ng,GS 1x,,,5GS087-G11,GGAGGAAT,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-088,BD,NA12878,GIAB,25ng,GS 1x,,,5GS088-H11,CAACACAG,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-089,BD,NA12878,GIAB,25ng,GS 1x,,,5GS089-A12,AGCGAGAT,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-090,BD,NA12878,GIAB,25ng,GS 1x,,,5GS090-B12,CAGCATAC,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-091,BD,NA12878,GIAB,25ng,GS 1x,,,5GS091-C12,CCAGTTGA,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-092,BD,NA12878,GIAB,25ng,GS 1x,,,5GS092-D12,CCACAACA,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-093,BD,NA12878,GIAB,25ng,GS 1x,,,5GS093-E12,CCAGTATC,DGS01,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-094,BD,NA12878,GIAB,25ng,GS 1x,,,5GS094-F12,GCGTTAGA,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-095,BD,NA12878,GIAB,25ng,GS 1x,,,5GS095-G12,GACGTCAT,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-01-096,BD,NA12878,GIAB,25ng,GS 1x,,,5GS096-H12,GTACCACA,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-001,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS001-A1,TTCGCTCA,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-002,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS002-B1,TATGGCAC,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-003,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS003-C1,CGTATCTC,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-004,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS004-D1,GTCATCGT,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-005,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS005-E1,TTACCGAC,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-006,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS006-F1,TTCCCTTT,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-007,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS007-G1,CAAGGTAC,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-008,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS008-H1,CCGCTTAA,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-009,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS009-A2,GTCCTTGA,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-010,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS010-B2,GAATCACC,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-011,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS011-C2,TTACGTGC,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-012,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS012-D2,CAATGCGA,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-013,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS013-E2,TCGTCTGA,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-014,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS014-F2,GAACGAAG,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-015,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS015-G2,AGACCTTG,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-016,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS016-H2,GACGAACT,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-017,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS017-A3,CAGTGCTT,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-018,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS018-B3,GTAAGGTG,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-019,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS019-C3,AGCTAAGC,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-020,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS020-D3,GGTTGAAC,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-021,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS021-E3,TTGCACCG,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-022,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS022-F3,CGAATTGC,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-023,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS023-G3,GTCGTTAC,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-024,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS024-H3,TCCACGTT,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-025,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS025-A4,TCCATTGC,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-026,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS026-B4,CGAGAGAA,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-027,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS027-C4,AAGACACC,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-028,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS028-D4,CTTCGGTT,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-029,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS029-E4,TACGGTCT,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-030,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS030-F4,GGAAGAGA,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-031,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS031-G4,GTAACCGA,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-032,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS032-H4,AACCAGAG,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-033,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS033-A5,GTCGATTG,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-034,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS034-B5,CGCAACTA,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-035,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS035-C5,CAACTCCA,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-036,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS036-D5,CGGCATTA,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-037,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS037-E5,AAGACCGT,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-038,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS038-F5,TCGGATTC,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-039,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS039-G5,GAATCCGT,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-040,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS040-H5,GTCAGTCA,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-041,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS041-A6,ATAACGCC,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-042,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS042-B6,CACAGACT,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-043,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS043-C6,GATCTTGC,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-044,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS044-D6,CACGCAAT,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-045,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS045-E6,CAGGTTCA,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-046,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS046-F6,CTGTACCA,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-047,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS047-G6,CATGAGCA,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-048,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS048-H6,CCTTCCAT,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-049,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS049-A7,GCCTTAAC,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-050,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS050-B7,TGGAAGCA,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-051,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS051-C7,CTTCACTG,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-052,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS052-D7,GGAATGTC,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-053,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS053-E7,TAGGAGCT,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-054,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS054-F7,GAGAGTAC,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-055,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS055-G7,CTTAGGAC,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-056,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS056-H7,AGGAACAC,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-057,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS057-A8,GGTATAGG,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-058,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS058-B8,CAATAGCC,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-059,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS059-C8,CTCGACTT,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-060,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS060-D8,TGGTGAAG,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-061,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS061-E8,TACTCCAG,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-062,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS062-F8,TCTACGCA,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-063,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS063-G8,ATCTGACC,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-064,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS064-H8,CTTACAGC,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-065,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS065-A9,TCTAGGAG,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-066,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS066-B9,CTCGAACA,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-067,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS067-C9,GTACACCT,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-068,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS068-D9,TTGATTCG,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-069,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS069-E9,AGTGACCT,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-070,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS070-F9,GCAATTCC,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-071,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS071-G9,TCCTCATG,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-072,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS072-H9,TACCTGCA,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-073,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS073-A10,TGCGTAAC,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-074,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS074-B10,GGCAAGTT,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-075,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS075-C10,CCAAGGTT,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-076,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS076-D10,GGTGTACA,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-077,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS077-E10,AGCCTATC,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-078,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS078-F10,CTCAGAAG,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-079,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS079-G10,AGGATAGC,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-080,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS080-H10,AGACGCTA,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-081,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS081-A11,CTTGCTAG,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-082,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS082-B11,AGCTACCA,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-083,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS083-C11,GAACGGTT,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-084,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS084-D11,GATAGCCA,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-085,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS085-E11,TCATCTCC,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-086,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS086-F11,GTCCTAAG,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-087,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS087-G11,GGAGGAAT,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-088,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS088-H11,CAACACAG,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-089,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS089-A12,AGCGAGAT,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-090,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS090-B12,CAGCATAC,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-091,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS091-C12,CCAGTTGA,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-092,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS092-D12,CCACAACA,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-093,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS093-E12,CCAGTATC,DGS02,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-094,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS094-F12,GCGTTAGA,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-095,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS095-G12,GACGTCAT,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-02-096,BD,NA12878,GIAB,25ng,GS 0.5x,,,5GS096-H12,GTACCACA,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-001,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS001-A1,TTCGCTCA,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-002,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS002-B1,TATGGCAC,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-003,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS003-C1,CGTATCTC,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-004,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS004-D1,GTCATCGT,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-005,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS005-E1,TTACCGAC,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-006,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS006-F1,TTCCCTTT,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-007,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS007-G1,CAAGGTAC,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-008,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS008-H1,CCGCTTAA,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-009,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS009-A2,GTCCTTGA,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-010,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS010-B2,GAATCACC,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-011,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS011-C2,TTACGTGC,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-012,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS012-D2,CAATGCGA,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-013,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS013-E2,TCGTCTGA,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-014,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS014-F2,GAACGAAG,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-015,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS015-G2,AGACCTTG,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-016,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS016-H2,GACGAACT,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-017,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS017-A3,CAGTGCTT,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-018,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS018-B3,GTAAGGTG,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-019,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS019-C3,AGCTAAGC,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-020,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS020-D3,GGTTGAAC,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-021,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS021-E3,TTGCACCG,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-022,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS022-F3,CGAATTGC,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-023,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS023-G3,GTCGTTAC,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-024,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS024-H3,TCCACGTT,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-025,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS025-A4,TCCATTGC,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-026,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS026-B4,CGAGAGAA,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-027,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS027-C4,AAGACACC,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-028,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS028-D4,CTTCGGTT,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-029,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS029-E4,TACGGTCT,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-030,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS030-F4,GGAAGAGA,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-031,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS031-G4,GTAACCGA,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-032,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS032-H4,AACCAGAG,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-033,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS033-A5,GTCGATTG,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-034,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS034-B5,CGCAACTA,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-035,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS035-C5,CAACTCCA,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-036,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS036-D5,CGGCATTA,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-037,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS037-E5,AAGACCGT,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-038,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS038-F5,TCGGATTC,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-039,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS039-G5,GAATCCGT,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-040,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS040-H5,GTCAGTCA,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-041,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS041-A6,ATAACGCC,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-042,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS042-B6,CACAGACT,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-043,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS043-C6,GATCTTGC,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-044,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS044-D6,CACGCAAT,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-045,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS045-E6,CAGGTTCA,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-046,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS046-F6,CTGTACCA,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-047,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS047-G6,CATGAGCA,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-048,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS048-H6,CCTTCCAT,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-049,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS049-A7,GCCTTAAC,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-050,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS050-B7,TGGAAGCA,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-051,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS051-C7,CTTCACTG,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-052,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS052-D7,GGAATGTC,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-053,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS053-E7,TAGGAGCT,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-054,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS054-F7,GAGAGTAC,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-055,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS055-G7,CTTAGGAC,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-056,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS056-H7,AGGAACAC,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-057,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS057-A8,GGTATAGG,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-058,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS058-B8,CAATAGCC,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-059,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS059-C8,CTCGACTT,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-060,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS060-D8,TGGTGAAG,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-061,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS061-E8,TACTCCAG,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-062,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS062-F8,TCTACGCA,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-063,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS063-G8,ATCTGACC,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-064,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS064-H8,CTTACAGC,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-065,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS065-A9,TCTAGGAG,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-066,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS066-B9,CTCGAACA,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-067,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS067-C9,GTACACCT,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-068,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS068-D9,TTGATTCG,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-069,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS069-E9,AGTGACCT,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-070,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS070-F9,GCAATTCC,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-071,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS071-G9,TCCTCATG,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-072,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS072-H9,TACCTGCA,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-073,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS073-A10,TGCGTAAC,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-074,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS074-B10,GGCAAGTT,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-075,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS075-C10,CCAAGGTT,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-076,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS076-D10,GGTGTACA,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-077,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS077-E10,AGCCTATC,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-078,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS078-F10,CTCAGAAG,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-079,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS079-G10,AGGATAGC,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-080,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS080-H10,AGACGCTA,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-081,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS081-A11,CTTGCTAG,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-082,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS082-B11,AGCTACCA,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-083,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS083-C11,GAACGGTT,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-084,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS084-D11,GATAGCCA,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-085,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS085-E11,TCATCTCC,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-086,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS086-F11,GTCCTAAG,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-087,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS087-G11,GGAGGAAT,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-088,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS088-H11,CAACACAG,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-089,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS089-A12,AGCGAGAT,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-090,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS090-B12,CAGCATAC,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-091,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS091-C12,CCAGTTGA,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-092,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS092-D12,CCACAACA,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-093,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS093-E12,CCAGTATC,DGS03,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-094,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS094-F12,GCGTTAGA,0,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-095,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS095-G12,GACGTCAT,0,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+20210916-GS-mini-03-096,BD,NA12878,GIAB,25ng,GS 0.25x,,,5GS096-H12,GTACCACA,0,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,SID263_cnnqa/DB,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+0,0,0,0,0,0,,,0,0,0,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,0,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+0,0,0,0,0,0,,,0,0,0,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,0,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+0,0,0,0,0,0,,,0,0,0,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,0,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+0,0,0,0,0,0,,,0,0,0,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,0,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+0,0,0,0,0,0,,,0,0,0,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,0,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+0,0,0,0,0,0,,,0,0,0,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,0,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+0,0,0,0,0,0,,,0,0,0,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,0,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+0,0,0,0,0,0,,,0,0,0,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,0,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+0,0,0,0,0,0,,,0,0,0,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,0,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+0,0,0,0,0,0,,,0,0,0,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,0,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+0,0,0,0,0,0,,,0,0,0,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,0,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+0,0,0,0,0,0,,,0,0,0,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,0,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+0,0,0,0,0,0,,,0,0,0,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,0,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+0,0,0,0,0,0,,,0,0,0,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,0,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+0,0,0,0,0,0,,,0,0,0,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,0,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+0,0,0,0,0,0,,,0,0,0,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,0,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+0,0,0,0,0,0,,,0,0,0,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,0,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+0,0,0,0,0,0,,,0,0,0,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,0,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+0,0,0,0,0,0,,,0,0,0,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,0,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+0,0,0,0,0,0,,,0,0,0,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,0,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+0,0,0,0,0,0,,,0,0,0,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,0,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+0,0,0,0,0,0,,,0,0,0,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,0,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+0,0,0,0,0,0,,,0,0,0,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,0,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+0,0,0,0,0,0,,,0,0,0,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,0,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+0,0,0,0,0,0,,,0,0,0,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,0,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+0,0,0,0,0,0,,,0,0,0,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,0,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+0,0,0,0,0,0,,,0,0,0,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,0,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+0,0,0,0,0,0,,,0,0,0,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,0,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+0,0,0,0,0,0,,,0,0,0,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,0,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+0,0,0,0,0,0,,,0,0,0,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,0,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+0,0,0,0,0,0,,,0,0,0,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,0,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+0,0,0,0,0,0,,,0,0,0,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,0,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+0,0,0,0,0,0,,,0,0,0,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,0,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+0,0,0,0,0,0,,,0,0,0,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,0,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+0,0,0,0,0,0,,,0,0,0,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,0,b38,Research,12M8B55T8B75T,,GenotypingBySequencing
+0,0,0,0,0,0,,,0,0,0,,,,20210916-GS-mini,desmond@directedgenomics.com,,,,,0,b38,Research,12M8B55T8B75T,,GenotypingBySequencing

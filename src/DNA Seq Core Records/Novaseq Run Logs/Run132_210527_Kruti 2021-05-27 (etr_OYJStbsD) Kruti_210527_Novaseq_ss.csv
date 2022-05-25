@@ -1,0 +1,38 @@
+[Header],,,,,,,,,,,,,,,,,,,,,,,,,
+IEMFileVersion,5,,,,,,,,,,,,,,,,,,,,,,,,
+Investigator Name,kmp,,,,,,,,,,,,,,,,,,,,,,,,
+Experiment Name,AB-WO4-121,,,,,,,,,,,,,,,,,,,,,,,,
+Date,5/26/21,,,,,,,,,,,,,,,,,,,,,,,,
+Workflow,GenerateFASTQ,,,,,,,,,,,,,,,,,,,,,,,,
+Application,FASTQ Only,,,,,,,,,,,,,,,,,,,,,,,,
+Assay,TruSeq HT,,,,,,,,,,,,,,,,,,,,,,,,
+Description,,,,,,,,,,,,,,,,,,,,,,,,,
+Chemistry,amplicon,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Reads],,,,,,,,,,,,,,,,,,,,,,,,,
+75,,,,,,,,,,,,,,,,,,,,,,,,,
+75,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Settings],,,,,,,,,,,,,,,,,,,,,,,,,
+ReverseComplement,0,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Data],,,,,,,,,,,,,,,,,,,,,,,,,
+Sample_ID,User,Sample_Name,Sample_Lot,Input_Amount,Condition,Sample_Plate,Sample_Well,Inline_ID,Index0,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Description,Library_ID,Library_Type,Sample_Type,Normal_Library_IDs,Target_Set,Genome,Analysis_Type,Read_Structure,Read_Length,Product
+AB-WO4-121-01,AB-WO4-121,HapMap24,x9,30ng,Fragmentase-35min,,,,,DHT83,GGTTGAAC,Ri518-20210511,NNNNNNNNNNNNTGTGTGCT,AB-WO4-121,patel@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-121-02,AB-WO4-121,HapMap24,x9,30ng,Fragmentase-35min,,,,,DHT84,GATAGCCA,Ri520-20210511,NNNNNNNNNNNNACACCGTA,AB-WO4-121,patel@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-121-03,AB-WO4-121,HapMap24,x9,30ng,Fragmentase-TE-35min,,,,,DHT85,TACTCCAG,Ri521-20210511,NNNNNNNNNNNNAACACGAC,AB-WO4-121,patel@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-121-04,AB-WO4-121,HapMap24,x9,30ng,Fragmentase-TE-35min,,,,,DHT86,GGAAGAGA,Ri522-20210511,NNNNNNNNNNNNGTGGTCTT,AB-WO4-121,patel@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-121-05,AB-WO4-121,HapMap24,x9,30ng,Fragmentase-40min,,,,,DHT87,GCGTTAGA,Ri518-20210511,NNNNNNNNNNNNTGTGTGCT,AB-WO4-121,patel@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-121-06,AB-WO4-121,HapMap24,x9,30ng,Fragmentase-40min,,,,,DHT88,ATCTGACC,Ri520-20210511,NNNNNNNNNNNNACACCGTA,AB-WO4-121,patel@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-121-07,AB-WO4-121,HapMap24,x9,30ng,Fragmentase-TE-40min,,,,,DHT89,AACCAGAG,Ri521-20210511,NNNNNNNNNNNNAACACGAC,AB-WO4-121,patel@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-121-08,AB-WO4-121,HapMap24,x9,30ng,Fragmentase-TE-40min,,,,,DHT90,GTACCACA,Ri522-20210511,NNNNNNNNNNNNGTGGTCTT,AB-WO4-121,patel@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-121-09,AB-WO4-121,HapMap24,x8-001b,30ng,Sheared,,,,,DHT91,GGTATAGG,Ri518-20210511,NNNNNNNNNNNNTGTGTGCT,AB-WO4-121,patel@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-121-10,AB-WO4-121,HapMap24,x8-001b,30ng,Sheared,,,,,DHT92,CGAGAGAA,Ri520-20210511,NNNNNNNNNNNNACACCGTA,AB-WO4-121,patel@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-121-11,AB-WO4-121,HapMap24,x8-001b,30ng,Sheared,,,,,DHT93,CAGCATAC,Ri521-20210511,NNNNNNNNNNNNAACACGAC,AB-WO4-121,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-121-12,AB-WO4-121,HapMap24,x8-001b,30ng,Sheared,,,,,DHT94,CTCGACTT,Ri522-20210511,NNNNNNNNNNNNGTGGTCTT,AB-WO4-121,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-121-13,AB-WO4-121,HapMap24,x9,30ng,SizeSelected-cfDNA,,,,,DHT95,CTTCGGTT,Ri518-20210511,NNNNNNNNNNNNTGTGTGCT,AB-WO4-121,patel@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-121-14,AB-WO4-121,HapMap24,x9,30ng,SizeSelected-cfDNA,,,,,DHT96,CCACAACA,Ri520-20210511,NNNNNNNNNNNNACACCGTA,AB-WO4-121,patel@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-121-15,AB-WO4-121,HapMap24,x9,30ng,SizeSelected-cfDNA,,,,,DHT1,TTACCGAC,Ri521-20210511,NNNNNNNNNNNNAACACGAC,AB-WO4-121,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-121-16,AB-WO4-121,HapMap24,x9,30ng,SizeSelected-cfDNA,,,,,DHT2,AGTGACCT,Ri522-20210511,NNNNNNNNNNNNGTGGTCTT,AB-WO4-121,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha

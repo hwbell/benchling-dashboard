@@ -1,0 +1,40 @@
+[Header],,,,,,,,,
+IEMFileVersion,4,,,,,,,,
+Investigator Name,BSS,,,,,,,,
+Experiment Name,BSS_Exp95,,,,,,,,
+Date,3/4/21,,,,,,,,
+Workflow,GenerateFASTQ,,,,,,,,
+Application,FASTQ Only,,,,,,,,
+Assay,TruSeq HT,,,,,,,,
+Description,BSS_Exp95,,,,,,,,
+Chemistry,Amplicon,,,,,,,,
+,,,,,,,,,
+[Reads],,,,,,,,,
+76,,,,,,,,,
+76,,,,,,,,,
+,,,,,,,,,
+[Settings],,,,,,,,,
+ReverseComplement,0,,,,,,,,
+,,,,,,,,,
+[Data],,,,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Description
+5ng_NA12878_BufferNoKClBSAlargebatch_150mMKCl_0.25BSA__4ulsEM_25mins_37degrees_15mins65degrees-1,,,A8,S791,TCTAGGAG,,,,bsexton@neb.com
+5ng_NA12878_BufferNoKClBSAlargebatch_150mMKCl_0.25BSA__4ulsEM_25mins_37degrees_15mins65degrees-2,,,B8,S726,TGCGTAAC,,,,bsexton@neb.com
+5ng_NA12878_BufferNoKClBSAlargebatch_150mMKCl_0.25BSA__4ulsEM_25mins_37degrees_15mins65degrees_clean-1,,,C8,S767,CTTGCTAG,,,,bsexton@neb.com
+5ng_NA12878_BufferNoKClBSAlargebatch_150mMKCl_0.25BSA__4ulsEM_25mins_37degrees_15mins65degrees_clean-2,,,D8,S738,AGCGAGAT,,,,bsexton@neb.com
+5ng_NA12878_BufferNoKClBSAlargebatch_150mMKCl_0.25BSA__4ulsEM_30mins_37degrees_15mins65degrees-1,,,E8,S766,TATGGCAC,,,,bsexton@neb.com
+5ng_NA12878_BufferNoKClBSAlargebatch_150mMKCl_0.25BSA__4ulsEM_30mins_37degrees_15mins65degrees-2,,,F8,S711,GAATCACC,,,,bsexton@neb.com
+5ng_NA12878_BufferNoKClBSAlargebatch_150mMKCl_0.25BSA__4ulsEM_30mins_37degrees_15mins65degrees_clean-1,,,G8,S759,GTAAGGTG,,,,bsexton@neb.com
+5ng_NA12878_BufferNoKClBSAlargebatch_150mMKCl_0.25BSA__4ulsEM_30mins_37degrees_15mins65degrees_clean-2,,,H8,S721,CGAGAGAA,,,,bsexton@neb.com
+5ng_NA12878_Covaris-1,,,A9,S723,CGCAACTA,,,,bsexton@neb.com
+5ng_NA12878_Covaris-2,,,B9,S707,CACAGACT,,,,bsexton@neb.com
+1ng_NA12878_BufferNoKClBSAlargebatch_150mMKCl_0.25BSA__4ulsEM_25mins_37degrees_15mins65degrees-1,,,C9,S745,TGGAAGCA,,,,bsexton@neb.com
+1ng_NA12878_BufferNoKClBSAlargebatch_150mMKCl_0.25BSA__4ulsEM_25mins_37degrees_15mins65degrees-2,,,D9,S746,CAATAGCC,,,,bsexton@neb.com
+1ng_NA12878_BufferNoKClBSAlargebatch_150mMKCl_0.25BSA__4ulsEM_25mins_37degrees_15mins65degrees_clean-1,,,E9,S778,CTCGAACA,,,,bsexton@neb.com
+1ng_NA12878_BufferNoKClBSAlargebatch_150mMKCl_0.25BSA__4ulsEM_25mins_37degrees_15mins65degrees_clean-2,,,F9,S781,GGCAAGTT,,,,bsexton@neb.com
+1ng_NA12878_BufferNoKClBSAlargebatch_150mMKCl_0.25BSA__4ulsEM_30mins_37degrees_15mins65degrees-1,,,G9,S740,AGCTACCA,,,,bsexton@neb.com
+1ng_NA12878_BufferNoKClBSAlargebatch_150mMKCl_0.25BSA__4ulsEM_30mins_37degrees_15mins65degrees-2,,,H9,S792,CAGCATAC,,,,bsexton@neb.com
+1ng_NA12878_BufferNoKClBSAlargebatch_150mMKCl_0.25BSA__4ulsEM_30mins_37degrees_15mins65degrees_clean-1,,,A10,S705,CGTATCTC,,,,bsexton@neb.com
+1ng_NA12878_BufferNoKClBSAlargebatch_150mMKCl_0.25BSA__4ulsEM_30mins_37degrees_15mins65degrees_clean-2,,,B10,S701,TTACGTGC,,,,bsexton@neb.com
+1ng_NA12878_Covaris-1,,,C10,S754,AGCTAAGC,,,,bsexton@neb.com
+1ng_NA12878_Covaris-2,,,D10,S798,AAGACACC,,,,bsexton@neb.com

@@ -1,0 +1,38 @@
+[Header],,,,,,,,,,,,,,,,,,,,,,,,,
+IEMFileVersion,5,,,,,,,,,,,,,,,,,,,,,,,,
+Investigator Name,BD,,,,,,,,,,,,,,,,,,,,,,,,
+Experiment Name,AB-WO4-ExoT-Dil-Day-040,,,,,,,,,,,,,,,,,,,,,,,,
+Date,9/15/21,,,,,,,,,,,,,,,,,,,,,,,,
+Workflow,GenerateFASTQ,,,,,,,,,,,,,,,,,,,,,,,,
+Application,FASTQ Only,,,,,,,,,,,,,,,,,,,,,,,,
+Assay,TruSeq HT,,,,,,,,,,,,,,,,,,,,,,,,
+Description,,,,,,,,,,,,,,,,,,,,,,,,,
+Chemistry,amplicon,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Reads],,,,,,,,,,,,,,,,,,,,,,,,,
+75,,,,,,,,,,,,,,,,,,,,,,,,,
+75,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Settings],,,,,,,,,,,,,,,,,,,,,,,,,
+ReverseComplement,0,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Data],,,,,,,,,,,,,,,,,,,,,,,,,
+Sample_ID,User,Sample_Name,Sample_Lot,Input_Amount,Condition,Sample_Plate,Sample_Well,Inline_ID,Index0,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Description,Library_ID,Library_Type,Sample_Type,Normal_Library_IDs,Target_Set,Genome,Analysis_Type,Read_Structure,Read_Length,Product
+AB-WO4-ExoT-Dil-Day-040-01,AB-WO4-ExoT-Dil-Day-040,HapMap24,x9-001c,15ng,Stock ExoT 5000U/ml,,,,,DHT15,CTGTACCA,Ri518-20210603,NNNNNNNNNNNNTGTGTGCT,AB-WO4-ExoT-Dil-Day-040,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B8B12M75T,,HsAlpha
+AB-WO4-ExoT-Dil-Day-040-02,AB-WO4-ExoT-Dil-Day-040,HapMap24,x9-001c,15ng,Stock ExoT 5000U/ml,,,,,DHT16,AGACCTTG,Ri518-20210603,NNNNNNNNNNNNTGTGTGCT,AB-WO4-ExoT-Dil-Day-040,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B8B12M75T,,HsAlpha
+AB-WO4-ExoT-Dil-Day-040-03,AB-WO4-ExoT-Dil-Day-040,HapMap24,x9-001c,15ng,Diluted ExoT 500U/ml -20c,,,,,DHT17,AGGATAGC,Ri518-20210603,NNNNNNNNNNNNTGTGTGCT,AB-WO4-ExoT-Dil-Day-040,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B8B12M75T,,HsAlpha
+AB-WO4-ExoT-Dil-Day-040-04,AB-WO4-ExoT-Dil-Day-040,HapMap24,x9-001c,15ng,Diluted ExoT 500U/ml -20c,,,,,DHT18,CCTTCCAT,Ri518-20210603,NNNNNNNNNNNNTGTGTGCT,AB-WO4-ExoT-Dil-Day-040,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B8B12M75T,,HsAlpha
+AB-WO4-ExoT-Dil-Day-040-05,AB-WO4-ExoT-Dil-Day-040,HapMap24,x9-001c,15ng,Diluted ExoT 500U/ml -20c,,,,,DHT19,GTCCTTGA,Ri518-20210603,NNNNNNNNNNNNTGTGTGCT,AB-WO4-ExoT-Dil-Day-040,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B8B12M75T,,HsAlpha
+AB-WO4-ExoT-Dil-Day-040-06,AB-WO4-ExoT-Dil-Day-040,HapMap24,x9-001c,15ng,Diluted ExoT 500U/ml -4c,,,,,DHT20,TGCGTAAC,Ri518-20210603,NNNNNNNNNNNNTGTGTGCT,AB-WO4-ExoT-Dil-Day-040,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B8B12M75T,,HsAlpha
+AB-WO4-ExoT-Dil-Day-040-07,AB-WO4-ExoT-Dil-Day-040,HapMap24,x9-001c,15ng,Diluted ExoT 500U/ml -4c,,,,,DHT21,CACAGACT,Ri518-20210603,NNNNNNNNNNNNTGTGTGCT,AB-WO4-ExoT-Dil-Day-040,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B8B12M75T,,HsAlpha
+AB-WO4-ExoT-Dil-Day-040-08,AB-WO4-ExoT-Dil-Day-040,HapMap24,x9-001c,15ng,Diluted ExoT 500U/ml -4c,,,,,DHT22,TTACGTGC,Ri518-20210603,NNNNNNNNNNNNTGTGTGCT,AB-WO4-ExoT-Dil-Day-040,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B8B12M75T,,HsAlpha
+AB-WO4-ExoT-Dil-Day-040-09,AB-WO4-ExoT-Dil-Day-040,HapMap24,x9-001c,100ng,Stock ExoT 5000U/ml,,,,,DHT23,CCAAGGTT,Ri518-20210603,NNNNNNNNNNNNTGTGTGCT,AB-WO4-ExoT-Dil-Day-040,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B8B12M75T,,HsAlpha
+AB-WO4-ExoT-Dil-Day-040-10,AB-WO4-ExoT-Dil-Day-040,HapMap24,x9-001c,100ng,Stock ExoT 5000U/ml,,,,,DHT24,CACGCAAT,Ri518-20210603,NNNNNNNNNNNNTGTGTGCT,AB-WO4-ExoT-Dil-Day-040,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B8B12M75T,,HsAlpha
+AB-WO4-ExoT-Dil-Day-040-11,AB-WO4-ExoT-Dil-Day-040,HapMap24,x9-001c,100ng,Diluted ExoT 500U/ml -20c,,,,,DHT25,TTCCAGGT,Ri518-20210603,NNNNNNNNNNNNTGTGTGCT,AB-WO4-ExoT-Dil-Day-040,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B8B12M75T,,HsAlpha
+AB-WO4-ExoT-Dil-Day-040-12,AB-WO4-ExoT-Dil-Day-040,HapMap24,x9-001c,100ng,Diluted ExoT 500U/ml -20c,,,,,DHT26,TCATCTCC,Ri518-20210603,NNNNNNNNNNNNTGTGTGCT,AB-WO4-ExoT-Dil-Day-040,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B8B12M75T,,HsAlpha
+AB-WO4-ExoT-Dil-Day-040-13,AB-WO4-ExoT-Dil-Day-040,HapMap24,x9-001c,100ng,Diluted ExoT 500U/ml -20c,,,,,DHT27,GAGAGTAC,Ri518-20210603,NNNNNNNNNNNNTGTGTGCT,AB-WO4-ExoT-Dil-Day-040,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B8B12M75T,,HsAlpha
+AB-WO4-ExoT-Dil-Day-040-14,AB-WO4-ExoT-Dil-Day-040,HapMap24,x9-001c,100ng,Diluted ExoT 500U/ml -4c,,,,,DHT28,GTCGTTAC,Ri518-20210603,NNNNNNNNNNNNTGTGTGCT,AB-WO4-ExoT-Dil-Day-040,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B8B12M75T,,HsAlpha
+AB-WO4-ExoT-Dil-Day-040-15,AB-WO4-ExoT-Dil-Day-040,HapMap24,x9-001c,100ng,Diluted ExoT 500U/ml -4c,,,,,DHT29,GGAGGAAT,Ri518-20210603,NNNNNNNNNNNNTGTGTGCT,AB-WO4-ExoT-Dil-Day-040,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B8B12M75T,,HsAlpha
+AB-WO4-ExoT-Dil-Day-040-16,AB-WO4-ExoT-Dil-Day-040,HapMap24,x9-001c,100ng,Diluted ExoT 500U/ml -4c,,,,,DHT30,AGGAACAC,Ri518-20210603,NNNNNNNNNNNNTGTGTGCT,AB-WO4-ExoT-Dil-Day-040,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B8B12M75T,,HsAlpha

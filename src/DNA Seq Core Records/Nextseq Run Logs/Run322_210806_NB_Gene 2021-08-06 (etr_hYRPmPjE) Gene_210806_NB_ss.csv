@@ -1,0 +1,29 @@
+[Header],,,,,,,
+IEMFileVersion,5,,,,,,
+Investigator Name,Gene Chin,,,,,,
+Experiment Name,NicE seq application,,,,,,
+Date,8/6/21,,,,,,
+Workflow,GenerateFASTQ,,,,,,
+Application,FASTQ Only,,,,,,
+Instrument Type,Miseq,,,,,,
+Assay,TruSeq LT,,,,,,
+Description,,,,,,,
+Chemistry,Default,,,,,,
+,,,,,,,
+75,,,,,,,
+75,,,,,,,
+,,,,,,,
+[Settings],,,,,,,
+,,,,,,,
+[Data],,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,Sample_Project,Description
+50K_500pg_D1,,,,Index_7,CAGATC,,chinh@neb.com
+50K_500pg_D2,,,,Index_10,TAGCTT,,chinh@neb.com
+50K_1ng_D1,,,,Index_11,GGCTAC,,chinh@neb.com
+50K_1ng_D2,,,,Index_12,CTTGTA,,chinh@neb.com
+50K_1.5ng_D1,,,,Index_15,ATGTCA,,chinh@neb.com
+50K_1.5ng_D2,,,,Index_18,GTCCGC,,chinh@neb.com
+50K_2ng_D1,,,,Index_20,GTGGCC,,chinh@neb.com
+50K_2ng_D2,,,,Index_23,GAGTGG,,chinh@neb.com
+50K_NODNA_D1,,,,Index_35,CATTTT,,chinh@neb.com
+50K_NODNA_D2,,,,Index_42,TAATCG,,chinh@neb.com

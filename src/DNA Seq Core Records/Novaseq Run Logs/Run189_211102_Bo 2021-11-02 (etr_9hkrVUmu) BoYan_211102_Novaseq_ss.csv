@@ -1,0 +1,22 @@
+[Header],,,,,,,,,
+IEMFileVersion,4,,,,,,,,
+Investigator Name,Bo Yan,,,,,,,,
+Experiment Name,,,,,,,,,
+Date,10/21/21,,,,,,,,
+Workflow,GenerateFASTQ,,,,,,,,
+Application,FASTQ Only,,,,,,,,
+Assay,,,,,,,,,
+Description,Novaseq v1.5 150bp paired-end for LoopSeq,,,,,,,,
+Chemistry,Amplicon,,,,,,,,
+,,,,,,,,,
+[Reads],,,,,,,,,
+150,,,,,,,,,
+150,,,,,,,,,
+[Settings],,,,,,,,,
+,,,,,,,,,
+[Data],,,,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Description
+NEB_3_A,NEB_3_A,,,Index_A,TCAGACGA,,,LoopSeq,yan@neb.com
+NEB_3_B,NEB_3_B,,,Index_B,GATAGGCT,,,LoopSeq,yan@neb.com
+NEB_3_C,NEB_3_C,,,Index_C,TGGTACAG,,,LoopSeq,yan@neb.com
+NEB_3_D,NEB_3_D,,,Index_D,CAAGGTCT,,,LoopSeq,yan@neb.com

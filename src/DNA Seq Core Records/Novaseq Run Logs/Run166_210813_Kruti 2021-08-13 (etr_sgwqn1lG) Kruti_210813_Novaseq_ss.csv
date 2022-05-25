@@ -1,0 +1,38 @@
+[Header],,,,,,,,,,,,,,,,,,,,,,,,,
+IEMFileVersion,5,,,,,,,,,,,,,,,,,,,,,,,,
+Investigator Name,KMP,,,,,,,,,,,,,,,,,,,,,,,,
+Experiment Name,AB-WO4-146,,,,,,,,,,,,,,,,,,,,,,,,
+Date,8/13/21,,,,,,,,,,,,,,,,,,,,,,,,
+Workflow,GenerateFASTQ,,,,,,,,,,,,,,,,,,,,,,,,
+Application,FASTQ Only,,,,,,,,,,,,,,,,,,,,,,,,
+Assay,TruSeq HT,,,,,,,,,,,,,,,,,,,,,,,,
+Description,,,,,,,,,,,,,,,,,,,,,,,,,
+Chemistry,amplicon,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Reads],,,,,,,,,,,,,,,,,,,,,,,,,
+75,,,,,,,,,,,,,,,,,,,,,,,,,
+75,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Settings],,,,,,,,,,,,,,,,,,,,,,,,,
+ReverseComplement,0,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Data],,,,,,,,,,,,,,,,,,,,,,,,,
+Sample_ID,User,Sample_Name,Sample_Lot,Input_Amount,Condition,Sample_Plate,Sample_Well,Inline_ID,Index0,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Description,Library_ID,Library_Type,Sample_Type,Normal_Library_IDs,Target_Set,Genome,Analysis_Type,Read_Structure,Read_Length,Product
+AB-WO4-146-01,AB-WO4-146,HapMap24,x9-001c,15ng,Stock-ExoT,,,,,DHT25,TTCCAGGT,Ri510-example,NNNNNNNNNNNNAACCTCTC,AB-WO4-146,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-146-02,AB-WO4-146,HapMap24,x9-001c,15ng,Stock-ExoT,,,,,DHT26,TCATCTCC,Ri510-example,NNNNNNNNNNNNAACCTCTC,AB-WO4-146,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-146-03,AB-WO4-146,HapMap24,x9-001c,15ng,1:12-ExoT,,,,,DHT27,GAGAGTAC,Ri510-example,NNNNNNNNNNNNAACCTCTC,AB-WO4-146,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-146-04,AB-WO4-146,HapMap24,x9-001c,15ng,1:12-ExoT,,,,,DHT28,GTCGTTAC,Ri510-example,NNNNNNNNNNNNAACCTCTC,AB-WO4-146,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-146-05,AB-WO4-146,HapMap24,x9-001c,15ng,1:10-ExoT ,,,,,DHT29,GGAGGAAT,Ri510-example,NNNNNNNNNNNNAACCTCTC,AB-WO4-146,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-146-06,AB-WO4-146,HapMap24,x9-001c,15ng,1:10-ExoT,,,,,DHT30,AGGAACAC,Ri510-example,NNNNNNNNNNNNAACCTCTC,AB-WO4-146,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-146-07,AB-WO4-146,HapMap24,x9-001c,15ng,1:8-ExoT,,,,,DHT31,CAGTGCTT,Ri510-example,NNNNNNNNNNNNAACCTCTC,AB-WO4-146,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-146-08,AB-WO4-146,HapMap24,x9-001c,15ng,1:8-ExoT,,,,,DHT32,CTTGCTAG,Ri510-example,NNNNNNNNNNNNAACCTCTC,AB-WO4-146,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-146-09,AB-WO4-146,HapMap24,x9-001c,100ng,Stock-ExoT,,,,,DHT33,TGGAAGCA,Ri510-example,NNNNNNNNNNNNAACCTCTC,AB-WO4-146,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-146-10,AB-WO4-146,HapMap24,x9-001c,100ng,Stock-ExoT,,,,,DHT34,AGCTAAGC,Ri510-example,NNNNNNNNNNNNAACCTCTC,AB-WO4-146,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-146-11,AB-WO4-146,HapMap24,x9-001c,100ng,1:12-ExoT,,,,,DHT35,GAACGGTT,Ri510-example,NNNNNNNNNNNNAACCTCTC,AB-WO4-146,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-146-12,AB-WO4-146,HapMap24,x9-001c,100ng,1:12-ExoT,,,,,DHT36,GGAATGTC,Ri510-example,NNNNNNNNNNNNAACCTCTC,AB-WO4-146,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-146-13,AB-WO4-146,HapMap24,x9-001c,100ng,1:10-ExoT ,,,,,DHT37,TACGGTCT,Ri510-example,NNNNNNNNNNNNAACCTCTC,AB-WO4-146,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-146-14,AB-WO4-146,HapMap24,x9-001c,100ng,1:10-ExoT,,,,,DHT38,CCAGTATC,Ri510-example,NNNNNNNNNNNNAACCTCTC,AB-WO4-146,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-146-15,AB-WO4-146,HapMap24,x9-001c,100ng,1:8-ExoT,,,,,DHT39,TCTACGCA,Ri510-example,NNNNNNNNNNNNAACCTCTC,AB-WO4-146,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-146-16,AB-WO4-146,HapMap24,x9-001c,100ng,1:8-ExoT,,,,,DHT40,GTAACCGA,Ri510-example,NNNNNNNNNNNNAACCTCTC,AB-WO4-146,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha

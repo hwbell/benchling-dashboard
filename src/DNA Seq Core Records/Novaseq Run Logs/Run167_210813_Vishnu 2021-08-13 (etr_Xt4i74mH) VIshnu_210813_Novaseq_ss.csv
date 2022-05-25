@@ -1,0 +1,20 @@
+[Header],,,,,,,,,
+IEMFileVersion,4,,,,,,,,
+Investigator Name,Vishnu Kumary,,,,,,,,
+Experiment Name,WGBS_CM3,,,,,,,,
+Date,8/13/2021,,,,,,,,
+Workflow,GenerateFASTQ,,,,,,,,
+Application,FASTQ Only,,,,,,,,
+Assay,TruSeq HT,,,,,,,,
+Description,,,,,,,,,
+Chemistry,Amplicon,,,,,,,,
+,,,,,,,,,
+[Reads],,,,,,,,,
+150,,,,,,,,,
+150,,,,,,,,,
+[Settings],,,,,,,,,
+,,,,,,,,,
+[Data],,,,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Description
+CM3-1,350,Myoblast,hg38,S755,TTGCGAGA,S566,GTGCCATA,combine_link,vus@neb.com
+CM3-2,350,Myoblast,hg38,S760,GAACGAAG,S511,GGTGATTC,combine_link,vus@neb.com

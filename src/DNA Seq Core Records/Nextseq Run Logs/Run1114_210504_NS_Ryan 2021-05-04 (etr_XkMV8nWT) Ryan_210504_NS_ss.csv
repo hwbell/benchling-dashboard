@@ -1,0 +1,26 @@
+[Header],,,,,,,
+IEMFileVersion,4,,,,,,
+Investigator Name,Ryan_Fuchs,,,,,,
+Experiment Name,VCEtest,,,,,,
+Date,5/4/21,,,,,,
+Workflow,GenerateFASTQ,,,,,,
+Application,FASTQ Only,,,,,,
+Assay,TruSeq LT,,,,,,
+Description,,,,,,,
+Chemistry,Default,,,,,,
+,,,,,,,
+[Reads],,,,,,,
+75,,,,,,,
+75,,,,,,,
+[Settings],,,,,,,
+,,,,,,,
+[Data],,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,Sample_Project,Description
+2855_seed_1,,,,S01,ATCACG,,fuchs@neb.com
+2855_24h_1,,,,S02,CGATGT,,fuchs@neb.com
+2855_57h_1,,,,S03,TTAGGC,,fuchs@neb.com
+2855_77h_1,,,,S04,TGACCA,,fuchs@neb.com
+2855_seed_3,,,,S05,ACAGTG,,fuchs@neb.com
+2855_24h_3,,,,S06,GCCAAT,,fuchs@neb.com
+2855_57h_3,,,,S07,CAGATC,,fuchs@neb.com
+2855_77h_3,,,,S08,ACTTGA,,fuchs@neb.com

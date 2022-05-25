@@ -1,0 +1,38 @@
+﻿[Header],,,,,,,,,,,,,,,,,,,,,,,,,
+IEMFileVersion,5,,,,,,,,,,,,,,,,,,,,,,,,
+Investigator Name,BD,,,,,,,,,,,,,,,,,,,,,,,,
+Experiment Name,AB-WO4-077,,,,,,,,,,,,,,,,,,,,,,,,
+Date,44258,,,,,,,,,,,,,,,,,,,,,,,,
+Workflow,GenerateFASTQ,,,,,,,,,,,,,,,,,,,,,,,,
+Application,FASTQ Only,,,,,,,,,,,,,,,,,,,,,,,,
+Assay,TruSeq HT,,,,,,,,,,,,,,,,,,,,,,,,
+Description,,,,,,,,,,,,,,,,,,,,,,,,,
+Chemistry,amplicon,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Reads],,,,,,,,,,,,,,,,,,,,,,,,,
+70,,,,,,,,,,,,,,,,,,,,,,,,,
+70,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Settings],,,,,,,,,,,,,,,,,,,,,,,,,
+ReverseComplement,0,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Data],,,,,,,,,,,,,,,,,,,,,,,,,
+Sample_ID,User,Sample_Name,Sample_Lot,Input_Amount,Condition,Sample_Plate,Sample_Well,Inline_ID,Index0,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Description,Library_ID,Library_Type,Sample_Type,Normal_Library_IDs,Target_Set,Genome,Analysis_Type,Read_Structure,Read_Length,Product
+AB-WO4-077-01,AB-WO4-077,HapMap24,x9-001a,30ng,SOP,,,,,DHT9,CGCAACTA,Ri501-6A,NNNNNNNNNNNNAGGCTATA,AB-WO4-077,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-077-02,AB-WO4-077,HapMap24,x9-001a,30ng,SOP,,,,,DHT10,CGTATCTC,Ri502-6A,NNNNNNNNNNNNGCCTCTAT,AB-WO4-077,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-077-03,AB-WO4-077,HapMap24,x9-001a,30ng,Strep Beads 200µL,,,,,DHT11,GTACACCT,Ri503-6A,NNNNNNNNNNNNAGGATAGG,AB-WO4-077,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-077-04,AB-WO4-077,HapMap24,x9-001a,30ng,Strep Beads 200µL,,,,,DHT12,CGGCATTA,Ri504-6A,NNNNNNNNNNNNTCAGAGCC,AB-WO4-077,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-077-05,AB-WO4-077,HapMap24,x9-001a,30ng,Strep Beads 250µL,,,,,DHT13,TCGTCTGA,Ri505-5A,NNNNNNNNNNNNCTTCGCCT,AB-WO4-077,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-077-06,AB-WO4-077,HapMap24,x9-001a,30ng,Strep Beads 250µL,,,,,DHT14,AGCCTATC,Ri506-5A,NNNNNNNNNNNNTAAGATTA,AB-WO4-077,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-077-07,AB-WO4-077,HapMap24,x9-001a,30ng,Strep Beads 300µL,,,,,DHT15,CTGTACCA,Ri507-5A,NNNNNNNNNNNNACGTCCTG,AB-WO4-077,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-077-08,AB-WO4-077,HapMap24,x9-001a,30ng,Strep Beads 300µL,,,,,DHT16,AGACCTTG,Ri508-5A,NNNNNNNNNNNNGTCAGTAC,AB-WO4-077,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-077-09,AB-WO4-077,HapMap24,x9-001a,30ng,SOP Split PCR,,,,,DHT89,AACCAGAG,Ri509-5A,NNNNNNNNNNNNGCAAGCAA,AB-WO4-077,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-077-10,AB-WO4-077,HapMap24,x9-001a,30ng,SOP Split PCR,,,,,DHT90,GTACCACA,Ri510-5A,NNNNNNNNNNNNAACCTCTC,AB-WO4-077,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-077-11,AB-WO4-077,HapMap24,x9-001a,30ng,Strep Beads 200µL Split PCR,,,,,DHT91,GGTATAGG,Ri511-5A,NNNNNNNNNNNNAACCAGGT,AB-WO4-077,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-077-12,AB-WO4-077,HapMap24,x9-001a,30ng,Strep Beads 200µL Split PCR,,,,,DHT92,CGAGAGAA,Ri512-5A,NNNNNNNNNNNNTTCCGCTT,AB-WO4-077,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-077-13,AB-WO4-077,HapMap24,x9-001a,30ng,Strep Beads 250µL Split PCR,,,,,DHT93,CAGCATAC,Ri513-7A,NNNNNNNNNNNNTTGTTCCG,AB-WO4-077,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-077-14,AB-WO4-077,HapMap24,x9-001a,30ng,Strep Beads 250µL Split PCR,,,,,DHT94,CTCGACTT,Ri514-7A,NNNNNNNNNNNNAGCTTACC,AB-WO4-077,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-077-15,AB-WO4-077,HapMap24,x9-001a,30ng,Strep Beads 300µL Split PCR,,,,,DHT95,CTTCGGTT,Ri515-7A,NNNNNNNNNNNNATGCCACA,AB-WO4-077,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-077-16,AB-WO4-077,HapMap24,x9-001a,30ng,Strep Beads 300µL Split PCR,,,,,DHT96,CCACAACA,Ri516-7A,NNNNNNNNNNNNTCCGTAGT,AB-WO4-077,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha

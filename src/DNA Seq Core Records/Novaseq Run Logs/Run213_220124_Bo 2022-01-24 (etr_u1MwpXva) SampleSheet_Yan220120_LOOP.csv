@@ -1,0 +1,43 @@
+﻿[Header],,,,,,,,,
+IEMFileVersion,4,,,,,,,,
+Investigator Name,Bo Yan,,,,,,,,
+Experiment Name,,,,,,,,,
+Date,1/20/22,,,,,,,,
+Workflow,GenerateFASTQ,,,,,,,,
+Application,FASTQ Only,,,,,,,,
+Assay,,,,,,,,,
+Description,Novaseq S1 v1.5 150bp paired-end (300 cycle),,,,,,,,
+Chemistry,Amplicon,,,,,,,,
+,,,,,,,,,
+[Reads],,,,,,,,,
+150,,,,,,,,,
+150,,,,,,,,,
+[Settings],,,,,,,,,
+,,,,,,,,,
+[Data],,,,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Description
+NEB_3_A,NEB_3_A,custom,custom,3A,TCAGACGA,3A,AGATCTCG,LoopSeq,yan@neb.com
+NEB_3_B,NEB_3_B,custom,custom,3B,GATAGGCT,3B,AGATCTCG,LoopSeq,yan@neb.com
+NEB_3_C,NEB_3_C,custom,custom,3C,TGGTACAG,3C,AGATCTCG,LoopSeq,yan@neb.com
+NEB_3_D,NEB_3_D,custom,custom,3D,CAAGGTCT,3D,AGATCTCG,LoopSeq,yan@neb.com
+Rep18,Rep18,E6440,C3,S757,GAGAGTAC,S545,TGCTTCCA,Hybridization,yan@neb.com
+Rep19,Rep19,E6440,D3,S783,TCTACGCA,S546,GGCTATTG,Hybridization,yan@neb.com
+Rep20,Rep20,E6440,E3,S722,GCAATTCC,S578,TGTTCGAG,Hybridization,yan@neb.com
+Rep21,Rep21,E6440,F3,S710,CTCAGAAG,S581,AACTTGCC,Hybridization,yan@neb.com
+Rep22,Rep22,E6440,G3,S770,GTCCTAAG,S540,TGGTAGCT,Hybridization,yan@neb.com
+Rep23,Rep23,E6440,H3,S734,GCGTTAGA,S592,GTATGCTG,Hybridization,yan@neb.com
+Test1,Test1,E6440,C4,S735,GTCGTTAC,S554,GCTTAGCT,Hybridization,yan@neb.com
+Test1,Test1,E6440,D4,S727,GTAACCGA,S598,GGTGTCTT,Hybridization,yan@neb.com
+AccSeq_Ecoli,AccSeq_Ecoli,E6444,B1,7-198,CAATCATA,5-246,AATCTCCA,AccSeq,yan@neb.com
+AccSeq_Ecoli_ABK,AccSeq_Ecoli_ABK,E6444,B2,7-206,AGAGCTGC,5-254,CCTTCAAC,AccSeq,yan@neb.com
+s1_ne,s1_ne,E6444,G1,7-203,GTGTGGAG,5-251,GATCATGC,pt project,wyang@neb.com
+s1_1,s1_1,E6444,E1,7-201,GAAGAGGG,5-249,TCCGTCCG,pt project,wyang@neb.com
+s1_2,s1_2,E6444,F1,7-202,TAGTAATC,5-250,GGCTCTGC,pt project,wyang@neb.com
+p1_ne,p1_ne,E6444,F2,7-210,GAAGTGAA,5-258,GACTTGTA,pt project,wyang@neb.com
+p1_1,p1_1,E6444,H1,7-204,ACGTTGTA,5-252,TAGGTCGA,pt project,wyang@neb.com
+p1_2,p1_2,E6444,E2,7-209,GCGGGATA,5-257,CCGTCTCT,pt project,wyang@neb.com
+sal_3h,sal_3h,E6444,G2,7-211,CTGTTTAC,5-259,AAGATTCA,pt project,wyang@neb.com
+sen87_3,sen87_3,E6444,E12,7-289,CAGTGACG,5-241,GAGCGGTA,pt project,wyang@neb.com
+bc_3,bc_3,E6444,F12,7-290,AAGATTGA,5-242,GTGGTTCG,pt project,wyang@neb.com
+sen87_ne,sen87_ne,E6444,G12,7-291,GTGTGTTT,5-243,GAACAATA,pt project,wyang@neb.com
+bc_ne,bc_ne,E6444,H12,7-292,CGTCCGAC,5-244,CACACAAC,pt project,wyang@neb.com

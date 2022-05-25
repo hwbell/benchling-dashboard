@@ -1,0 +1,30 @@
+[Header],,,,,,,
+IEMFileVersion,5,,,,,,
+Investigator Name,Vishnu,,,,,,
+Experiment Name,NEAT-seq_formaldehyde_Methanol,,,,,,
+Date,5/28/21,,,,,,
+Workflow,GenerateFASTQ,,,,,,
+Application,FASTQ Only,,,,,,
+Instrument Type,Miseq,,,,,,
+Assay,TruSeq LT,,,,,,
+Description,,,,,,,
+Chemistry,Default,,,,,,
+,,,,,,,
+[Reads],,,,,,,
+75,,,,,,,
+75,,,,,,,
+,,,,,,,
+[Settings],,,,,,,
+,,,,,,,
+[Data],,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,Sample_Project,Description
+1,,,,Index_1,ATCACG,,vus@neb.com
+4,,,,Index_4,TGACCA,,vus@neb.com
+6,,,,Index_6,GCCAAT,,vus@neb.com
+7,,,,Index_7,CAGATC,,vus@neb.com
+8,,,,Index_8,ACTTGA,,vus@neb.com
+9,,,,Index_9,GATCAG,,vus@neb.com
+12,,,,Index_12,CTTGTA,,vus@neb.com
+25,,,,Index_25,ACTGAT,,vus@neb.com
+26,,,,Index_26,ATGAGC,,vus@neb.com
+27,,,,Index_27,ATTCCT,,vus@neb.com

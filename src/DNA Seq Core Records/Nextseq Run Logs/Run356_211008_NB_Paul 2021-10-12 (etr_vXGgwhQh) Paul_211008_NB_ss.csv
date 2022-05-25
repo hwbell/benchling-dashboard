@@ -1,0 +1,27 @@
+[Header],,,,,,,
+IEMFileVersion,5,,,,,,
+Investigator Name,Paul_Caffrey,,,,,,
+Experiment Name,PJC_MGP_Set_A_RNA_Seq,,,,,,
+Date,10/8/21,,,,,,
+Workflow,GenerateFASTQ,,,,,,
+Application,FASTQ Only,,,,,,
+Instrument Type,,,,,,,
+Assay,TruSeq LT,,,,,,
+Description,,,,,,,
+Chemistry,Default,,,,,,
+,,,,,,,
+[Reads],,,,,,,
+75,,,,,,,
+75,,,,,,,
+,,,,,,,
+[Settings],,,,,,,
+,,,,,,,
+[Data],,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,Sample_Project,Description
+4,,,,Index_4,TGACCA,,pcaffrey@neb.com
+5,,,,Index_5,ACAGTG,,pcaffrey@neb.com
+8,,,,Index_8,ACTTGA,,pcaffrey@neb.com
+9,,,,Index_9,GATCAG,,pcaffrey@neb.com
+10,,,,Index_10,TAGCTT,,pcaffrey@neb.com
+11,,,,Index_11,GGCTAC,,pcaffrey@neb.com
+12,,,,Index_12,CTTGTA,,pcaffrey@neb.com

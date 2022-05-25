@@ -1,0 +1,44 @@
+﻿[Header],,,,,,,,,,,,,,,,,,,,,,,,,
+IEMFileVersion,5,,,,,,,,,,,,,,,,,,,,,,,,
+Investigator Name,SA,,,,,,,,,,,,,,,,,,,,,,,,
+Experiment Name,W01943,,,,,,,,,,,,,,,,,,,,,,,,
+Date,44262,,,,,,,,,,,,,,,,,,,,,,,,
+Workflow,GenerateFASTQ,,,,,,,,,,,,,,,,,,,,,,,,
+Application,FASTQ Only,,,,,,,,,,,,,,,,,,,,,,,,
+Assay,TruSeq HT,,,,,,,,,,,,,,,,,,,,,,,,
+Description,,,,,,,,,,,,,,,,,,,,,,,,,
+Chemistry,amplicon,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Reads],,,,,,,,,,,,,,,,,,,,,,,,,
+75,,,,,,,,,,,,,,,,,,,,,,,,,
+75,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Settings],,,,,,,,,,,,,,,,,,,,,,,,,
+ReverseComplement,0,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Data],,,,,,,,,,,,,,,,,,,,,,,,,
+Sample_ID,User,Sample_Name,Sample_Batch,Input_Amount,Condition,Sample_Plate,Sample_Well,Inline_ID,Index0,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Description,Library_ID,Library_Type,Sample_Type,Normal_Library_IDs,Target_Set,Genome,Analysis_Type,Read_Structure,Read_Length,Product
+W01943_01-001,SA,PLG1074,Lot102030,25ng,TomatoMarketing_exp0520,,,5GS073-A10,TGCGTAAC,DGS01,ATTACTCG,,,,adams@directedgenomics.com,,,,,TomatoMarketing/DB,,Production,12M8B55T8B75T,,GenotypingBySequencing
+W01943_01-002,SA,PLG1074,Lot102030,25ng,TomatoMarketing_exp0520,,,5GS074-B10,GGCAAGTT,DGS01,ATTACTCG,,,,adams@directedgenomics.com,,,,,TomatoMarketing/DB,,Production,12M8B55T8B75T,,GenotypingBySequencing
+W01943_01-003,SA,PLG1074,Lot102030,25ng,TomatoMarketing_exp0520,,,5GS075-C10,CCAAGGTT,DGS01,ATTACTCG,,,,adams@directedgenomics.com,,,,,TomatoMarketing/DB,,Production,12M8B55T8B75T,,GenotypingBySequencing
+W01943_01-004,SA,PLG1074,Lot102030,25ng,TomatoMarketing_exp0520,,,5GS076-D10,GGTGTACA,DGS01,ATTACTCG,,,,adams@directedgenomics.com,,,,,TomatoMarketing/DB,,Production,12M8B55T8B75T,,GenotypingBySequencing
+W01943_01-005,SA,PLG1074,Lot102030,25ng,TomatoMarketing_exp0520,,,5GS077-E10,AGCCTATC,DGS01,ATTACTCG,,,,adams@directedgenomics.com,,,,,TomatoMarketing/DB,,Production,12M8B55T8B75T,,GenotypingBySequencing
+W01943_01-006,SA,PLG1074,Lot102030,25ng,TomatoMarketing_exp0520,,,5GS078-F10,CTCAGAAG,DGS01,ATTACTCG,,,,adams@directedgenomics.com,,,,,TomatoMarketing/DB,,Production,12M8B55T8B75T,,GenotypingBySequencing
+W01943_01-007,SA,PLG1074,Lot102030,25ng,TomatoMarketing_exp0520,,,5GS079-G10,AGGATAGC,DGS01,ATTACTCG,,,,adams@directedgenomics.com,,,,,TomatoMarketing/DB,,Production,12M8B55T8B75T,,GenotypingBySequencing
+W01943_01-008,SA,PLG1074,Lot102030,25ng,TomatoMarketing_exp0520,,,5GS080-H10,AGACGCTA,DGS01,ATTACTCG,,,,adams@directedgenomics.com,,,,,TomatoMarketing/DB,,Production,12M8B55T8B75T,,GenotypingBySequencing
+W01943_02-001,SA,PLG1074,Lot102030,25ng,TomatoMarketing_exp1120,,,5GS081-A11,CTTGCTAG,DGS02,TCCGGAGA,,,,adams@directedgenomics.com,,,,,TomatoMarketing/DB,,Production,12M8B55T8B75T,,GenotypingBySequencing
+W01943_02-002,SA,PLG1074,Lot102030,25ng,TomatoMarketing_exp1120,,,5GS082-B11,AGCTACCA,DGS02,TCCGGAGA,,,,adams@directedgenomics.com,,,,,TomatoMarketing/DB,,Production,12M8B55T8B75T,,GenotypingBySequencing
+W01943_02-003,SA,PLG1074,Lot102030,25ng,TomatoMarketing_exp1120,,,5GS083-C11,GAACGGTT,DGS02,TCCGGAGA,,,,adams@directedgenomics.com,,,,,TomatoMarketing/DB,,Production,12M8B55T8B75T,,GenotypingBySequencing
+W01943_02-004,SA,PLG1074,Lot102030,25ng,TomatoMarketing_exp1120,,,5GS084-D11,GATAGCCA,DGS02,TCCGGAGA,,,,adams@directedgenomics.com,,,,,TomatoMarketing/DB,,Production,12M8B55T8B75T,,GenotypingBySequencing
+W01943_02-005,SA,PLG1074,Lot102030,25ng,TomatoMarketing_exp1120,,,5GS085-E11,TCATCTCC,DGS02,TCCGGAGA,,,,adams@directedgenomics.com,,,,,TomatoMarketing/DB,,Production,12M8B55T8B75T,,GenotypingBySequencing
+W01943_02-006,SA,PLG1074,Lot102030,25ng,TomatoMarketing_exp1120,,,5GS086-F11,GTCCTAAG,DGS02,TCCGGAGA,,,,adams@directedgenomics.com,,,,,TomatoMarketing/DB,,Production,12M8B55T8B75T,,GenotypingBySequencing
+W01943_02-007,SA,PLG1074,Lot102030,25ng,TomatoMarketing_exp1120,,,5GS087-G11,GGAGGAAT,DGS02,TCCGGAGA,,,,adams@directedgenomics.com,,,,,TomatoMarketing/DB,,Production,12M8B55T8B75T,,GenotypingBySequencing
+W01943_02-008,SA,PLG1074,Lot102030,25ng,TomatoMarketing_exp1120,,,5GS088-H11,CAACACAG,DGS02,TCCGGAGA,,,,adams@directedgenomics.com,,,,,TomatoMarketing/DB,,Production,12M8B55T8B75T,,GenotypingBySequencing
+W01943_03-001,SA,PLG1074,Lot102030,25ng,TomatoMarketing_current,,,5GS089-A12,AGCGAGAT,DGS03,CGCTCATT,,,,adams@directedgenomics.com,,,,,TomatoMarketing/DB,,Production,12M8B55T8B75T,,GenotypingBySequencing
+W01943_03-002,SA,PLG1074,Lot102030,25ng,TomatoMarketing_current,,,5GS090-B12,CAGCATAC,DGS03,CGCTCATT,,,,adams@directedgenomics.com,,,,,TomatoMarketing/DB,,Production,12M8B55T8B75T,,GenotypingBySequencing
+W01943_03-003,SA,PLG1074,Lot102030,25ng,TomatoMarketing_current,,,5GS091-C12,CCAGTTGA,DGS03,CGCTCATT,,,,adams@directedgenomics.com,,,,,TomatoMarketing/DB,,Production,12M8B55T8B75T,,GenotypingBySequencing
+W01943_03-004,SA,PLG1074,Lot102030,25ng,TomatoMarketing_current,,,5GS092-D12,CCACAACA,DGS03,CGCTCATT,,,,adams@directedgenomics.com,,,,,TomatoMarketing/DB,,Production,12M8B55T8B75T,,GenotypingBySequencing
+W01943_03-005,SA,PLG1074,Lot102030,25ng,TomatoMarketing_current,,,5GS093-E12,CCAGTATC,DGS03,CGCTCATT,,,,adams@directedgenomics.com,,,,,TomatoMarketing/DB,,Production,12M8B55T8B75T,,GenotypingBySequencing
+W01943_03-006,SA,PLG1074,Lot102030,25ng,TomatoMarketing_current,,,5GS094-F12,GCGTTAGA,DGS03,CGCTCATT,,,,adams@directedgenomics.com,,,,,TomatoMarketing/DB,,Production,12M8B55T8B75T,,GenotypingBySequencing
+W01943_03-007,SA,PLG1074,Lot102030,25ng,TomatoMarketing_current,,,5GS095-G12,GACGTCAT,DGS03,CGCTCATT,,,,adams@directedgenomics.com,,,,,TomatoMarketing/DB,,Production,12M8B55T8B75T,,GenotypingBySequencing
+W01943_03-008,SA,PLG1074,Lot102030,25ng,TomatoMarketing_current,,,5GS096-H12,GTACCACA,DGS03,CGCTCATT,,,,adams@directedgenomics.com,,,,,TomatoMarketing/DB,,Production,12M8B55T8B75T,,GenotypingBySequencing

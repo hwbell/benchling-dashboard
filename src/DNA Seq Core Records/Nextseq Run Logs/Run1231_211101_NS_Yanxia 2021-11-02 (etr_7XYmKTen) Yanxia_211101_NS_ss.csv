@@ -1,0 +1,83 @@
+[Header],,,,,,,,,
+IEMFileVersion,4,,,,,,,,
+Investigator Name,YB,,,,,,,,
+Experiment Name,,,,,,,,,
+Date,11/1/21,,,,,,,,
+Workflow,GenerateFASTQ,,,,,,,,
+Application,FASTQ Only,,,,,,,,
+Assay,TruSeq LT,,,,,,,,
+Description,Phi29,,,,,,,,
+Chemistry,Default,,,,,,,,
+,,,,,,,,,
+[Reads],,,,,,,,,
+76,,,,,,,,,
+76,,,,,,,,,
+,,,,,,,,,
+[Settings],,,,,,,,,
+,,,,,,,,,
+[Data],,,,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Description
+Oct27_Buffer34_1X_TrisHeat_10 pg_Rep2,Oct27_Buffer34_1X_TrisHeat_10 pg_Rep2,,,S62,TTACCGAC,1,AGATCTCG,,beiy@neb.com
+Oct27_Buffer34_1X_TrisHeat_10 pg_Rep3,Oct27_Buffer34_1X_TrisHeat_10 pg_Rep3,,,S13,TCGTCTGA,1,AGATCTCG,,beiy@neb.com
+Oct27_Buffer35_1X_TrisHeat_10 pg_Rep1,Oct27_Buffer35_1X_TrisHeat_10 pg_Rep1,,,S36,TTCCAGGT,1,AGATCTCG,,beiy@neb.com
+Oct27_Buffer35_1X_TrisHeat_10 pg_Rep2,Oct27_Buffer35_1X_TrisHeat_10 pg_Rep2,,,S09,TACGGTCT,1,AGATCTCG,,beiy@neb.com
+Oct27_Buffer34df_1X_TrisHeat_10 pg_Rep2,Oct27_Buffer34df_1X_TrisHeat_10 pg_Rep2,,,S32,AAGACCGT,1,AGATCTCG,,beiy@neb.com
+Oct27_Buffer34df_1X_TrisHeat_10 pg_Rep3,Oct27_Buffer34df_1X_TrisHeat_10 pg_Rep3,,,S74,CAGGTTCA,1,AGATCTCG,,beiy@neb.com
+Oct27_Buffer35df_1X_TrisHeat_10 pg_Rep1,Oct27_Buffer35df_1X_TrisHeat_10 pg_Rep1,,,S47,TAGGAGCT,1,AGATCTCG,,beiy@neb.com
+Oct27_Buffer35df_1X_TrisHeat_10 pg_Rep2,Oct27_Buffer35df_1X_TrisHeat_10 pg_Rep2,,,S94,TACTCCAG,1,AGATCTCG,,beiy@neb.com
+Oct27_Buffer34_0.75X_TrisHeat_10 pg_Rep2,Oct27_Buffer34_0.75X_TrisHeat_10 pg_Rep2,,,S29,AGTGACCT,1,AGATCTCG,,beiy@neb.com
+Oct27_Buffer34_0.75X_TrisHeat_10 pg_Rep3,Oct27_Buffer34_0.75X_TrisHeat_10 pg_Rep3,,,S77,AGCCTATC,1,AGATCTCG,,beiy@neb.com
+Oct27_Buffer35_0.75X_TrisHeat_10 pg_Rep1,Oct27_Buffer35_0.75X_TrisHeat_10 pg_Rep1,,,S72,TCATCTCC,1,AGATCTCG,,beiy@neb.com
+Oct27_Buffer35_0.75X_TrisHeat_10 pg_Rep2,Oct27_Buffer35_0.75X_TrisHeat_10 pg_Rep2,,,S25,CCAGTATC,1,AGATCTCG,,beiy@neb.com
+Oct27_Buffer34df_0.75X_TrisHeat_10 pg_Rep2,Oct27_Buffer34df_0.75X_TrisHeat_10 pg_Rep2,,,S55,TTGCGAGA,1,AGATCTCG,,beiy@neb.com
+Oct27_Buffer34df_0.75X_TrisHeat_10 pg_Rep3,Oct27_Buffer34df_0.75X_TrisHeat_10 pg_Rep3,,,S60,GAACGAAG,1,AGATCTCG,,beiy@neb.com
+Oct27_Buffer35df_0.75X_TrisHeat_10 pg_Rep1,Oct27_Buffer35df_0.75X_TrisHeat_10 pg_Rep1,,,S16,CGAATTGC,1,AGATCTCG,,beiy@neb.com
+Oct27_Buffer35df_0.75X_TrisHeat_10 pg_Rep2,Oct27_Buffer35df_0.75X_TrisHeat_10 pg_Rep2,,,S08,GGAAGAGA,1,AGATCTCG,,beiy@neb.com
+Oct27_Buffer34_2X_TrisHeat_10 pg_Rep2,Oct27_Buffer34_2X_TrisHeat_10 pg_Rep2,,,S02,TCGGATTC,1,AGATCTCG,,beiy@neb.com
+Oct27_Buffer34_2X_TrisHeat_10 pg_Rep3,Oct27_Buffer34_2X_TrisHeat_10 pg_Rep3,,,S96,CTGTACCA,1,AGATCTCG,,beiy@neb.com
+Oct27_Buffer35_2X_TrisHeat_10 pg_Rep1,Oct27_Buffer35_2X_TrisHeat_10 pg_Rep1,,,S57,GAGAGTAC,1,AGATCTCG,,beiy@neb.com
+Oct27_Buffer35_2X_TrisHeat_10 pg_Rep2,Oct27_Buffer35_2X_TrisHeat_10 pg_Rep2,,,S83,TCTACGCA,1,AGATCTCG,,beiy@neb.com
+Oct27_Buffer34_0.75X_KOH_10 pg_Rep2,Oct27_Buffer34_0.75X_KOH_10 pg_Rep2,,,S22,GCAATTCC,1,AGATCTCG,,beiy@neb.com
+Oct27_Buffer34_0.75X_KOH_10 pg_Rep3,Oct27_Buffer34_0.75X_KOH_10 pg_Rep3,,,S10,CTCAGAAG,1,AGATCTCG,,beiy@neb.com
+Oct27_Buffer35_0.75X_KOH_10 pg_Rep1,Oct27_Buffer35_0.75X_KOH_10 pg_Rep1,,,S70,GTCCTAAG,1,AGATCTCG,,beiy@neb.com
+Oct27_Buffer35_0.75X_KOH_10 pg_Rep2,Oct27_Buffer35_0.75X_KOH_10 pg_Rep2,,,S34,GCGTTAGA,1,AGATCTCG,,beiy@neb.com
+Oct27_Buffer34_1X_KOH_10 pg_Rep2,Oct27_Buffer34_1X_KOH_10 pg_Rep2,,,S63,CAAGGTAC,1,AGATCTCG,,beiy@neb.com
+Oct27_Buffer34_1X_KOH_10 pg_Rep3,Oct27_Buffer34_1X_KOH_10 pg_Rep3,,,S56,AGACCTTG,1,AGATCTCG,,beiy@neb.com
+Oct27_Buffer35_1X_KOH_10 pg_Rep1,Oct27_Buffer35_1X_KOH_10 pg_Rep1,,,S35,GTCGTTAC,1,AGATCTCG,,beiy@neb.com
+Oct27_Buffer35_1X_KOH_10 pg_Rep2,Oct27_Buffer35_1X_KOH_10 pg_Rep2,,,S27,GTAACCGA,1,AGATCTCG,,beiy@neb.com
+Oct27_Buffer34_1X_Heat_10 pg_Rep2,Oct27_Buffer34_1X_Heat_10 pg_Rep2,,,S42,GAATCCGT,1,AGATCTCG,,beiy@neb.com
+Oct27_Buffer34_1X_Heat_10 pg_Rep3,Oct27_Buffer34_1X_Heat_10 pg_Rep3,,,S95,CATGAGCA,1,AGATCTCG,,beiy@neb.com
+Oct27_Buffer35_1X_Heat_10 pg_Rep1,Oct27_Buffer35_1X_Heat_10 pg_Rep1,,,S49,CTTAGGAC,1,AGATCTCG,,beiy@neb.com
+Oct27_Buffer35_1X_Heat_10 pg_Rep2,Oct27_Buffer35_1X_Heat_10 pg_Rep2,,,S73,ATCTGACC,1,AGATCTCG,,beiy@neb.com
+Oct28_Buffer34_1X_TrisHeat_10 pg_Rep2,Oct28_Buffer34_1X_TrisHeat_10 pg_Rep2,,,S69,TCCTCATG,1,AGATCTCG,,beiy@neb.com
+Oct28_Buffer34_1X_TrisHeat_10 pg_Rep3,Oct28_Buffer34_1X_TrisHeat_10 pg_Rep3,,,S52,AGGATAGC,1,AGATCTCG,,beiy@neb.com
+Oct28_Buffer35_1X_TrisHeat_10 pg_Rep1,Oct28_Buffer35_1X_TrisHeat_10 pg_Rep1,,,S04,GGAGGAAT,1,AGATCTCG,,beiy@neb.com
+Oct28_Buffer35_1X_TrisHeat_10 pg_Rep2,Oct28_Buffer35_1X_TrisHeat_10 pg_Rep2,,,S15,GACGTCAT,1,AGATCTCG,,beiy@neb.com
+Oct28_Buffer34df_1X_TrisHeat_10 pg_Rep2,Oct28_Buffer34df_1X_TrisHeat_10 pg_Rep2,,,S53,CCGCTTAA,1,AGATCTCG,,beiy@neb.com
+Oct28_Buffer34df_1X_TrisHeat_10 pg_Rep3,Oct28_Buffer34df_1X_TrisHeat_10 pg_Rep3,,,S58,GACGAACT,1,AGATCTCG,,beiy@neb.com
+Oct28_Buffer35df_1X_TrisHeat_10 pg_Rep1,Oct28_Buffer35df_1X_TrisHeat_10 pg_Rep1,,,S84,TCCACGTT,1,AGATCTCG,,beiy@neb.com
+Oct28_Buffer35df_1X_TrisHeat_10 pg_Rep2,Oct28_Buffer35df_1X_TrisHeat_10 pg_Rep2,,,S14,AACCAGAG,1,AGATCTCG,,beiy@neb.com
+Oct28_Buffer34_0.75X_TrisHeat_10 pg_Rep2,Oct28_Buffer34_0.75X_TrisHeat_10 pg_Rep2,,,S71,GTCAGTCA,1,AGATCTCG,,beiy@neb.com
+Oct28_Buffer34_0.75X_TrisHeat_10 pg_Rep3,Oct28_Buffer34_0.75X_TrisHeat_10 pg_Rep3,,,S79,CCTTCCAT,1,AGATCTCG,,beiy@neb.com
+Oct28_Buffer35_0.75X_TrisHeat_10 pg_Rep1,Oct28_Buffer35_0.75X_TrisHeat_10 pg_Rep1,,,S88,AGGAACAC,1,AGATCTCG,,beiy@neb.com
+Oct28_Buffer35_0.75X_TrisHeat_10 pg_Rep2,Oct28_Buffer35_0.75X_TrisHeat_10 pg_Rep2,,,S39,CTTACAGC,1,AGATCTCG,,beiy@neb.com
+Oct28_Buffer34df_0.75X_TrisHeat_10 pg_Rep2,Oct28_Buffer34df_0.75X_TrisHeat_10 pg_Rep2,,,S37,TACCTGCA,1,AGATCTCG,,beiy@neb.com
+Oct28_Buffer34df_0.75X_TrisHeat_10 pg_Rep3,Oct28_Buffer34df_0.75X_TrisHeat_10 pg_Rep3,,,S28,AGACGCTA,1,AGATCTCG,,beiy@neb.com
+Oct28_Buffer35df_0.75X_TrisHeat_10 pg_Rep1,Oct28_Buffer35df_0.75X_TrisHeat_10 pg_Rep1,,,S80,CAACACAG,1,AGATCTCG,,beiy@neb.com
+Oct28_Buffer35df_0.75X_TrisHeat_10 pg_Rep2,Oct28_Buffer35df_0.75X_TrisHeat_10 pg_Rep2,,,S61,GTACCACA,1,AGATCTCG,,beiy@neb.com
+Oct28_Buffer34_2X_TrisHeat_10 pg_Rep2,Oct28_Buffer34_2X_TrisHeat_10 pg_Rep2,,,S12,CGAATACG,1,AGATCTCG,,beiy@neb.com
+Oct28_Buffer34_2X_TrisHeat_10 pg_Rep3,Oct28_Buffer34_2X_TrisHeat_10 pg_Rep3,,,S86,GTCCTTGA,1,AGATCTCG,,beiy@neb.com
+Oct28_Buffer35_2X_TrisHeat_10 pg_Rep1,Oct28_Buffer35_2X_TrisHeat_10 pg_Rep1,,,S43,CAGTGCTT,1,AGATCTCG,,beiy@neb.com
+Oct28_Buffer35_2X_TrisHeat_10 pg_Rep2,Oct28_Buffer35_2X_TrisHeat_10 pg_Rep2,,,S75,TCCATTGC,1,AGATCTCG,,beiy@neb.com
+Oct28_Buffer35_0.75X_KOH_10 pg_Rep1,Oct28_Buffer35_0.75X_KOH_10 pg_Rep1,,,S50,GTCGATTG,1,AGATCTCG,,beiy@neb.com
+Oct28_Buffer35_0.75X_KOH_10 pg_Rep2,Oct28_Buffer35_0.75X_KOH_10 pg_Rep2,,,S06,ATAACGCC,1,AGATCTCG,,beiy@neb.com
+Oct28_Buffer35_0.75X_KOH_10 pg_Rep3,Oct28_Buffer35_0.75X_KOH_10 pg_Rep3,,,S24,GCCTTAAC,1,AGATCTCG,,beiy@neb.com
+Oct28_Buffer35_0.75X_KOH_NTC_,Oct28_Buffer35_0.75X_KOH_NTC_,,,S90,GGTATAGG,1,AGATCTCG,,beiy@neb.com
+Oct28_Buffer34_1X_KOH_10 pg_Rep2,Oct28_Buffer34_1X_KOH_10 pg_Rep2,,,S91,TCTAGGAG,1,AGATCTCG,,beiy@neb.com
+Oct28_Buffer34_1X_KOH_10 pg_Rep3,Oct28_Buffer34_1X_KOH_10 pg_Rep3,,,S26,TGCGTAAC,1,AGATCTCG,,beiy@neb.com
+Oct28_Buffer35_1X_KOH_10 pg_Rep1,Oct28_Buffer35_1X_KOH_10 pg_Rep1,,,S67,CTTGCTAG,1,AGATCTCG,,beiy@neb.com
+Oct28_Buffer35_1X_KOH_10 pg_Rep2,Oct28_Buffer35_1X_KOH_10 pg_Rep2,,,S38,AGCGAGAT,1,AGATCTCG,,beiy@neb.com
+100ng_rep1,100ng_rep1,,,S66,TATGGCAC,1,AGATCTCG,,beiy@neb.com
+100ng_rep2,100ng_rep2,,,S11,GAATCACC,1,AGATCTCG,,beiy@neb.com
+10pg_rep1,10pg_rep1,,,S59,GTAAGGTG,1,AGATCTCG,,beiy@neb.com
+10pg_rep2,10pg_rep2,,,S21,CGAGAGAA,1,AGATCTCG,,beiy@neb.com

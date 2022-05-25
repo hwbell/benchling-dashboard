@@ -1,0 +1,34 @@
+[Header],,,,,,,
+IEMFileVersion,4,,,,,,
+Investigator Name,Ryan_Fuchs,,,,,,
+Experiment Name,RTF_Archtest,,,,,,
+Date,3/27/21,,,,,,
+Workflow,GenerateFASTQ,,,,,,
+Application,FASTQ Only,,,,,,
+Assay,TruSeq LT,,,,,,
+Description,,,,,,,
+Chemistry,Default,,,,,,
+,,,,,,,
+[Reads],,,,,,,
+75,,,,,,,
+75,,,,,,,
+[Settings],,,,,,,
+,,,,,,,
+[Data],,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,Sample_Project,Description
+Tkoda_total,,,,S01,ATCACG,,fuchs@neb.com
+Sacido_total,,,,S02,CGATGT,,fuchs@neb.com
+TAM4_total,,,,S03,TTAGGC,,fuchs@neb.com
+SislandRJ_total,,,,S04,TGACCA,,fuchs@neb.com
+Hsalin_total,,,,S05,ACAGTG,,fuchs@neb.com
+Mjanna_total,,,,S06,GCCAAT,,fuchs@neb.com
+Mmazei_total,,,,S07,CAGATC,,fuchs@neb.com
+Mmari_total,,,,S08,ACTTGA,,fuchs@neb.com
+Tkoda_depl,,,,S09,GATCAG,,fuchs@neb.com
+Sacido_depl,,,,S10,TAGCTT,,fuchs@neb.com
+TAM4_depl,,,,S11,GGCTAC,,fuchs@neb.com
+SislandRJ_depl,,,,S12,CTTGTA,,fuchs@neb.com
+Hsalin_depl,,,,S15,ATGTCA,,fuchs@neb.com
+Mjanna_depl,,,,S19,GTGAAA,,fuchs@neb.com
+Mmazei_depl,,,,S20,GTGGCC,,fuchs@neb.com
+Mmari_depl,,,,S21,GTTTCG,,fuchs@neb.com

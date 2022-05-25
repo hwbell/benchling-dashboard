@@ -1,0 +1,24 @@
+[Header],,,,,,,
+IEMFileVersion,5,,,,,,
+Investigator Name,Lindsey_Cantin,,,,,,
+Experiment Name,Dovetail_hic_hLig3_test,,,,,,
+Date,11/5/21,,,,,,
+Workflow,GenerateFASTQ,,,,,,
+Application,FASTQ Only,,,,,,
+Instrument Type,Miseq,,,,,,
+Assay,TruSeq LT,,,,,,
+Description,,,,,,,
+Chemistry,Default,,,,,,
+,,,,,,,
+[Reads],,,,,,,
+150,,,,,,,
+150,,,,,,,
+,,,,,,,
+[Settings],,,,,,,
+,,,,,,,
+[Data],,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,Sample_Project,Description
+2,,,,Index_2,CGATGT,,lcantin@neb.com
+4,,,,Index_4,TGACCA,,lcantin@neb.com
+6,,,,Index_6,GCCAAT,,lcantin@neb.com
+12,,,,Index_12,CTTGTA,,lcantin@neb.com

@@ -1,0 +1,34 @@
+[Header],,,,,,,
+IEMFileVersion,5,,,,,,
+Investigator Name,NICK GUAN,,,,,,
+Experiment Name,CircRNA enrichment,,,,,,
+Date,4/30/21,,,,,,
+Workflow,GenerateFASTQ,,,,,,
+Application,FASTQ Only,,,,,,
+Instrument Type,Miseq,,,,,,
+Assay,TruSeq LT,,,,,,
+Description,,,,,,,
+Chemistry,Default,,,,,,
+,,,,,,,
+[Reads],,,,,,,
+150,,,,,,,
+150,,,,,,,
+,,,,,,,
+[Settings],,,,,,,
+,,,,,,,
+[Data],,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,Sample_Project,Description
+1,,,,Index_1,ATCACG,,guans@neb.com
+2,,,,Index_2,CGATGT,,guans@neb.com
+3,,,,Index_3,TTAGGC,,guans@neb.com
+4,,,,Index_4,TGACCA,,guans@neb.com
+5,,,,Index_5,ACAGTG,,guans@neb.com
+6,,,,Index_6,GCCAAT,,guans@neb.com
+7,,,,Index_7,CAGATC,,guans@neb.com
+8,,,,Index_8,ACTTGA,,guans@neb.com
+9,,,,Index_9,GATCAG,,guans@neb.com
+10,,,,Index_10,TAGCTT,,guans@neb.com
+11,,,,Index_11,GGCTAC,,guans@neb.com
+12,,,,Index_12,CTTGTA,,guans@neb.com
+13,,,,Index_13,AGTCAA,,guans@neb.com
+14,,,,Index_14,AGTTCC,,guans@neb.com

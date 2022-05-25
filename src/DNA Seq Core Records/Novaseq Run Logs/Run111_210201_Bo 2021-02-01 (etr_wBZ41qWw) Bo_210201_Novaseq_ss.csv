@@ -1,0 +1,31 @@
+[Header],,,,,,,,,
+IEMFileVersion,4,,,,,,,,
+Investigator Name,Bo Yan,,,,,,,,
+Experiment Name,,,,,,,,,
+Date,1/31/21,,,,,,,,
+Workflow,GenerateFASTQ,,,,,,,,
+Application,FASTQ Only,,,,,,,,
+Assay,,,,,,,,,
+Description,100bp Paired-end Novaseq v1.0 S1 kit,,,,,,,,
+Chemistry,Amplicon,,,,,,,,
+,,,,,,,,,
+[Reads],,,,,,,,,
+100,,,,,,,,,
+100,,,,,,,,,
+[Settings],,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+[Data],,,,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Description
+AccRep3_lane2,AccRep3_lane2,E7600,NA,i701,ATTACTCG,i503,CCTATCCT,AccSeq,yan@neb.com
+AccRep4_lane2,AccRep4_lane2,E7600,NA,i702,TCCGGAGA,i504,GGCTCTGA,AccSeq,yan@neb.com
+TwistTar,TwistTar,E7600,NA,i703,CGCTCATT,i505,AGGCGAAG,AccSeq,yan@neb.com
+E2,E2,E6440,E2,S755,TTGCGAGA,S566,TATGGCAC,RNAseq,yan@neb.com
+E3,E3,E6440,E3,S722,GCAATTCC,S578,CTCGAACA,RNAseq,yan@neb.com
+E4,E4,E6440,E4,S742,GAATCCGT,S551,CAACTCCA,RNAseq,yan@neb.com
+E5,E5,E6440,E5,S753,CCGCTTAA,S548,GTCATCGT,RNAseq,yan@neb.com
+E6,E6,E6440,E6,S737,TACCTGCA,S576,GGACATCA,RNAseq,yan@neb.com
+E7,E7,E6440,E7,S750,GTCGATTG,S532,AAGACCGT,RNAseq,yan@neb.com
+EcoWI,EcoWI,E6440,A1,S762,TTACCGAC,S512,CGAATACG,Weiwei,yan@neb.com
+uncut,uncut,E6440,A2,S729,AGTGACCT,S591,TCTAGGAG,Weiwei,yan@neb.com
+PvuI,PvuI,E6440,A3,S702,TCGGATTC,S523,CGCAACTA,Weiwei,yan@neb.com

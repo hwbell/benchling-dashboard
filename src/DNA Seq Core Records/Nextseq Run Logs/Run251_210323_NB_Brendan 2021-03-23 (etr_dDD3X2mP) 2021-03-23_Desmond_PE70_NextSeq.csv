@@ -1,0 +1,34 @@
+﻿[Header],,,,,,,,,,,,,,,,,,,,,,,,,
+IEMFileVersion,5,,,,,,,,,,,,,,,,,,,,,,,,
+Investigator Name,BD,,,,,,,,,,,,,,,,,,,,,,,,
+Experiment Name,AB-WO4-087,,,,,,,,,,,,,,,,,,,,,,,,
+Date,3/23/21,,,,,,,,,,,,,,,,,,,,,,,,
+Workflow,GenerateFASTQ,,,,,,,,,,,,,,,,,,,,,,,,
+Application,FASTQ Only,,,,,,,,,,,,,,,,,,,,,,,,
+Assay,TruSeq HT,,,,,,,,,,,,,,,,,,,,,,,,
+Description,,,,,,,,,,,,,,,,,,,,,,,,,
+Chemistry,amplicon,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Reads],,,,,,,,,,,,,,,,,,,,,,,,,
+70,,,,,,,,,,,,,,,,,,,,,,,,,
+70,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Settings],,,,,,,,,,,,,,,,,,,,,,,,,
+ReverseComplement,0,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Data],,,,,,,,,,,,,,,,,,,,,,,,,
+Sample_ID,User,Sample_Name,Sample_Lot,Input_Amount,Condition,Sample_Plate,Sample_Well,Inline_ID,Index0,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Description,Library_ID,Library_Type,Sample_Type,Normal_Library_IDs,Target_Set,Genome,Analysis_Type,Read_Structure,Read_Length,Product
+AB-WO4-087-01,AB-WO4-087,HapMap24,x9-001a,30ng,ON Hyb,,,,,DHT33,TGGAAGCA,i501-20210311,NNNNNNNNNNNNAGGCTATA,AB-WO4-087,desmond@directedgenomics.com,,,,,ExpandedPanelHS/EQ,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-087-02,AB-WO4-087,HapMap24,x9-001a,30ng,ON Hyb,,,,,DHT34,AGCTAAGC,i501-20210311,NNNNNNNNNNNNAGGCTATA,AB-WO4-087,desmond@directedgenomics.com,,,,,ExpandedPanelHS/EQ,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-087-03,AB-WO4-087,HapMap24,x9-001a,30ng,ON Hyb,,,,,DHT35,GAACGGTT,i501-20210311,NNNNNNNNNNNNAGGCTATA,AB-WO4-087,desmond@directedgenomics.com,,,,,ExpandedPanelHS/EQ,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-087-04,AB-WO4-087,HapMap24,x9-001a,30ng,ON Hyb Strep 150µL,,,,,DHT36,GGAATGTC,i501-20210311,NNNNNNNNNNNNAGGCTATA,AB-WO4-087,desmond@directedgenomics.com,,,,,ExpandedPanelHS/EQ,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-087-05,AB-WO4-087,HapMap24,x9-001a,30ng,ON Hyb Strep 150µL,,,,,DHT37,TACGGTCT,i501-20210311,NNNNNNNNNNNNAGGCTATA,AB-WO4-087,desmond@directedgenomics.com,,,,,ExpandedPanelHS/EQ,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-087-06,AB-WO4-087,HapMap24,x9-001a,30ng,ON Hyb Strep 150µL,,,,,DHT38,CCAGTATC,i501-20210311,NNNNNNNNNNNNAGGCTATA,AB-WO4-087,desmond@directedgenomics.com,,,,,ExpandedPanelHS/EQ,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-087-07,AB-WO4-087,HapMap24,x9-001a,30ng,ON Hyb Strep 150µL Split PCR,,,,,DHT39,TCTACGCA,i501-20210311,NNNNNNNNNNNNAGGCTATA,AB-WO4-087,desmond@directedgenomics.com,,,,,ExpandedPanelHS/EQ,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-087-08,AB-WO4-087,HapMap24,x9-001a,30ng,ON Hyb Strep 150µL Split PCR,,,,,DHT40,GTAACCGA,i501-20210311,NNNNNNNNNNNNAGGCTATA,AB-WO4-087,desmond@directedgenomics.com,,,,,ExpandedPanelHS/EQ,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-087-09,AB-WO4-087,HapMap24,x9-001a,30ng,ON Hyb Strep 150µL Split PCR,,,,,DHT41,GACGTCAT,i501-20210311,NNNNNNNNNNNNAGGCTATA,AB-WO4-087,desmond@directedgenomics.com,,,,,ExpandedPanelHS/EQ,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-087-10,AB-WO4-087,HapMap24,x9-001a,30ng,ON Hyb Split PCR,,,,,DHT42,CTTACAGC,i501-20210311,NNNNNNNNNNNNAGGCTATA,AB-WO4-087,desmond@directedgenomics.com,,,,,ExpandedPanelHS/EQ,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-087-11,AB-WO4-087,HapMap24,x9-001a,30ng,ON Hyb Split PCR,,,,,DHT43,TCCATTGC,i501-20210311,NNNNNNNNNNNNAGGCTATA,AB-WO4-087,desmond@directedgenomics.com,,,,,ExpandedPanelHS/EQ,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-087-12,AB-WO4-087,HapMap24,x9-001a,30ng,ON Hyb Split PCR,,,,,DHT44,AGCGAGAT,i501-20210311,NNNNNNNNNNNNAGGCTATA,AB-WO4-087,desmond@directedgenomics.com,,,,,ExpandedPanelHS/EQ,b38,Research,70T8B12M8B70T,,HsAlpha

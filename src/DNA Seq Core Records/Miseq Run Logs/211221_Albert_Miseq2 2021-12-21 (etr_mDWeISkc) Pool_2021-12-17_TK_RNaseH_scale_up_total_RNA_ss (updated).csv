@@ -1,0 +1,27 @@
+[Header],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+IEMFileVersion,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Investigator Name,atsai,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Experiment Name,TK_RNaseH_scale_up_total_RNA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Date,12/17/21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Workflow,GenerateFASTQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Library type,Illumina-RNA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Application,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Assay,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Description,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Chemistry,Amplicon,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+[Reads],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+75,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+75,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+[Settings],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pool ID,2787,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Max mismatches,default,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Min mismatch delta,default,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Max no calls,default,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Read structure,default,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+[Data],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Post-run,Downsample,Description,Avg_Insert_Size,Min_Insert_Size,Max_Insert_Size,Read_Count,Fold_Coverage,Reference_Genome,Read_Length,Read_Arrangement,5p_Trim_Length,UMI,input_amount_ng,Library_Group_Name,Library_Prep_Method,Shearing_Method,Product_Number,Lot_Number,Pre_Denaturation_Buffer,PCR_Cycles,PCR_Annealing_Deg,PCR_Extension_Deg,PCR_Annealing_Sec,PCR_Extension_Sec,PCR_Yield_Ng,PCR_Conc_nM,PCR_Volume_uL,old_new_lot,sap_number,cdna_yield_ng,fluidex_tray,replicate_number,assay_plate,insert_set,notes
+TK_scale_up_Ctrl,Thermococcus_kodakarensis,,,7-i01,ATTACTCG,5-i02,ATAGAGGC,Exp_8,Make_fastqs,None,atsai@neb.com,423,,,6000000,,Other,75,Paired-end,,,,TK_RNaseH_scale_up_total_RNA,Ultra II RNA,Mg,E7760,,,,,,,,,10.01,,,,,,,,,c2luZ2xlIGluZGV4
+TK_scale_up_RNaseH_rep_1,Thermococcus_kodakarensis,,,7-i02,TCCGGAGA,5-i02,ATAGAGGC,Exp_8,Make_fastqs,None,atsai@neb.com,409,,,6000000,,Other,75,Paired-end,,,,TK_RNaseH_scale_up_total_RNA,Ultra II RNA,Mg,E7760,,,,,,,,,11.2,,,,,,,,,c2luZ2xlIGluZGV4
+TK_scale_up_RNaseH_rep_2,Thermococcus_kodakarensis,,,7-i03,CGCTCATT,5-i02,ATAGAGGC,Exp_8,Make_fastqs,None,atsai@neb.com,407,,,6000000,,Other,75,Paired-end,,,,TK_RNaseH_scale_up_total_RNA,Ultra II RNA,Mg,E7760,,,,,,,,,10.4,,,,,,,,,c2luZ2xlIGluZGV4

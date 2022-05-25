@@ -1,0 +1,45 @@
+[Header],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+IEMFileVersion,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Investigator Name,chinh,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Experiment Name,SaltCallus_EMseq,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Date,4/13/22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Workflow,GenerateFASTQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Library type,Illumina-DNA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Application,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Assay,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Description,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Chemistry,Amplicon,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+[Reads],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+75,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+75,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+[Settings],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pool ID,4449,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Max mismatches,default,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Min mismatch delta,default,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Max no calls,default,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Read structure,default,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+[Data],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Post-run,Downsample,Description,Avg_Insert_Size,Min_Insert_Size,Max_Insert_Size,Read_Count,Fold_Coverage,Reference_Genome,Read_Length,Read_Arrangement,5p_Trim_Length,UMI,input_amount_ng,Library_Group_Name,Library_Prep_Method,Shearing_Method,Product_Number,Lot_Number,Pre_Denaturation_Buffer,PCR_Cycles,PCR_Annealing_Deg,PCR_Extension_Deg,PCR_Annealing_Sec,PCR_Extension_Sec,PCR_Yield_Ng,PCR_Conc_nM,PCR_Volume_uL,old_new_lot,sap_number,cdna_yield_ng,fluidex_tray,replicate_number,assay_plate,insert_set,notes
+EMseq_A0_1,DNA,,,S757,GAGAGTAC,S545,TGCTTCCA,SaltCallus_EMseq,emseq-run,None,chinh@neb.com,495,,,23809500,,Arabidopsis_thaliana_TAIR10,75,Paired-end,,,,SaltCallus_EMseq,UltraII,Covaris,,,,,,,,,,1,,,,,,,,,VGhpcyBzYW1wbGUgcG9vbCB3aWxsIGJlIHJ1biBieSBOb3ZhLXNlcQ==
+EMseq_A0_2,DNA,,,S783,TCTACGCA,S546,GGCTATTG,SaltCallus_EMseq,emseq-run,None,chinh@neb.com,495,,,23809500,,Arabidopsis_thaliana_TAIR10,75,Paired-end,,,,SaltCallus_EMseq,UltraII,Covaris,,,,,,,,,,1,,,,,,,,,VGhpcyBzYW1wbGUgcG9vbCB3aWxsIGJlIHJ1biBieSBOb3ZhLXNlcQ==
+EMseq_A0_3,DNA,,,S722,GCAATTCC,S578,TGTTCGAG,SaltCallus_EMseq,emseq-run,None,chinh@neb.com,495,,,23809500,,Arabidopsis_thaliana_TAIR10,75,Paired-end,,,,SaltCallus_EMseq,UltraII,Covaris,,,,,,,,,,1,,,,,,,,,VGhpcyBzYW1wbGUgcG9vbCB3aWxsIGJlIHJ1biBieSBOb3ZhLXNlcQ==
+EMseq_A120_1,DNA,,,S710,CTCAGAAG,S581,AACTTGCC,SaltCallus_EMseq,emseq-run,None,chinh@neb.com,495,,,23809500,,Arabidopsis_thaliana_TAIR10,75,Paired-end,,,,SaltCallus_EMseq,UltraII,Covaris,,,,,,,,,,1,,,,,,,,,VGhpcyBzYW1wbGUgcG9vbCB3aWxsIGJlIHJ1biBieSBOb3ZhLXNlcQ==
+EMseq_A120_2,DNA,,,S770,GTCCTAAG,S540,TGGTAGCT,SaltCallus_EMseq,emseq-run,None,chinh@neb.com,495,,,23809500,,Arabidopsis_thaliana_TAIR10,75,Paired-end,,,,SaltCallus_EMseq,UltraII,Covaris,,,,,,,,,,1,,,,,,,,,VGhpcyBzYW1wbGUgcG9vbCB3aWxsIGJlIHJ1biBieSBOb3ZhLXNlcQ==
+EMseq_A120_3,DNA,,,S734,GCGTTAGA,S592,GTATGCTG,SaltCallus_EMseq,emseq-run,None,chinh@neb.com,495,,,23809500,,Arabidopsis_thaliana_TAIR10,75,Paired-end,,,,SaltCallus_EMseq,UltraII,Covaris,,,,,,,,,,1,,,,,,,,,VGhpcyBzYW1wbGUgcG9vbCB3aWxsIGJlIHJ1biBieSBOb3ZhLXNlcQ==
+EMseq_M_1,DNA,,,S763,CAAGGTAC,S505,GAGATACG,SaltCallus_EMseq,emseq-run,None,chinh@neb.com,495,,,23809500,,Arabidopsis_thaliana_TAIR10,75,Paired-end,,,,SaltCallus_EMseq,UltraII,Covaris,,,,,,,,,,1,,,,,,,,,VGhpcyBzYW1wbGUgcG9vbCB3aWxsIGJlIHJ1biBieSBOb3ZhLXNlcQ==
+EMseq_M_2,DNA,,,S797,AGACCTTG,S501,GCACGTAA,SaltCallus_EMseq,emseq-run,None,chinh@neb.com,495,,,23809500,,Arabidopsis_thaliana_TAIR10,75,Paired-end,,,,SaltCallus_EMseq,UltraII,Covaris,,,,,,,,,,1,,,,,,,,,VGhpcyBzYW1wbGUgcG9vbCB3aWxsIGJlIHJ1biBieSBOb3ZhLXNlcQ==
+EMseq_M_3,DNA,,,S735,GTCGTTAC,S554,GCTTAGCT,SaltCallus_EMseq,emseq-run,None,chinh@neb.com,495,,,23809500,,Arabidopsis_thaliana_TAIR10,75,Paired-end,,,,SaltCallus_EMseq,UltraII,Covaris,,,,,,,,,,1,,,,,,,,,VGhpcyBzYW1wbGUgcG9vbCB3aWxsIGJlIHJ1biBieSBOb3ZhLXNlcQ==
+WT_0hr_ABA,DNA,,,S727,GTAACCGA,S598,GGTGTCTT,SaltCallus_EMseq,emseq-run,None,chinh@neb.com,495,,,23809500,,Arabidopsis_thaliana_TAIR10,75,Paired-end,,,,SaltCallus_EMseq,UltraII,Covaris,,,,,,,,,,1,,,,,,,,,VGhpcyBzYW1wbGUgcG9vbCB3aWxsIGJlIHJ1biBieSBOb3ZhLXNlcQ==
+WT_1hr_ABA,DNA,,,S742,GAATCCGT,S551,TGGAGTTG,SaltCallus_EMseq,emseq-run,None,chinh@neb.com,495,,,23809500,,Arabidopsis_thaliana_TAIR10,75,Paired-end,,,,SaltCallus_EMseq,UltraII,Covaris,,,,,,,,,,1,,,,,,,,,VGhpcyBzYW1wbGUgcG9vbCB3aWxsIGJlIHJ1biBieSBOb3ZhLXNlcQ==
+WT_3hr_ABA,DNA,,,S795,CATGAGCA,S517,GCAAGATC,SaltCallus_EMseq,emseq-run,None,chinh@neb.com,495,,,23809500,,Arabidopsis_thaliana_TAIR10,75,Paired-end,,,,SaltCallus_EMseq,UltraII,Covaris,,,,,,,,,,1,,,,,,,,,VGhpcyBzYW1wbGUgcG9vbCB3aWxsIGJlIHJ1biBieSBOb3ZhLXNlcQ==
+PRMT6_0hr_ABA,DNA,,,S749,CTTAGGAC,S565,CAGTGAAG,SaltCallus_EMseq,emseq-run,None,chinh@neb.com,495,,,23809500,,Arabidopsis_thaliana_TAIR10,75,Paired-end,,,,SaltCallus_EMseq,UltraII,Covaris,,,,,,,,,,1,,,,,,,,,VGhpcyBzYW1wbGUgcG9vbCB3aWxsIGJlIHJ1biBieSBOb3ZhLXNlcQ==
+PRMT6_1hr_ABA,DNA,,,S773,ATCTGACC,S593,AAGTCGAG,SaltCallus_EMseq,emseq-run,None,chinh@neb.com,495,,,23809500,,Arabidopsis_thaliana_TAIR10,75,Paired-end,,,,SaltCallus_EMseq,UltraII,Covaris,,,,,,,,,,1,,,,,,,,,VGhpcyBzYW1wbGUgcG9vbCB3aWxsIGJlIHJ1biBieSBOb3ZhLXNlcQ==
+PRMT6_3hr_ABA,DNA,,,S769,TCCTCATG,S519,AGGTGTAC,SaltCallus_EMseq,emseq-run,None,chinh@neb.com,495,,,23809500,,Arabidopsis_thaliana_TAIR10,75,Paired-end,,,,SaltCallus_EMseq,UltraII,Covaris,,,,,,,,,,1,,,,,,,,,VGhpcyBzYW1wbGUgcG9vbCB3aWxsIGJlIHJ1biBieSBOb3ZhLXNlcQ==
+CBF_0hr_cold,DNA,,,S752,AGGATAGC,S544,AACCTTGG,SaltCallus_EMseq,emseq-run,None,chinh@neb.com,495,,,23809500,,Arabidopsis_thaliana_TAIR10,75,Paired-end,,,,SaltCallus_EMseq,UltraII,Covaris,,,,,,,,,,1,,,,,,,,,VGhpcyBzYW1wbGUgcG9vbCB3aWxsIGJlIHJ1biBieSBOb3ZhLXNlcQ==
+CBF_12hr_cold,DNA,,,S704,GGAGGAAT,S585,AACCGTTC,SaltCallus_EMseq,emseq-run,None,chinh@neb.com,495,,,23809500,,Arabidopsis_thaliana_TAIR10,75,Paired-end,,,,SaltCallus_EMseq,UltraII,Covaris,,,,,,,,,,1,,,,,,,,,VGhpcyBzYW1wbGUgcG9vbCB3aWxsIGJlIHJ1biBieSBOb3ZhLXNlcQ==
+CBF_24hr_cold,DNA,,,S715,GACGTCAT,S518,TCAACTGG,SaltCallus_EMseq,emseq-run,None,chinh@neb.com,495,,,23809500,,Arabidopsis_thaliana_TAIR10,75,Paired-end,,,,SaltCallus_EMseq,UltraII,Covaris,,,,,,,,,,1,,,,,,,,,VGhpcyBzYW1wbGUgcG9vbCB3aWxsIGJlIHJ1biBieSBOb3ZhLXNlcQ==
+WT_0hr_cold,DNA,,,S753,CCGCTTAA,S548,ACGATGAC,SaltCallus_EMseq,emseq-run,None,chinh@neb.com,495,,,23809500,,Arabidopsis_thaliana_TAIR10,75,Paired-end,,,,SaltCallus_EMseq,UltraII,Covaris,,,,,,,,,,1,,,,,,,,,VGhpcyBzYW1wbGUgcG9vbCB3aWxsIGJlIHJ1biBieSBOb3ZhLXNlcQ==
+WT_12hr_cold,DNA,,,S758,GACGAACT,S568,TCGCATTG,SaltCallus_EMseq,emseq-run,None,chinh@neb.com,495,,,23809500,,Arabidopsis_thaliana_TAIR10,75,Paired-end,,,,SaltCallus_EMseq,UltraII,Covaris,,,,,,,,,,1,,,,,,,,,VGhpcyBzYW1wbGUgcG9vbCB3aWxsIGJlIHJ1biBieSBOb3ZhLXNlcQ==
+WT_24hr_cold,DNA,,,S784,TCCACGTT,S541,GTTCAACC,SaltCallus_EMseq,emseq-run,None,chinh@neb.com,495,,,23809500,,Arabidopsis_thaliana_TAIR10,75,Paired-end,,,,SaltCallus_EMseq,UltraII,Covaris,,,,,,,,,,1,,,,,,,,,VGhpcyBzYW1wbGUgcG9vbCB3aWxsIGJlIHJ1biBieSBOb3ZhLXNlcQ==

@@ -1,0 +1,25 @@
+[Header],,,,,,,,,,,
+IEMFileVersion,5,,,,,,,,,,
+Investigator Name,Ryan Fuchs,,,,,,,,,,
+Experiment Name,RTF_2023062,,,,,,,,,,
+Date,10/22/2021,,,,,,,,,,
+Workflow,SmallRNA,,,,,,,,,,
+Application,Small RNA,,,,,,,,,,
+Instrument Type,Miseq,,,,,,,,,,
+Assay,TruSeq Small RNA,,,,,,,,,,
+Description,,,,,,,,,,,
+Chemistry,Default,,,,,,,,,,
+,,,,,,,,,,,
+[Reads],,,,,,,,,,,
+75,,,,,,,,,,,
+,,,,,,,,,,,
+[Settings],,,,,,,,,,,
+,,,,,,,,,,,
+[Data],,,,,,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,Sample_Project,Description,GenomeFolder,Contaminants,RNA,miRNA
+IVT_d1d2,,,,Index_2,CGATGT,,fuchs@neb.com,,NA,NA,NA
+TS559_d1d2,,,,Index_4,TGACCA,,fuchs@neb.com,,NA,NA,NA
+TK2045_d1d2,,,,Index_5,ACAGTG,,fuchs@neb.com,,NA,NA,NA
+IVT_d5d6,,,,Index_6,GCCAAT,,fuchs@neb.com,,NA,NA,NA
+TS559_d5d6,,,,Index_7,CAGATC,,fuchs@neb.com,,NA,NA,NA
+TK2045_d5d6,,,,Index_12,CTTGTA,,fuchs@neb.com,,NA,NA,NA

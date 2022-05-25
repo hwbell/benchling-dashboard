@@ -1,0 +1,34 @@
+[Header],,,,,,,,,
+IEMFileVersion,4,,,,,,,,
+Investigator Name,Maggie Heider,,,,,,,,
+Experiment Name,FFPEV2_Expt230_precapture,,,,,,,,
+Date,4/7/21,,,,,,,,
+Workflow,GenerateFASTQ,,,,,,,,
+Application,FASTQ Only,,,,,,,,
+Assay,TruSeq HT,,,,,,,,
+Description,,,,,,,,,
+Chemistry,Amplicon,,,,,,,,
+,,,,,,,,,
+[Reads],,,,,,,,,
+76,,,,,,,,,
+76,,,,,,,,,
+[Settings],,,,,,,,,
+,,,,,,,,,
+[Data],,,,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Description
+Library-230-01_UIIDNA_Repairv2_LiverC603613_Tumor,,,A11,S719,GTACACCT,S569,CATGAGGA,,heider@neb.com
+Library-230-02_UIIDNA_Repairv2_LiverC603613_Normal,,,B11,S744,CCAAGGTT,S552,GCTATCCT,,heider@neb.com
+Library-230-03_UIIDNA_Repairv2_ColonC603614_Tumor,,,C11,S785,GAACGGTT,S504,ATTCCTCC,,heider@neb.com
+Library-230-04_UIIDNA_Repairv2_ColonC603614_Normal,,,D11,S718,CCAGTTGA,S515,ATGACGTC,,heider@neb.com
+Library-230-05_UIIDNA_Repairv2_LungC603615_Tumor,,,E11,S748,GTCATCGT,S553,TTAAGCGG,,heider@neb.com
+Library-230-06_UIIDNA_Repairv2_LungC603615_Normal,,,F11,S768,CAATGCGA,S558,AGTTCGTC,,heider@neb.com
+Library-230-07_UIIDNA_Repairv2_LungC603616_Tumor,,,G11,S741,GGTTGAAC,S584,AACGTGGA,,heider@neb.com
+Library-230-08_UIIDNA_Repairv2_LungC603616_Normal,,,H11,S720,CTTCGGTT,S514,CTCTGGTT,,heider@neb.com
+Library-230-09_UIIDNA_Unrepaired_LiverC603613_Tumor,,,A12,S731,CGGCATTA,S571,TGACTGAC,,heider@neb.com
+Library-230-10_UIIDNA_Unrepaired_LiverC603613_Normal,,,B12,S789,CACGCAAT,S579,ATGGAAGG,,heider@neb.com
+Library-230-11_UIIDNA_Unrepaired_ColonC603614_Tumor,,,C12,S787,GGAATGTC,S588,GTGTTCCT,,heider@neb.com
+Library-230-12_UIIDNA_Unrepaired_ColonC603614_Normal,,,D12,S703,TGGTGAAG,S539,GCTGTAAG,,heider@neb.com
+Library-230-13_UIIDNA_Unrepaired_LungC603615_Tumor,,,E12,S776,GGACATCA,S537,TGCAGGTA,,heider@neb.com
+Library-230-14_UIIDNA_Unrepaired_LungC603615_Normal,,,F12,S782,GGTGTACA,S528,TAGCGTCT,,heider@neb.com
+Library-230-15_UIIDNA_Unrepaired_LungC603616_Tumor,,,G12,S730,GATAGCCA,S580,CTGTGTTG,,heider@neb.com
+Library-230-16_UIIDNA_Unrepaired_LungC603616_Normal,,,H12,S733,CCACAACA,S561,TGTGGTAC,,heider@neb.com

@@ -1,0 +1,31 @@
+[Header],,,,,,,,,,,
+IEMFileVersion,5,,,,,,,,,,
+Investigator Name,Jingming Jin,,,,,,,,,,
+Experiment Name,,,,,,,,,,,
+Date,8/30/21,,,,,,,,,,
+Workflow,SmallRNA,,,,,,,,,,
+Application,Small RNA,,,,,,,,,,
+Instrument Type,Miseq,,,,,,,,,,
+Assay,TruSeq Small RNA,,,,,,,,,,
+Description,,,,,,,,,,,
+Chemistry,Default,,,,,,,,,,
+,,,,,,,,,,,
+[Reads],,,,,,,,,,,
+13,,,,,,,,,,,
+13,,,,,,,,,,,
+[Settings],,,,,,,,,,,
+,,,,,,,,,,,
+[Data],,,,,,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,Sample_Project,Description,GenomeFolder,Contaminants,RNA,miRNA
+eyR351_pEY128_index41,,,,41,GACGAC,,jin@neb.com,,NA,NA,NA
+eyR351_pEY140_index43,,,,43,TACAGC,,jin@neb.com,,NA,NA,NA
+eyR351_pEY141_index44,,,,44,TATAAT,,jin@neb.com,,NA,NA,NA
+eyR351_pEY143_index46,,,,46,TCCCGA,,jin@neb.com,,NA,NA,NA
+eyR351_pEY147_index47,,,,47,TCGAAG,,jin@neb.com,,NA,NA,NA
+eyR351_pEY149_index48,,,,48,TCGGCA,,jin@neb.com,,NA,NA,NA
+eyR351_pEY142_index30,,,,30,CACCGG,,jin@neb.com,,NA,NA,NA
+eyR351_pEY144_index31,,,,31,CACGAT,,jin@neb.com,,NA,NA,NA
+eyR351_pEY146_index32,,,,32,CACTCA,,jin@neb.com,,NA,NA,NA
+eyR351_pEY152_index33,,,,33,CAGGCG,,jin@neb.com,,NA,NA,NA
+eyR351_pEY193_index34,,,,34,CATGGC,,jin@neb.com,,NA,NA,NA
+eyR351_MT3_index35,,,,35,CATTTT,,jin@neb.com,,NA,NA,NA

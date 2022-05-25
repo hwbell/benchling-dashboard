@@ -1,0 +1,41 @@
+﻿[Header],,,,,,,,,
+IEMFileVersion,4,,,,,,,,
+Investigator Name,Bo Yan,,,,,,,,
+Experiment Name,,,,,,,,,
+Date,8/17/21,,,,,,,,
+Workflow,GenerateFASTQ,,,,,,,,
+Application,FASTQ Only,,,,,,,,
+Assay,,,,,,,,,
+Description,100bp single Novaseq v1.0 SP kit (100 cycle),,,,,,,,
+Chemistry,Amplicon,,,,,,,,
+,,,,,,,,,
+[Reads],,,,,,,,,
+100,,,,,,,,,
+,,,,,,,,,
+[Settings],,,,,,,,,
+,,,,,,,,,
+[Data],,,,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Description
+H3_tag,H3_tag,E7600,NA,i701,ATTACTCG,s512,CGAATACG,PT ,wyang@neb.com
+uncut_tag,uncut_tag,E7600,NA,i702,TCCGGAGA,s512,CGAATACG,PT ,wyang@neb.com
+H3,H3,E6440,B2,S777,AGCCTATC,S526,TGCGTAAC,PT ,wyang@neb.com
+H2.5,H2.5,E6440,C2,S772,TCATCTCC,S567,CTTGCTAG,PT ,wyang@neb.com
+H2,H2,E6440,D2,S725,CCAGTATC,S538,AGCGAGAT,PT ,wyang@neb.com
+uncut,uncut,E6440,E2,S755,TTGCGAGA,S566,TATGGCAC,PT ,wyang@neb.com
+NA12878_RIMseq,NA12878_RIMseq,E6440,G7,S724,GCCTTAAC,S547,TAGGAGCT,RIMseq,yan@neb.com
+J_En_rep1,J_En_rep1,E6440,F9,S781,GGCAAGTT,S510,CTCAGAAG,Recap,yan@neb.com
+J_CIP_En_rep1,J_CIP_En_rep1,E6440,F2,S760,GAACGAAG,S511,GAATCACC,Recap,yan@neb.com
+J_En_rep2,J_En_rep2,E6440,A1,S762,TTACCGAC,S512,CGAATACG,Recap,yan@neb.com
+J_CIP_En_rep2,J_CIP_En_rep2,E6440,B7,S786,GTCCTTGA,S513,TCGTCTGA,Recap,yan@neb.com
+K_En_rep1,K_En_rep1,E6440,H11,S720,CTTCGGTT,S514,AACCAGAG,Recap,yan@neb.com
+K_CIP_En_rep1,K_CIP_En_rep1,E6440,D11,S718,CCAGTTGA,S515,GACGTCAT,Recap,yan@neb.com
+K_En_rep2,K_En_rep2,E6440,G8,S759,GTAAGGTG,S516,CGAATTGC,Recap,yan@neb.com
+K_CIP_En_rep2,K_CIP_En_rep2,E6440,F4,S795,CATGAGCA,S517,GATCTTGC,Recap,yan@neb.com
+J_Con_rep1,J_Con_rep1,E6440,D5,S715,GACGTCAT,S518,CCAGTTGA,Recap,yan@neb.com
+J_CIP_Con_rep1,J_CIP_Con_rep1,E6440,A5,S769,TCCTCATG,S519,GTACACCT,Recap,yan@neb.com
+J_Con_rep2,J_Con_rep2,E7600,i03,i703,CGCTCATT,i503,CCTATCCT,Recap,yan@neb.com
+J_CIP_Con_rep2,J_CIP_Con_rep2,E7600,i04,i704,GAGATTCC,i504,GGCTCTGA,Recap,yan@neb.com
+K_Con_rep1,K_Con_rep1,E7600,i05,i705,ATTCAGAA,i505,AGGCGAAG,Recap,yan@neb.com
+K_CIP_Con_rep1,K_CIP_Con_rep1,E7600,i06,i706,GAATTCGT,i506,TAATCTTA,Recap,yan@neb.com
+K_Con_rep2,K_Con_rep2,E7600,i07,i707,CTGAAGCT,i507,CAGGACGT,Recap,yan@neb.com
+K_CIP_Con_rep2,K_CIP_Con_rep2,E7600,i08,i708,TAATGCGC,i508,GTACTGAC,Recap,yan@neb.com

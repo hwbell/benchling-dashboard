@@ -1,0 +1,28 @@
+[Header],,,,,,,
+IEMFileVersion,5,,,,,,
+Investigator Name,Kelly Zatpek,,,,,,
+Experiment Name,Tko RNA-seq Deamination,,,,,,
+Date,3/19/17,,,,,,
+Workflow,GenerateFASTQ,,,,,,
+Application,FASTQ Only,,,,,,
+Instrument Type,Miseq,,,,,,
+Assay,TruSeq LT,,,,,,
+Description,,,,,,,
+Chemistry,Default,,,,,,
+,,,,,,,
+[Reads],,,,,,,
+76,,,,,,,
+76,,,,,,,
+,,,,,,,
+[Settings],,,,,,,
+,,,,,,,
+[Data],,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,Sample_Project,Description
+1,,,,Index_1,ATCACG,,kzatopek@neb.com
+2,,,,Index_2,CGATGT,,kzatopek@neb.com
+3,,,,Index_3,TTAGGC,,kzatopek@neb.com
+4,,,,Index_4,TGACCA,,kzatopek@neb.com
+5,,,,Index_5,ACAGTG,,kzatopek@neb.com
+6,,,,Index_6,GCCAAT,,kzatopek@neb.com
+7,,,,Index_7,CAGATC,,kzatopek@neb.com
+8,,,,Index_8,ACTTGA,,kzatopek@neb.com

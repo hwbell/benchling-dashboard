@@ -1,0 +1,30 @@
+﻿[Header],,,,,,,,,,,,,,,,,,,,,,,,,
+IEMFileVersion,5,,,,,,,,,,,,,,,,,,,,,,,,
+Investigator Name,BD,,,,,,,,,,,,,,,,,,,,,,,,
+Experiment Name,AB-WO4-153,,,,,,,,,,,,,,,,,,,,,,,,
+Date,11/8/21,,,,,,,,,,,,,,,,,,,,,,,,
+Workflow,GenerateFASTQ,,,,,,,,,,,,,,,,,,,,,,,,
+Application,FASTQ Only,,,,,,,,,,,,,,,,,,,,,,,,
+Assay,TruSeq HT,,,,,,,,,,,,,,,,,,,,,,,,
+Description,,,,,,,,,,,,,,,,,,,,,,,,,
+Chemistry,amplicon,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Reads],,,,,,,,,,,,,,,,,,,,,,,,,
+70,,,,,,,,,,,,,,,,,,,,,,,,,
+70,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Settings],,,,,,,,,,,,,,,,,,,,,,,,,
+ReverseComplement,0,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Data],,,,,,,,,,,,,,,,,,,,,,,,,
+Sample_ID,User,Sample_Name,Sample_Lot,Input_Amount,Condition,Sample_Plate,Sample_Well,Inline_ID,Index0,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Description,Library_ID,Library_Type,Sample_Type,Normal_Library_IDs,Target_Set,Genome,Analysis_Type,Read_Structure,Read_Length,Product
+AB-WO4-153-01,AB-WO4-153,HapMap24,x9-001c,10ng,SOP,,,,,DHT89,AACCAGAG,Ri505-20210603,NNNNNNNNNNNNCTTCGCCT,AB-WO4-153,desmond@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-153-02,AB-WO4-153,HapMap24,x9-001c,10ng,SOP,,,,,DHT90,GTACCACA,Ri517-20210603,NNNNNNNNNNNNGTGTAACC,AB-WO4-153,desmond@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-153-03,AB-WO4-153,HapMap24,x9-001c,10ng,SOP HPLC i5,,,,,DHT91,GGTATAGG,Ri521-20210411,NNNNNNNNNNNNAACACGAC,AB-WO4-153,desmond@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-153-04,AB-WO4-153,HapMap24,x9-001c,10ng,SOP HPLC i5,,,,,DHT92,CGAGAGAA,Ri522-20210411,NNNNNNNNNNNNGTGGTCTT,AB-WO4-153,desmond@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-153-05,AB-WO4-153,HapMap24,x9-001c,30ng,old 5ligation,,,,,DHT93,CAGCATAC,Ri518-20210603,NNNNNNNNNNNNTGTGTGCT,AB-WO4-153,desmond@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-153-06,AB-WO4-153,HapMap24,x9-001c,30ng,old 5ligation,,,,,DHT94,CTCGACTT,Ri519-20210603,NNNNNNNNNNNNACCGAATC,AB-WO4-153,desmond@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-153-07,AB-WO4-153,HapMap24,x9-001c,30ng,old 5ligation HPLC i5,,,,,DHT95,CTTCGGTT,Ri523-20210411,NNNNNNNNNNNNACACTCAG,AB-WO4-153,desmond@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-153-08,AB-WO4-153,HapMap24,x9-001c,30ng,old 5ligation HPLC i5,,,,,DHT96,CCACAACA,Ri524-20210411,NNNNNNNNNNNNGCGTTATG,AB-WO4-153,desmond@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,70T8B12M8B70T,,HsAlpha

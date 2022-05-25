@@ -1,0 +1,48 @@
+[Header],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+IEMFileVersion,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Investigator Name,chinh,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Experiment Name,NicE-seq_Salt_Callus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Date,4/8/22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Workflow,GenerateFASTQ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Library type,Illumina-DNA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Application,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Assay,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Description,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Chemistry,Amplicon,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+[Reads],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+75,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+75,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+[Settings],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pool ID,4421,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Max mismatches,default,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Min mismatch delta,default,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Max no calls,default,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Read structure,default,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+[Data],,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Post-run,Downsample,Description,Avg_Insert_Size,Min_Insert_Size,Max_Insert_Size,Read_Count,Fold_Coverage,Reference_Genome,Read_Length,Read_Arrangement,5p_Trim_Length,UMI,input_amount_ng,Library_Group_Name,Library_Prep_Method,Shearing_Method,Product_Number,Lot_Number,Pre_Denaturation_Buffer,PCR_Cycles,PCR_Annealing_Deg,PCR_Extension_Deg,PCR_Annealing_Sec,PCR_Extension_Sec,PCR_Yield_Ng,PCR_Conc_nM,PCR_Volume_uL,old_new_lot,sap_number,cdna_yield_ng,fluidex_tray,replicate_number,assay_plate,insert_set,notes
+A0_1_Onetube,DNA,,A1,S762,TTACCGAC,S512,CGTATTCG,NicE-seq_Salt_Callus,Make_fastqs,None,chinh@neb.com,350,,,20833333,,A_thaliana_TAIR10+emseq_controls,75,Paired-end,,,,NicE-seq_Salt_Callus,UltraII,Covaris or enzymatic shearing,,,,,,,,,,1,,,,,,,,,VGhpcyBzYW1wbGUgcG9vbCB3aWxsIGJlIHJ1biBieSBOb3ZhLXNlcQ==
+A0_2_Onetube,DNA,,B1,S713,TCGTCTGA,S586,TCAAGGAC,NicE-seq_Salt_Callus,Make_fastqs,None,chinh@neb.com,350,,,20833333,,A_thaliana_TAIR10+emseq_controls,75,Paired-end,,,,NicE-seq_Salt_Callus,UltraII,Covaris or enzymatic shearing,,,,,,,,,,1,,,,,,,,,VGhpcyBzYW1wbGUgcG9vbCB3aWxsIGJlIHJ1biBieSBOb3ZhLXNlcQ==
+A0_3_Onetube,DNA,,C1,S736,TTCCAGGT,S543,AAGCACTG,NicE-seq_Salt_Callus,Make_fastqs,None,chinh@neb.com,350,,,20833333,,A_thaliana_TAIR10+emseq_controls,75,Paired-end,,,,NicE-seq_Salt_Callus,UltraII,Covaris or enzymatic shearing,,,,,,,,,,1,,,,,,,,,VGhpcyBzYW1wbGUgcG9vbCB3aWxsIGJlIHJ1biBieSBOb3ZhLXNlcQ==
+A120_1_Onetube,DNA,,D1,S709,TACGGTCT,S575,GCAATGGA,NicE-seq_Salt_Callus,Make_fastqs,None,chinh@neb.com,350,,,20833333,,A_thaliana_TAIR10+emseq_controls,75,Paired-end,,,,NicE-seq_Salt_Callus,UltraII,Covaris or enzymatic shearing,,,,,,,,,,1,,,,,,,,,VGhpcyBzYW1wbGUgcG9vbCB3aWxsIGJlIHJ1biBieSBOb3ZhLXNlcQ==
+M120_2_Onetube,DNA,,H1,S794,TACTCCAG,S590,CCTATACC,NicE-seq_Salt_Callus,Make_fastqs,None,chinh@neb.com,350,,,20833333,,A_thaliana_TAIR10+emseq_controls,75,Paired-end,,,,NicE-seq_Salt_Callus,UltraII,Covaris or enzymatic shearing,,,,,,,,,,1,,,,,,,,,VGhpcyBzYW1wbGUgcG9vbCB3aWxsIGJlIHJ1biBieSBOb3ZhLXNlcQ==
+M120_3_Onetube,DNA,,A2,S729,AGTGACCT,S591,CTCCTAGA,NicE-seq_Salt_Callus,Make_fastqs,None,chinh@neb.com,350,,,20833333,,A_thaliana_TAIR10+emseq_controls,75,Paired-end,,,,NicE-seq_Salt_Callus,UltraII,Covaris or enzymatic shearing,,,,,,,,,,1,,,,,,,,,VGhpcyBzYW1wbGUgcG9vbCB3aWxsIGJlIHJ1biBieSBOb3ZhLXNlcQ==
+A0_1_gDNA_NtCviPII2U,DNA,,B2,S777,AGCCTATC,S526,GTTACGCA,NicE-seq_Salt_Callus,Make_fastqs,None,chinh@neb.com,350,,,20833333,,A_thaliana_TAIR10+emseq_controls,75,Paired-end,,,,NicE-seq_Salt_Callus,UltraII,Covaris or enzymatic shearing,,,,,,,,,,1,,,,,,,,,VGhpcyBzYW1wbGUgcG9vbCB3aWxsIGJlIHJ1biBieSBOb3ZhLXNlcQ==
+A0_2_gDNA_NtCviPII2U,DNA,,C2,S772,TCATCTCC,S567,CTAGCAAG,NicE-seq_Salt_Callus,Make_fastqs,None,chinh@neb.com,350,,,20833333,,A_thaliana_TAIR10+emseq_controls,75,Paired-end,,,,NicE-seq_Salt_Callus,UltraII,Covaris or enzymatic shearing,,,,,,,,,,1,,,,,,,,,VGhpcyBzYW1wbGUgcG9vbCB3aWxsIGJlIHJ1biBieSBOb3ZhLXNlcQ==
+A0_3_gDNA_NtCviPII2U,DNA,,D2,S725,CCAGTATC,S538,ATCTCGCT,NicE-seq_Salt_Callus,Make_fastqs,None,chinh@neb.com,350,,,20833333,,A_thaliana_TAIR10+emseq_controls,75,Paired-end,,,,NicE-seq_Salt_Callus,UltraII,Covaris or enzymatic shearing,,,,,,,,,,1,,,,,,,,,VGhpcyBzYW1wbGUgcG9vbCB3aWxsIGJlIHJ1biBieSBOb3ZhLXNlcQ==
+A120_1_gDNA_NtCviPII2U,DNA,,E2,S755,TTGCGAGA,S566,GTGCCATA,NicE-seq_Salt_Callus,Make_fastqs,None,chinh@neb.com,350,,,20833333,,A_thaliana_TAIR10+emseq_controls,75,Paired-end,,,,NicE-seq_Salt_Callus,UltraII,Covaris or enzymatic shearing,,,,,,,,,,1,,,,,,,,,VGhpcyBzYW1wbGUgcG9vbCB3aWxsIGJlIHJ1biBieSBOb3ZhLXNlcQ==
+A120_2_gDNA_NtCviPII2U,DNA,,F2,S760,GAACGAAG,S511,GGTGATTC,NicE-seq_Salt_Callus,Make_fastqs,None,chinh@neb.com,350,,,20833333,,A_thaliana_TAIR10+emseq_controls,75,Paired-end,,,,NicE-seq_Salt_Callus,UltraII,Covaris or enzymatic shearing,,,,,,,,,,1,,,,,,,,,VGhpcyBzYW1wbGUgcG9vbCB3aWxsIGJlIHJ1biBieSBOb3ZhLXNlcQ==
+A120_3_gDNA_NtCviPII2U,DNA,,G2,S716,CGAATTGC,S559,CACCTTAC,NicE-seq_Salt_Callus,Make_fastqs,None,chinh@neb.com,350,,,20833333,,A_thaliana_TAIR10+emseq_controls,75,Paired-end,,,,NicE-seq_Salt_Callus,UltraII,Covaris or enzymatic shearing,,,,,,,,,,1,,,,,,,,,VGhpcyBzYW1wbGUgcG9vbCB3aWxsIGJlIHJ1biBieSBOb3ZhLXNlcQ==
+M120_1_gDNA_NtCviPII2U,DNA,,H2,S708,GGAAGAGA,S521,TTCTCTCG,NicE-seq_Salt_Callus,Make_fastqs,None,chinh@neb.com,350,,,20833333,,A_thaliana_TAIR10+emseq_controls,75,Paired-end,,,,NicE-seq_Salt_Callus,UltraII,Covaris or enzymatic shearing,,,,,,,,,,1,,,,,,,,,VGhpcyBzYW1wbGUgcG9vbCB3aWxsIGJlIHJ1biBieSBOb3ZhLXNlcQ==
+M120_2_gDNA_NtCviPII2U,DNA,,A3,S702,TCGGATTC,S523,TAGTTGCG,NicE-seq_Salt_Callus,Make_fastqs,None,chinh@neb.com,350,,,20833333,,A_thaliana_TAIR10+emseq_controls,75,Paired-end,,,,NicE-seq_Salt_Callus,UltraII,Covaris or enzymatic shearing,,,,,,,,,,1,,,,,,,,,VGhpcyBzYW1wbGUgcG9vbCB3aWxsIGJlIHJ1biBieSBOb3ZhLXNlcQ==
+M120_3_gDNA_NtCviPII2U,DNA,,B3,S796,CTGTACCA,S507,AGTCTGTG,NicE-seq_Salt_Callus,Make_fastqs,None,chinh@neb.com,350,,,20833333,,A_thaliana_TAIR10+emseq_controls,75,Paired-end,,,,NicE-seq_Salt_Callus,UltraII,Covaris or enzymatic shearing,,,,,,,,,,1,,,,,,,,,VGhpcyBzYW1wbGUgcG9vbCB3aWxsIGJlIHJ1biBieSBOb3ZhLXNlcQ==
+A0_1_gDNA_Sonication,DNA,,H10,S793,CTCGACTT,S573,GGTCAGAT,NicE-seq_Salt_Callus,Make_fastqs,None,chinh@neb.com,350,,,20833333,,A_thaliana_TAIR10+emseq_controls,75,Paired-end,,,,NicE-seq_Salt_Callus,UltraII,Covaris or enzymatic shearing,,,,,,,,,,1,,,,,,,,,VGhpcyBzYW1wbGUgcG9vbCB3aWxsIGJlIHJ1biBieSBOb3ZhLXNlcQ==
+A0_2_gDNA_Sonication,DNA,,A11,S719,GTACACCT,S569,CATGAGGA,NicE-seq_Salt_Callus,Make_fastqs,None,chinh@neb.com,350,,,20833333,,A_thaliana_TAIR10+emseq_controls,75,Paired-end,,,,NicE-seq_Salt_Callus,UltraII,Covaris or enzymatic shearing,,,,,,,,,,1,,,,,,,,,VGhpcyBzYW1wbGUgcG9vbCB3aWxsIGJlIHJ1biBieSBOb3ZhLXNlcQ==
+A0_3_gDNA_Sonication,DNA,,B11,S744,CCAAGGTT,S552,GCTATCCT,NicE-seq_Salt_Callus,Make_fastqs,None,chinh@neb.com,350,,,20833333,,A_thaliana_TAIR10+emseq_controls,75,Paired-end,,,,NicE-seq_Salt_Callus,UltraII,Covaris or enzymatic shearing,,,,,,,,,,1,,,,,,,,,VGhpcyBzYW1wbGUgcG9vbCB3aWxsIGJlIHJ1biBieSBOb3ZhLXNlcQ==
+A120_1_gDNA_Sonication,DNA,,C11,S785,GAACGGTT,S504,ATTCCTCC,NicE-seq_Salt_Callus,Make_fastqs,None,chinh@neb.com,350,,,20833333,,A_thaliana_TAIR10+emseq_controls,75,Paired-end,,,,NicE-seq_Salt_Callus,UltraII,Covaris or enzymatic shearing,,,,,,,,,,1,,,,,,,,,VGhpcyBzYW1wbGUgcG9vbCB3aWxsIGJlIHJ1biBieSBOb3ZhLXNlcQ==
+A120_2_gDNA_Sonication,DNA,,D11,S718,CCAGTTGA,S515,ATGACGTC,NicE-seq_Salt_Callus,Make_fastqs,None,chinh@neb.com,350,,,20833333,,A_thaliana_TAIR10+emseq_controls,75,Paired-end,,,,NicE-seq_Salt_Callus,UltraII,Covaris or enzymatic shearing,,,,,,,,,,1,,,,,,,,,VGhpcyBzYW1wbGUgcG9vbCB3aWxsIGJlIHJ1biBieSBOb3ZhLXNlcQ==
+A120_3_gDNA_Sonication,DNA,,E11,S748,GTCATCGT,S553,TTAAGCGG,NicE-seq_Salt_Callus,Make_fastqs,None,chinh@neb.com,350,,,20833333,,A_thaliana_TAIR10+emseq_controls,75,Paired-end,,,,NicE-seq_Salt_Callus,UltraII,Covaris or enzymatic shearing,,,,,,,,,,1,,,,,,,,,VGhpcyBzYW1wbGUgcG9vbCB3aWxsIGJlIHJ1biBieSBOb3ZhLXNlcQ==
+M120_1_gDNA_Sonication,DNA,,F11,S768,CAATGCGA,S558,AGTTCGTC,NicE-seq_Salt_Callus,Make_fastqs,None,chinh@neb.com,350,,,20833333,,A_thaliana_TAIR10+emseq_controls,75,Paired-end,,,,NicE-seq_Salt_Callus,UltraII,Covaris or enzymatic shearing,,,,,,,,,,1,,,,,,,,,VGhpcyBzYW1wbGUgcG9vbCB3aWxsIGJlIHJ1biBieSBOb3ZhLXNlcQ==
+M120_2_gDNA_Sonication,DNA,,G11,S741,GGTTGAAC,S584,AACGTGGA,NicE-seq_Salt_Callus,Make_fastqs,None,chinh@neb.com,350,,,20833333,,A_thaliana_TAIR10+emseq_controls,75,Paired-end,,,,NicE-seq_Salt_Callus,UltraII,Covaris or enzymatic shearing,,,,,,,,,,1,,,,,,,,,VGhpcyBzYW1wbGUgcG9vbCB3aWxsIGJlIHJ1biBieSBOb3ZhLXNlcQ==
+M120_3_gDNA_Sonication,DNA,,H11,S720,CTTCGGTT,S514,CTCTGGTT,NicE-seq_Salt_Callus,Make_fastqs,None,chinh@neb.com,350,,,20833333,,A_thaliana_TAIR10+emseq_controls,75,Paired-end,,,,NicE-seq_Salt_Callus,UltraII,Covaris or enzymatic shearing,,,,,,,,,,1,,,,,,,,,VGhpcyBzYW1wbGUgcG9vbCB3aWxsIGJlIHJ1biBieSBOb3ZhLXNlcQ==

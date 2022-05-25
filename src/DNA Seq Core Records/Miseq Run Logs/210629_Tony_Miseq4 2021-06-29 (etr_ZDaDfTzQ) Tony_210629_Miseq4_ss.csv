@@ -1,0 +1,29 @@
+[Header],,,,,,,,,,,
+IEMFileVersion,5,,,,,,,,,,
+Investigator Name,Tony Dawson,,,,,,,,,,
+Experiment Name,MazF,,,,,,,,,,
+Date,6/28/21,,,,,,,,,,
+Workflow,SmallRNA,,,,,,,,,,
+Application,Small RNA,,,,,,,,,,
+Instrument Type,Miseq,,,,,,,,,,
+Assay,TruSeq Small RNA,,,,,,,,,,
+Description,,,,,,,,,,,
+Chemistry,Default,,,,,,,,,,
+,,,,,,,,,,,
+[Reads],,,,,,,,,,,
+13,,,,,,,,,,,
+13,,,,,,,,,,,
+[Settings]
+,,,,,,,,,,,
+[Data],,,,,,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,Sample_Project,Description,GenomeFolder,Contaminants,RNA,miRNA
+1,,,,Index_1,ATCACG,,yigit@neb.com,,NA,NA,NA
+16,,,,Index_16,CCGTCC,,yigit@neb.com,,NA,NA,NA
+21,,,,Index_21,GTTTCG,,yigit@neb.com,,NA,NA,NA
+24,,,,Index_24,GGTAGC,,yigit@neb.com,,NA,NA,NA
+31,,,,Index_31,CACGAT,,yigit@neb.com,,NA,NA,NA
+37,,,,Index_37,CGGAAT,,yigit@neb.com,,NA,NA,NA
+38,,,,Index_38,CTAGCT,,yigit@neb.com,,NA,NA,NA
+39,,,,Index_39,CTATAC,,yigit@neb.com,,NA,NA,NA
+40,,,,Index_40,CTCAGA,,yigit@neb.com,,NA,NA,NA
+41,,,,Index_41,GACGAC,,yigit@neb.com,,NA,NA,NA

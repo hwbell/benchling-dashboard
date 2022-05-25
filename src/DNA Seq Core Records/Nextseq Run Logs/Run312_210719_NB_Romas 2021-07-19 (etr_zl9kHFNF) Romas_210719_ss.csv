@@ -1,0 +1,32 @@
+[Header],,,,,,,
+IEMFileVersion,5,,,,,,
+Investigator Name,Romas Vaisvila,,,,,,
+Experiment Name,Rita_3T3_07,,,,,,
+Date,7/19/21,,,,,,
+Workflow,GenerateFASTQ,,,,,,
+Application,FASTQ Only,,,,,,
+Instrument Type,Miseq,,,,,,
+Assay,TruSeq LT,,,,,,
+Description,,,,,,,
+Chemistry,Default,,,,,,
+,,,,,,,
+[Reads],,,,,,,
+75,,,,,,,
+75,,,,,,,
+,,,,,,,
+[Settings],,,,,,,
+,,,,,,,
+[Data],,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,Sample_Project,Description
+1,,,,Index_1,ATCACG,,sunz@neb.com
+2,,,,Index_2,CGATGT,,sunz@neb.com
+3,,,,Index_3,TTAGGC,,sunz@neb.com
+4,,,,Index_4,TGACCA,,sunz@neb.com
+5,,,,Index_5,ACAGTG,,sunz@neb.com
+6,,,,Index_6,GCCAAT,,sunz@neb.com
+7,,,,Index_7,CAGATC,,sunz@neb.com
+8,,,,Index_8,ACTTGA,,sunz@neb.com
+9,,,,Index_9,GATCAG,,sunz@neb.com
+10,,,,Index_10,TAGCTT,,sunz@neb.com
+11,,,,Index_11,GGCTAC,,sunz@neb.com
+12,,,,Index_12,CTTGTA,,sunz@neb.com

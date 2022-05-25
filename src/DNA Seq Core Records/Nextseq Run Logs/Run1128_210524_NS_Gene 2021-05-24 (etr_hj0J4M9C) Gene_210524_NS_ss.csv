@@ -1,0 +1,33 @@
+[Header],,,,,,,
+IEMFileVersion,5,,,,,,
+Investigator Name,Gene Chin,,,,,,
+Experiment Name,Nice-seq spike DNA,,,,,,
+Date,5/24/21,,,,,,
+Workflow,GenerateFASTQ,,,,,,
+Application,FASTQ Only,,,,,,
+Instrument Type,Miseq,,,,,,
+Assay,TruSeq LT,,,,,,
+Description,,,,,,,
+Chemistry,Default,,,,,,
+,,,,,,,
+[Reads],,,,,,,
+75,,,,,,,
+75,,,,,,,
+,,,,,,,
+[Settings],,,,,,,
+,,,,,,,
+[Data],,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,Sample_Project,Description
+50K_Index_4,,,,Index_4,TGACCA,,chinh@neb.com
+50K_Index_7,,,,Index_7,CAGATC,,chinh@neb.com
+50K_Index_8,,,,Index_8,ACTTGA,,chinh@neb.com
+50K_Index_9,,,,Index_9,GATCAG,,chinh@neb.com
+100K_Index_23,,,,Index_23,GAGTGG,,chinh@neb.com
+100K_Index_24,,,,Index_24,GGTAGC,,chinh@neb.com
+100K_Index_28,,,,Index_28,CAAAAG,,chinh@neb.com
+100K_Index_29,,,,Index_29,CAACTA,,chinh@neb.com
+100K_Index_33,,,,Index_33,CAGGCG,,chinh@neb.com
+100K_Index_34,,,,Index_34,CATGGC,,chinh@neb.com
+50K_Index_35,,,,Index_35,CATTTT,,chinh@neb.com
+50K_Index_36,,,,Index_36,CCAACA,,chinh@neb.com
+50K_Index_42,,,,Index_42,TAATCG,,chinh@neb.com

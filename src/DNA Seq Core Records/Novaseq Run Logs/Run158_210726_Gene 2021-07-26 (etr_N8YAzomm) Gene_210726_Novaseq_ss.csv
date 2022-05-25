@@ -1,0 +1,38 @@
+[Header],,,,,,,,,
+IEMFileVersion,4,,,,,,,,
+Investigator Name,,Gene Chin,,,,,,,
+Experiment Name,,FFPE_QC2,,,,,,,
+Date,,7/23/21,,,,,,,
+Workflow,GenerateFASTQ,,,,,,,,
+Application,FASTQ Only,,,,,,,,
+Assay,TruSeq HT,,,,,,,,
+Description,,,,,,,,,
+Chemistry,Amplicon,,,,,,,,
+,,,,,,,,,
+[Reads],,,,,,,,,
+75,,,,,,,,,
+75,,,,,,,,,
+[Settings],,,,,,,,,
+,,,,,,,,,
+[Data],,,,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Description
+50K_500pg_P10_D1,50K_500pg_P10_D1,,A10,S705,CGTATCTC,S563,GTACCTTG,,chinh@neb.com
+50K_500pg_P10_D2,50K_500pg_P10_D2,,B10,S701,TTACGTGC,S597,CAAGGTCT,,chinh@neb.com
+50K_1ng_P10_D1,50K_1ng_P10_D1,,C10,S754,AGCTAAGC,S535,GTAACGAC,,chinh@neb.com
+50K_1ng_P10_D2,50K_1ng_P10_D2,,D10,S798,AAGACACC,S527,TCGGTTAC,,chinh@neb.com
+50K_1.5ng_P10_D1,50K_1.5ng_P10_D1,,E10,S751,CAACTCCA,S542,ACGGATTC,,chinh@neb.com
+50K_1.5ng_P10_D2,50K_1.5ng_P10_D2,,F10,S717,GATCTTGC,S595,TGCTCATG,,chinh@neb.com
+50K_2ng_P10_D1,50K_2ng_P10_D1,,G10,S765,CTTCACTG,S549,GTCCTAAG,,chinh@neb.com
+50K_2ng_P10_D2,50K_2ng_P10_D2,,H10,S793,CTCGACTT,S573,GGTCAGAT,,chinh@neb.com
+MV144_DMSO1,MV144_DMSO1,,E11,S748,GTCATCGT,S553,TTAAGCGG,,chinh@neb.com
+MV144_DMSO2,MV144_DMSO2,,F11,S768,CAATGCGA,S558,AGTTCGTC,,chinh@neb.com
+MV144_DMSO3,MV144_DMSO3,,G11,S741,GGTTGAAC,S584,AACGTGGA,,chinh@neb.com
+MV144_DRUG1,MV144_DRUG1,,H11,S720,CTTCGGTT,S514,CTCTGGTT,,chinh@neb.com
+MV144_DRUG2,MV144_DRUG2,,A12,S731,CGGCATTA,S571,TGACTGAC,,chinh@neb.com
+MV144_DRUG3,MV144_DRUG3,,B12,S789,CACGCAAT,S579,ATGGAAGG,,chinh@neb.com
+FFPE_24h_NOPK_gDNA,FFPE_24h_NOPK_gDNA,,C12,S787,GGAATGTC,S588,GTGTTCCT,,chinh@neb.com
+FFPE_48h_NOPK_gDNA,FFPE_48h_NOPK_gDNA,,D12,S703,TGGTGAAG,S539,GCTGTAAG,,chinh@neb.com
+FFPE_24h_PK_gDNA,FFPE_24h_PK_gDNA,,E12,S776,GGACATCA,S537,TGCAGGTA,,chinh@neb.com
+FFPE_48h_PK_gDNA,FFPE_48h_PK_gDNA,,F12,S782,GGTGTACA,S528,TAGCGTCT,,chinh@neb.com
+FFPE_24h_PK_Onetube,FFPE_24h_PK_Onetube,,G12,S730,GATAGCCA,S580,CTGTGTTG,,chinh@neb.com
+FFPE_48h_PK_Onetube,FFPE_48h_PK_Onetube,,H12,S733,CCACAACA,S561,TGTGGTAC,,chinh@neb.com

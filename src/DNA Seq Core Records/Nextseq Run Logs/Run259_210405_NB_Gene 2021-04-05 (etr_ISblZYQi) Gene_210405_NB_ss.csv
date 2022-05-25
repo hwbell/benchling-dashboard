@@ -1,0 +1,32 @@
+[Header],,,,,,,
+IEMFileVersion,5,,,,,,
+Investigator Name,Gene Chin,,,,,,
+Experiment Name,Neat-seq Ab,,,,,,
+Date,4/5/21,,,,,,
+Workflow,GenerateFASTQ,,,,,,
+Application,FASTQ Only,,,,,,
+Instrument Type,Nextseq,,,,,,
+Assay,TruSeq LT,,,,,,
+Description,,,,,,,
+Chemistry,Default,,,,,,
+,,,,,,,
+[Reads],,,,,,,
+75,,,,,,,
+75,,,,,,,
+,,,,,,,
+[Settings],,,,,,,
+,,,,,,,
+[Data],,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,Sample_Project,Description
+IgG_index3,,,,Index_3,TTAGGC,,chinh@neb.com
+H3K27ac_index5,,,,Index_5,ACAGTG,,chinh@neb.com
+H3K27me3_index10,,,,Index_10,TAGCTT,,chinh@neb.com
+H3K4me3_index16,,,,Index_16,CCGTCC,,chinh@neb.com
+CTCTindex18,,,,Index_18,GTCCGC,,chinh@neb.com
+EzH2_index20,,,,Index_20,GTGGCC,,chinh@neb.com
+H3K36me3_index23,,,,Index_23,GAGTGG,,chinh@neb.com
+H3K4me3_index26,,,,Index_26,ATGAGC,,chinh@neb.com
+H3K27me3_index29,,,,Index_29,CAACTA,,chinh@neb.com
+BRG_SMRCA4_index35,,,,Index_35,CATTTT,,chinh@neb.com
+BRD4_index36,,,,Index_36,CCAACA,,chinh@neb.com
+LaminB1_index42,,,,Index_42,TAATCG,,chinh@neb.com

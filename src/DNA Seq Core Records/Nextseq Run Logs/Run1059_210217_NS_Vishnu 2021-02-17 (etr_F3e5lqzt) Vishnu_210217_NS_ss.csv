@@ -1,0 +1,30 @@
+[Header],,,,,,,
+IEMFileVersion,5,,,,,,
+Investigator Name,Vishnu,,,,,,
+Experiment Name,Hela and GM12878,,,,,,
+Date,2/17/21,,,,,,
+Workflow,GenerateFASTQ,,,,,,
+Application,FASTQ Only,,,,,,
+Instrument Type,Nextseq,,,,,,
+Assay,TruSeq LT,,,,,,
+Description,,,,,,,
+Chemistry,Default,,,,,,
+,,,,,,,
+[Reads],,,,,,,
+75,,,,,,,
+75,,,,,,,
+,,,,,,,
+[Settings],,,,,,,
+,,,,,,,
+[Data],,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,Sample_Project,Description
+1,,,,Index_1,ATCACG,,vus@neb.com
+3,,,,Index_3,TTAGGC,,vus@neb.com
+25,,,,Index_25,ACTGAT,,vus@neb.com
+27,,,,Index_27,ATTCCT,,vus@neb.com
+29,,,,Index_29,CAACTA,,vus@neb.com
+31,,,,Index_31,CACGAT,,vus@neb.com
+33,,,,Index_33,CAGGCG,,vus@neb.com
+35,,,,Index_35,CATTTT,,vus@neb.com
+36,,,,Index_36,CCAACA,,vus@neb.com
+42,,,,Index_42,TAATCG,,vus@neb.com

@@ -1,0 +1,26 @@
+[Header],,,,,,,
+IEMFileVersion,5,,,,,,
+Investigator Name,Vishnu USK,,,,,,
+Experiment Name,HT1080,,,,,,
+Date,9/13/21,,,,,,
+Workflow,GenerateFASTQ,,,,,,
+Application,FASTQ Only,,,,,,
+Instrument Type,Miseq,,,,,,
+Assay,TruSeq LT,,,,,,
+Description,,,,,,,
+Chemistry,Default,,,,,,
+,,,,,,,
+[Reads],,,,,,,
+75,,,,,,,
+75,,,,,,,
+,,,,,,,
+[Settings],,,,,,,
+,,,,,,,
+[Data],,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,Sample_Project,Description
+13,,,,Index_13,AGTCAA,,vus@neb.com
+26,,,,Index_26,ATGAGC,,vus@neb.com
+32,,,,Index_32,CACTCA,,vus@neb.com
+33,,,,Index_33,CAGGCG,,vus@neb.com
+34,,,,Index_34,CATGGC,,vus@neb.com
+35,,,,Index_35,CATTTT,,vus@neb.com

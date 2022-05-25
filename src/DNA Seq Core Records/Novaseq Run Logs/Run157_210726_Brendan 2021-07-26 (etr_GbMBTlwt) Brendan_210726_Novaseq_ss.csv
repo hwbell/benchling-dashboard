@@ -1,0 +1,38 @@
+[Header],,,,,,,,,,,,,,,,,,,,,,,,,
+IEMFileVersion,5,,,,,,,,,,,,,,,,,,,,,,,,
+Investigator Name,BD,,,,,,,,,,,,,,,,,,,,,,,,
+Experiment Name,AB-WO4-143,,,,,,,,,,,,,,,,,,,,,,,,
+Date,7/26/21,,,,,,,,,,,,,,,,,,,,,,,,
+Workflow,GenerateFASTQ,,,,,,,,,,,,,,,,,,,,,,,,
+Application,FASTQ Only,,,,,,,,,,,,,,,,,,,,,,,,
+Assay,TruSeq HT,,,,,,,,,,,,,,,,,,,,,,,,
+Description,,,,,,,,,,,,,,,,,,,,,,,,,
+Chemistry,amplicon,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Reads],,,,,,,,,,,,,,,,,,,,,,,,,
+75,,,,,,,,,,,,,,,,,,,,,,,,,
+75,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Settings],,,,,,,,,,,,,,,,,,,,,,,,,
+ReverseComplement,0,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Data],,,,,,,,,,,,,,,,,,,,,,,,,
+Sample_ID,User,Sample_Name,Sample_Lot,Input_Amount,Condition,Sample_Plate,Sample_Well,Inline_ID,Index0,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Description,Library_ID,Library_Type,Sample_Type,Normal_Library_IDs,Target_Set,Genome,Analysis_Type,Read_Structure,Read_Length,Product
+AB-WO4-143-01,AB-WO4-143,HapMap24,x9-001b,15ng,15ng ExoI Working Stock,,,,,DHT49,AAGACCGT,Ri501-,NNNNNNNNNNNNAGGCTATA,AB-WO4-143,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-143-02,AB-WO4-143,HapMap24,x9-001b,15ng,15ng ExoI Working Stock,,,,,DHT50,TTGCGAGA,Ri501-,NNNNNNNNNNNNAGGCTATA,AB-WO4-143,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-143-03,AB-WO4-143,HapMap24,x9-001b,15ng,15ng ExoI Lot 10061782,,,,,DHT51,GCAATTCC,Ri501-,NNNNNNNNNNNNAGGCTATA,AB-WO4-143,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-143-04,AB-WO4-143,HapMap24,x9-001b,15ng,15ng ExoI Lot 10061782,,,,,DHT52,GAATCCGT,Ri501-,NNNNNNNNNNNNAGGCTATA,AB-WO4-143,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-143-05,AB-WO4-143,HapMap24,x9-001b,15ng,15ng ExoI Lot 10077470,,,,,DHT53,CCGCTTAA,Ri501-,NNNNNNNNNNNNAGGCTATA,AB-WO4-143,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-143-06,AB-WO4-143,HapMap24,x9-001b,15ng,15ng ExoI Lot 10077470,,,,,DHT54,TACCTGCA,Ri501-,NNNNNNNNNNNNAGGCTATA,AB-WO4-143,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-143-07,AB-WO4-143,HapMap24,x9-001b,15ng,15ng ExoI Lot 10091325,,,,,DHT55,GTCGATTG,Ri501-,NNNNNNNNNNNNAGGCTATA,AB-WO4-143,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-143-08,AB-WO4-143,HapMap24,x9-001b,15ng,15ng ExoI Lot 10091325,,,,,DHT56,TATGGCAC,Ri501-,NNNNNNNNNNNNAGGCTATA,AB-WO4-143,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-143-09,AB-WO4-143,HapMap24,x9-001b,100ng,100ng ExoI Working Stock,,,,,DHT57,CTCGAACA,Ri501-,NNNNNNNNNNNNAGGCTATA,AB-WO4-143,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-143-10,AB-WO4-143,HapMap24,x9-001b,100ng,100ng ExoI Working Stock,,,,,DHT58,CAACTCCA,Ri501-,NNNNNNNNNNNNAGGCTATA,AB-WO4-143,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-143-11,AB-WO4-143,HapMap24,x9-001b,100ng,100ng ExoI Lot 10061782,,,,,DHT59,GTCATCGT,Ri501-,NNNNNNNNNNNNAGGCTATA,AB-WO4-143,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-143-12,AB-WO4-143,HapMap24,x9-001b,100ng,100ng ExoI Lot 10061782,,,,,DHT60,GGACATCA,Ri501-,NNNNNNNNNNNNAGGCTATA,AB-WO4-143,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-143-13,AB-WO4-143,HapMap24,x9-001b,100ng,100ng ExoI Lot 10077470,,,,,DHT61,CAGGTTCA,Ri501-,NNNNNNNNNNNNAGGCTATA,AB-WO4-143,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-143-14,AB-WO4-143,HapMap24,x9-001b,100ng,100ng ExoI Lot 10077470,,,,,DHT62,GAACGAAG,Ri501-,NNNNNNNNNNNNAGGCTATA,AB-WO4-143,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-143-15,AB-WO4-143,HapMap24,x9-001b,100ng,100ng ExoI Lot 10091325,,,,,DHT63,CTCAGAAG,Ri501-,NNNNNNNNNNNNAGGCTATA,AB-WO4-143,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-143-16,AB-WO4-143,HapMap24,x9-001b,100ng,100ng ExoI Lot 10091325,,,,,DHT64,CATGAGCA,Ri501-,NNNNNNNNNNNNAGGCTATA,AB-WO4-143,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha

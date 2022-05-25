@@ -1,0 +1,54 @@
+[Header],,,,,,,,,,,,,,,,,,,,,,,,,
+IEMFileVersion,5,,,,,,,,,,,,,,,,,,,,,,,,
+Investigator Name,BD,,,,,,,,,,,,,,,,,,,,,,,,
+Experiment Name,AB-WO4-124,,,,,,,,,,,,,,,,,,,,,,,,
+Date,6/2/21,,,,,,,,,,,,,,,,,,,,,,,,
+Workflow,GenerateFASTQ,,,,,,,,,,,,,,,,,,,,,,,,
+Application,FASTQ Only,,,,,,,,,,,,,,,,,,,,,,,,
+Assay,TruSeq HT,,,,,,,,,,,,,,,,,,,,,,,,
+Description,,,,,,,,,,,,,,,,,,,,,,,,,
+Chemistry,amplicon,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Reads],,,,,,,,,,,,,,,,,,,,,,,,,
+75,,,,,,,,,,,,,,,,,,,,,,,,,
+75,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Settings],,,,,,,,,,,,,,,,,,,,,,,,,
+ReverseComplement,0,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Data],,,,,,,,,,,,,,,,,,,,,,,,,
+Sample_ID,User,Sample_Name,Sample_Lot,Input_Amount,Condition,Sample_Plate,Sample_Well,Inline_ID,Index0,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Description,Library_ID,Library_Type,Sample_Type,Normal_Library_IDs,Target_Set,Genome,Analysis_Type,Read_Structure,Read_Length,Product
+AB-WO4-124-KP-01,KP,HapMap24,x9-001b,30ng,Pass after 5Ligation,,,,,DHT37,TACGGTCT,Ri517-20210527,NNNNNNNNNNNNGTGTAACC,AB-WO4-124-KP,patel@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-124-KP-02,KP,HapMap24,x9-001b,30ng,Pass after 5Ligation,,,,,DHT38,CCAGTATC,Ri518-20210527,NNNNNNNNNNNNTGTGTGCT,AB-WO4-124-KP,patel@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-124-KP-03,KP,HapMap24,x9-001b,30ng,Pass after 5Ligation,,,,,DHT39,TCTACGCA,Ri519-20210527,NNNNNNNNNNNNACCGAATC,AB-WO4-124-KP,patel@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-124-KP-04,KP,HapMap24,x9-001b,30ng,Pass after Bead CleanUp,,,,,DHT40,GTAACCGA,Ri520-20210527,NNNNNNNNNNNNACACCGTA,AB-WO4-124-KP,patel@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-124-KP-05,KP,HapMap24,x9-001b,30ng,Pass after Bead CleanUp,,,,,DHT41,GACGTCAT,Ri521-20210527,NNNNNNNNNNNNAACACGAC,AB-WO4-124-KP,patel@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-124-KP-06,KP,HapMap24,x9-001b,30ng,Pass after Bead CleanUp,,,,,DHT42,CTTACAGC,Ri522-20210527,NNNNNNNNNNNNGTGGTCTT,AB-WO4-124-KP,patel@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-124-KP-07,KP,HapMap24,x9-001b,30ng,Pass after Bead Bind,,,,,DHT43,TCCATTGC,Ri523-20210527,NNNNNNNNNNNNACACTCAG,AB-WO4-124-KP,patel@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-124-KP-08,KP,HapMap24,x9-001b,30ng,Pass after Bead Bind,,,,,DHT44,AGCGAGAT,Ri524-20210527,NNNNNNNNNNNNGCGTTATG,AB-WO4-124-KP,patel@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-124-KP-09,KP,HapMap24,x9-001b,30ng,Pass after Bead Bind,,,,,DHT45,CAATAGCC,Ri517-20210527,NNNNNNNNNNNNGTGTAACC,AB-WO4-124-KP,patel@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-124-KP-10,KP,HapMap24,x9-001b,30ng,Pass after Off Target,,,,,DHT46,AAGACACC,Ri518-20210527,NNNNNNNNNNNNTGTGTGCT,AB-WO4-124-KP,patel@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-124-KP-11,KP,HapMap24,x9-001b,30ng,Pass after Off Target,,,,,DHT47,CCAGTTGA,Ri519-20210527,NNNNNNNNNNNNACCGAATC,AB-WO4-124-KP,patel@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-124-KP-12,KP,HapMap24,x9-001b,30ng,Pass after Off Target,,,,,DHT48,TGGTGAAG,Ri520-20210527,NNNNNNNNNNNNACACCGTA,AB-WO4-124-KP,patel@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-124-KP-13,KP,HapMap24,x9-001b,30ng,No Pass,,,,,DHT49,AAGACCGT,Ri521-20210527,NNNNNNNNNNNNAACACGAC,AB-WO4-124-KP,patel@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-124-KP-14,KP,HapMap24,x9-001b,30ng,No Pass,,,,,DHT50,TTGCGAGA,Ri522-20210527,NNNNNNNNNNNNGTGGTCTT,AB-WO4-124-KP,patel@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-124-KP-15,KP,HapMap24,x9-001b,30ng,No Pass,,,,,DHT51,GCAATTCC,Ri523-20210527,NNNNNNNNNNNNACACTCAG,AB-WO4-124-KP,patel@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-124-KP-16,KP,HapMap24,x9-001b,30ng,No Pass,,,,,DHT52,GAATCCGT,Ri524-20210527,NNNNNNNNNNNNGCGTTATG,AB-WO4-124-KP,patel@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-124-BD-01,BD,HapMap24,x9-001b,30ng,Pass after 5Ligation,,,,,DHT53,CCGCTTAA,Ri517-20210527,NNNNNNNNNNNNGTGTAACC,AB-WO4-124-BD,desmond@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-124-BD-02,BD,HapMap24,x9-001b,30ng,Pass after 5Ligation,,,,,DHT54,TACCTGCA,Ri518-20210527,NNNNNNNNNNNNTGTGTGCT,AB-WO4-124-BD,desmond@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-124-BD-03,BD,HapMap24,x9-001b,30ng,Pass after 5Ligation,,,,,DHT55,GTCGATTG,Ri519-20210527,NNNNNNNNNNNNACCGAATC,AB-WO4-124-BD,desmond@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-124-BD-04,BD,HapMap24,x9-001b,30ng,Pass after Bead CleanUp,,,,,DHT56,TATGGCAC,Ri520-20210527,NNNNNNNNNNNNACACCGTA,AB-WO4-124-BD,desmond@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-124-BD-05,BD,HapMap24,x9-001b,30ng,Pass after Bead CleanUp,,,,,DHT57,CTCGAACA,Ri521-20210527,NNNNNNNNNNNNAACACGAC,AB-WO4-124-BD,desmond@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-124-BD-06,BD,HapMap24,x9-001b,30ng,Pass after Bead CleanUp,,,,,DHT58,CAACTCCA,Ri522-20210527,NNNNNNNNNNNNGTGGTCTT,AB-WO4-124-BD,desmond@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-124-BD-07,BD,HapMap24,x9-001b,30ng,Pass after Bead Bind,,,,,DHT59,GTCATCGT,Ri523-20210527,NNNNNNNNNNNNACACTCAG,AB-WO4-124-BD,desmond@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-124-BD-08,BD,HapMap24,x9-001b,30ng,Pass after Bead Bind,,,,,DHT60,GGACATCA,Ri524-20210527,NNNNNNNNNNNNGCGTTATG,AB-WO4-124-BD,desmond@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-124-BD-09,BD,HapMap24,x9-001b,30ng,Pass after Bead Bind,,,,,DHT61,CAGGTTCA,Ri517-20210527,NNNNNNNNNNNNGTGTAACC,AB-WO4-124-BD,desmond@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-124-BD-10,BD,HapMap24,x9-001b,30ng,Pass after Off Target,,,,,DHT62,GAACGAAG,Ri518-20210527,NNNNNNNNNNNNTGTGTGCT,AB-WO4-124-BD,desmond@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-124-BD-11,BD,HapMap24,x9-001b,30ng,Pass after Off Target,,,,,DHT63,CTCAGAAG,Ri519-20210527,NNNNNNNNNNNNACCGAATC,AB-WO4-124-BD,desmond@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-124-BD-12,BD,HapMap24,x9-001b,30ng,Pass after Off Target,,,,,DHT64,CATGAGCA,Ri520-20210527,NNNNNNNNNNNNACACCGTA,AB-WO4-124-BD,desmond@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-124-BD-13,BD,HapMap24,x9-001b,30ng,No Pass,,,,,DHT65,GACGAACT,Ri521-20210527,NNNNNNNNNNNNAACACGAC,AB-WO4-124-BD,desmond@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-124-BD-14,BD,HapMap24,x9-001b,30ng,No Pass,,,,,DHT66,AGACGCTA,Ri522-20210527,NNNNNNNNNNNNGTGGTCTT,AB-WO4-124-BD,desmond@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-124-BD-15,BD,HapMap24,x9-001b,30ng,No Pass,,,,,DHT67,ATAACGCC,Ri523-20210527,NNNNNNNNNNNNACACTCAG,AB-WO4-124-BD,desmond@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-124-BD-16,BD,HapMap24,x9-001b,30ng,No Pass,,,,,DHT68,GAATCACC,Ri524-20210527,NNNNNNNNNNNNGCGTTATG,AB-WO4-124-BD,desmond@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,75T8B12M8B75T,,HsAlpha

@@ -1,0 +1,68 @@
+[Header],,,,,,,
+IEMFileVersion,5,,,,,,
+Investigator Name,Deyra,,,,,,
+Experiment Name,,,,,,,
+Date,7/21/21,,,,,,
+Workflow,GenerateFASTQ,,,,,,
+Application,FASTQ Only,,,,,,
+Instrument Type,Miseq,,,,,,
+Assay,TruSeq LT,,,,,,
+Description,,,,,,,
+Chemistry,Default,,,,,,
+,,,,,,,
+[Reads],,,,,,,
+56,,,,,,,
+,,,,,,,
+,,,,,,,
+[Settings],,,,,,,
+,,,,,,,
+[Data],,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,Sample_Project,Description
+500ngHBR_10min_USER_11cycl_1_2nd,,,,S01,ATCACG,,rodriguezd@neb.com
+500ngHBR_10min_USER_11cycl_2_2nd,,,,S02,CGATGT,,rodriguezd@neb.com
+500ngHBR_15min_USER_11cycl_3_2nd,,,,S03,TTAGGC,,rodriguezd@neb.com
+500ngHBR_15min_USER_11cycl_4_2nd,,,,S04,TGACCA,,rodriguezd@neb.com
+500ngHBR_30min_USER_11cycl_5_2nd,,,,S05,ACAGTG,,rodriguezd@neb.com
+500ngHBR_30min_USER_11cycl_6_2nd,,,,S06,GCCAAT,,rodriguezd@neb.com
+500ngHBR_1hr_USER_11cycl_7_2nd,,,,S07,CAGATC,,rodriguezd@neb.com
+500ngHBR_1hr_USER_11cycl_8_2nd,,,,S08,ACTTGA,,rodriguezd@neb.com
+100ngHBR_10min_USER_14cycl_9_2nd,,,,S09,GATCAG,,rodriguezd@neb.com
+100ngHBR_10min_USER_14cycl_10_2nd,,,,S10,TAGCTT,,rodriguezd@neb.com
+100ngHBR_15min_USER_14cycl_11_2nd,,,,S11,GGCTAC,,rodriguezd@neb.com
+100ngHBR_15min_USER_14cycl_12_2nd,,,,S12,CTTGTA,,rodriguezd@neb.com
+100ngHBR_30min_USER_14cycl_13_2nd,,,,S13,AGTCAA,,rodriguezd@neb.com
+100ngHBR_30min_USER_14cycl_14_2nd,,,,S14,AGTTCC,,rodriguezd@neb.com
+100ngHBR_1hr_USER_14cycl_15_2nd,,,,S15,ATGTCA,,rodriguezd@neb.com
+100ngHBR_1hr_USER_14cycl_16_2nd,,,,S16,CCGTCC,,rodriguezd@neb.com
+1ngHBR_10min_USER_23cycl_17_2nd,,,,S17,GTAGAG,,rodriguezd@neb.com
+1ngHBR_10min_USER_23cycl_18_2nd,,,,S18,GTCCGC,,rodriguezd@neb.com
+1ngHBR_15min _USER_23cycl_19_2nd,,,,S19,GTGAAA,,rodriguezd@neb.com
+1ngHBR_15min _USER_23cycl_20_2nd,,,,S20,GTGGCC,,rodriguezd@neb.com
+1ngHBR_30min_USER_23cycl_21_2nd,,,,S21,GTTTCG,,rodriguezd@neb.com
+1ngHBR_30min_USER_23cycl_22_2nd,,,,S22,CGTACG,,rodriguezd@neb.com
+1ngHBR_1hr_USER_23cycl_23_2nd,,,,S23,GAGTGG,,rodriguezd@neb.com
+1ngHBR_1hr_USER_23cycl_24_2nd,,,,S24,GGTAGC,,rodriguezd@neb.com
+500ngHBR_30min 3lig_1hr 5lig_11cycl_25,,,,S25,ACTGAT,,rodriguezd@neb.com
+500ngHBR_30min 3lig_1hr 5lig_11cycl_26,,,,S26,ATGAGC,,rodriguezd@neb.com
+500ngHBR_1hr 3lig_30min 5lig_11cycl_27,,,,S27,ATTCCT,,rodriguezd@neb.com
+500ngHBR_1hr 3lig_30min  5lig_11cycl_28,,,,S28,CAAAAG,,rodriguezd@neb.com
+500ngHBR_1hr 3lig_1hr 5lig_11cycl_29,,,,S29,CAACTA,,rodriguezd@neb.com
+500ngHBR_1hr 3lig_1hr 5lig_11cycl_30,,,,S30,CACCGG,,rodriguezd@neb.com
+500ngHBR_30min  3lig_30min  5lig_11cycl_31,,,,S31,CACGAT,,rodriguezd@neb.com
+500ngHBR_30min  3lig_30min 5lig_11cycl_32,,,,S32,CACTCA,,rodriguezd@neb.com
+100ng HBR_30min 3lig_1hr 5lig_14cycl_33,,,,S33,CAGGCG,,rodriguezd@neb.com
+100ng HBR_30min 3lig_1hr 5lig_14cycl_34,,,,S34,CATGGC,,rodriguezd@neb.com
+100ng HBR_1hr 3lig_30min 5lig_14cycl_35,,,,S35,CATTTT,,rodriguezd@neb.com
+100ng HBR_1hr 3lig_30min  5lig_14cycl_36,,,,S36,CCAACA,,rodriguezd@neb.com
+100ng HBR_1hr 3lig_1hr 5lig_14cycl_37,,,,S37,CGGAAT,,rodriguezd@neb.com
+100ng HBR_1hr 3lig_1hr 5lig_14cycl_38,,,,S38,CTAGCT,,rodriguezd@neb.com
+100ng HBR_30min  3lig_30min  5lig_14cycl_39,,,,S39,CTATAC,,rodriguezd@neb.com
+100ng HBR_30min  3lig_30min 5lig_14cycl_40,,,,S40,CTCAGA,,rodriguezd@neb.com
+1ngHBR_30min 3lig_1hr 5lig_23cycl_41,,,,S41,GACGAC,,rodriguezd@neb.com
+1ngHBR_30min 3lig_1hr 5lig_23cycl_42,,,,S42,TAATCG,,rodriguezd@neb.com
+1ngHBR_1hr 3lig_30min 5lig_23cycl_43,,,,S43,TACAGC,,rodriguezd@neb.com
+1ngHBR_1hr 3lig_30min  5lig_23cycl_44,,,,S44,TATAAT,,rodriguezd@neb.com
+1ngHBR_1hr 3lig_1hr 5lig_23cycl_45,,,,S45,TCATTC,,rodriguezd@neb.com
+1ngHBR_1hr 3lig_1hr 5lig_23cycl_46,,,,S46,TCCCGA,,rodriguezd@neb.com
+1ngHBR_30min  3lig_30min  5lig_23cycl_47,,,,S47,TCGAAG,,rodriguezd@neb.com
+1ngHBR_30min  3lig_30min 5lig_23cycl_48,,,,S48,TCGGCA,,rodriguezd@neb.com

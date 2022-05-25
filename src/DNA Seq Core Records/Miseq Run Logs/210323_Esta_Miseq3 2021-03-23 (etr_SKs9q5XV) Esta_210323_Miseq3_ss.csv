@@ -1,0 +1,38 @@
+[Header],,,,,,,
+IEMFileVersion,5,,,,,,
+Investigator Name,Esta Tamanaha,,,,,,
+Experiment Name,hsRNase1 Aptamers,,,,,,
+Date,3/23/21,,,,,,
+Workflow,GenerateFASTQ,,,,,,
+Application,FASTQ Only,,,,,,
+Instrument Type,Miseq,,,,,,
+Assay,TruSeq LT,,,,,,
+Description,,,,,,,
+Chemistry,Default,,,,,,
+,,,,,,,
+[Reads],,,,,,,
+75,,,,,,,
+75,,,,,,,
+,,,,,,,
+[Settings],,,,,,,
+,,,,,,,
+[Data],,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,Sample_Project,Description
+2,,,,Index_2,CGATGT,,tamanaha@neb.com
+3,,,,Index_3,TTAGGC,,tamanaha@neb.com
+4,,,,Index_4,TGACCA,,tamanaha@neb.com
+5,,,,Index_5,ACAGTG,,tamanaha@neb.com
+6,,,,Index_6,GCCAAT,,tamanaha@neb.com
+7,,,,Index_7,CAGATC,,tamanaha@neb.com
+8,,,,Index_8,ACTTGA,,tamanaha@neb.com
+9,,,,Index_9,GATCAG,,tamanaha@neb.com
+10,,,,Index_10,TAGCTT,,tamanaha@neb.com
+11,,,,Index_11,GGCTAC,,tamanaha@neb.com
+12,,,,Index_12,CTTGTA,,tamanaha@neb.com
+13,,,,Index_13,AGTCAA,,tamanaha@neb.com
+14,,,,Index_14,AGTTCC,,tamanaha@neb.com
+15,,,,Index_15,ATGTCA,,tamanaha@neb.com
+16,,,,Index_16,CCGTCC,,tamanaha@neb.com
+18,,,,Index_18,GTCCGC,,tamanaha@neb.com
+19,,,,Index_19,GTGAAA,,tamanaha@neb.com
+20,,,,Index_20,GTGGCC,,tamanaha@neb.com

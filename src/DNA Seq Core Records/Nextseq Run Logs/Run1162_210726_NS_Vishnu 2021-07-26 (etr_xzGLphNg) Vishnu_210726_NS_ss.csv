@@ -1,0 +1,25 @@
+[Header],,,,,,,
+IEMFileVersion,5,,,,,,
+Investigator Name,Vishnu,,,,,,
+Experiment Name,NEATseq_NPM1,,,,,,
+Date,7/26/21,,,,,,
+Workflow,GenerateFASTQ,,,,,,
+Application,FASTQ Only,,,,,,
+Instrument Type,Miseq,,,,,,
+Assay,TruSeq LT,,,,,,
+Description,,,,,,,
+Chemistry,Default,,,,,,
+,,,,,,,
+[Reads],,,,,,,
+75,,,,,,,
+75,,,,,,,
+,,,,,,,
+[Settings],,,,,,,
+,,,,,,,
+[Data],,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,Sample_Project,Description
+20,,,,Index_20,GTGGCC,,vus@neb.com
+21,,,,Index_21,GTTTCG,,vus@neb.com
+22,,,,Index_22,CGTACG,,vus@neb.com
+23,,,,Index_23,GAGTGG,,vus@neb.com
+27,,,,Index_27,ATTCCT,,vus@neb.com

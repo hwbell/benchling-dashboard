@@ -1,0 +1,52 @@
+[Header],,,,,,,,,,,,,,,,,,,,,,,,,
+IEMFileVersion,5,,,,,,,,,,,,,,,,,,,,,,,,
+Investigator Name,JD,,,,,,,,,,,,,,,,,,,,,,,,
+Experiment Name,W01962,,,,,,,,,,,,,,,,,,,,,,,,
+Date,5/13/21,,,,,,,,,,,,,,,,,,,,,,,,
+Workflow,GenerateFASTQ,,,,,,,,,,,,,,,,,,,,,,,,
+Application,FASTQ Only,,,,,,,,,,,,,,,,,,,,,,,,
+Assay,TruSeq HT,,,,,,,,,,,,,,,,,,,,,,,,
+Description,,,,,,,,,,,,,,,,,,,,,,,,,
+Chemistry,amplicon,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Reads],,,,,,,,,,,,,,,,,,,,,,,,,
+75,,,,,,,,,,,,,,,,,,,,,,,,,
+75,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Settings],,,,,,,,,,,,,,,,,,,,,,,,,
+ReverseComplement,0,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Data],,,,,,,,,,,,,,,,,,,,,,,,,
+Sample_ID,User,Sample_Name,Sample_Batch,Input_Amount,Condition,Sample_Plate,Sample_Well,Inline_ID,Index0,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Description,Library_ID,Library_Type,Sample_Type,Normal_Library_IDs,Target_Set,Genome,Analysis_Type,Read_Structure,Read_Length,Product
+W02032_01-001,JD,PLG1043,Lot043019,200ng,Enza_Pepper_v2_gbsqa/DB,,,S551,CAACTCCA,DGS01,ATTACTCG,,,,dunn@directedgenomics.com,,,,,Enza_Pepper_v2_gbsqa/DB,,Production,12M8B55T8B75T,,GenotypingBySequencing
+W02032_01-002,JD,PLG1043,Lot043019,200ng,Enza_Pepper_v2_gbsqa/DB,,,S552,AGGATAGC,DGS01,ATTACTCG,,,,dunn@directedgenomics.com,,,,,Enza_Pepper_v2_gbsqa/DB,,Production,12M8B55T8B75T,,GenotypingBySequencing
+W02032_01-003,JD,PLG1043,Lot043019,200ng,Enza_Pepper_v2_gbsqa/DB,,,S553,CCGCTTAA,DGS01,ATTACTCG,,,,dunn@directedgenomics.com,,,,,Enza_Pepper_v2_gbsqa/DB,,Production,12M8B55T8B75T,,GenotypingBySequencing
+W02032_01-004,JD,PLG1043,Lot043019,200ng,Enza_Pepper_v2_gbsqa/DB,,,S554,AGCTAAGC,DGS01,ATTACTCG,,,,dunn@directedgenomics.com,,,,,Enza_Pepper_v2_gbsqa/DB,,Production,12M8B55T8B75T,,GenotypingBySequencing
+W02032_02-001,JD,PLG1043,Lot043019,200ng,Enza_Pepper_v2_gbsqa/DB,,,S557,GAGAGTAC,DGS02,TCCGGAGA,,,,dunn@directedgenomics.com,,,,,Enza_Pepper_v2_gbsqa/DB,,Production,12M8B55T8B75T,,GenotypingBySequencing
+W02032_02-002,JD,PLG1043,Lot043019,200ng,Enza_Pepper_v2_gbsqa/DB,,,S558,GACGAACT,DGS02,TCCGGAGA,,,,dunn@directedgenomics.com,,,,,Enza_Pepper_v2_gbsqa/DB,,Production,12M8B55T8B75T,,GenotypingBySequencing
+W02032_02-003,JD,PLG1043,Lot043019,200ng,Enza_Pepper_v2_gbsqa/DB,,,S559,GTAAGGTG,DGS02,TCCGGAGA,,,,dunn@directedgenomics.com,,,,,Enza_Pepper_v2_gbsqa/DB,,Production,12M8B55T8B75T,,GenotypingBySequencing
+W02032_02-004,JD,PLG1043,Lot043019,200ng,Enza_Pepper_v2_gbsqa/DB,,,S560,GAACGAAG,DGS02,TCCGGAGA,,,,dunn@directedgenomics.com,,,,,Enza_Pepper_v2_gbsqa/DB,,Production,12M8B55T8B75T,,GenotypingBySequencing
+W02032_03-001,JD,PLG1043,Lot043019,200ng,Enza_Pepper_v2_gbsqa/DB,,,S561,GTACCACA,DGS03,CGCTCATT,,,,dunn@directedgenomics.com,,,,,Enza_Pepper_v2_gbsqa/DB,,Production,12M8B55T8B75T,,GenotypingBySequencing
+W02032_03-002,JD,PLG1043,Lot043019,200ng,Enza_Pepper_v2_gbsqa/DB,,,S562,TTACCGAC,DGS03,CGCTCATT,,,,dunn@directedgenomics.com,,,,,Enza_Pepper_v2_gbsqa/DB,,Production,12M8B55T8B75T,,GenotypingBySequencing
+W02032_03-003,JD,PLG1043,Lot043019,200ng,Enza_Pepper_v2_gbsqa/DB,,,S563,CAAGGTAC,DGS03,CGCTCATT,,,,dunn@directedgenomics.com,,,,,Enza_Pepper_v2_gbsqa/DB,,Production,12M8B55T8B75T,,GenotypingBySequencing
+W02032_03-004,JD,PLG1043,Lot043019,200ng,Enza_Pepper_v2_gbsqa/DB,,,S565,CTTCACTG,DGS03,CGCTCATT,,,,dunn@directedgenomics.com,,,,,Enza_Pepper_v2_gbsqa/DB,,Production,12M8B55T8B75T,,GenotypingBySequencing
+W02032_04-001,JD,PLG1043,Lot043019,200ng,Enza_Pepper_v2_gbsqa/DB,,,S566,TATGGCAC,DGS04,GAGATTCC,,,,dunn@directedgenomics.com,,,,,Enza_Pepper_v2_gbsqa/DB,,Production,12M8B55T8B75T,,GenotypingBySequencing
+W02032_04-002,JD,PLG1043,Lot043019,200ng,Enza_Pepper_v2_gbsqa/DB,,,S567,CTTGCTAG,DGS04,GAGATTCC,,,,dunn@directedgenomics.com,,,,,Enza_Pepper_v2_gbsqa/DB,,Production,12M8B55T8B75T,,GenotypingBySequencing
+W02032_04-003,JD,PLG1043,Lot043019,200ng,Enza_Pepper_v2_gbsqa/DB,,,S568,CAATGCGA,DGS04,GAGATTCC,,,,dunn@directedgenomics.com,,,,,Enza_Pepper_v2_gbsqa/DB,,Production,12M8B55T8B75T,,GenotypingBySequencing
+W02032_04-004,JD,PLG1043,Lot043019,200ng,Enza_Pepper_v2_gbsqa/DB,,,S569,TCCTCATG,DGS04,GAGATTCC,,,,dunn@directedgenomics.com,,,,,Enza_Pepper_v2_gbsqa/DB,,Production,12M8B55T8B75T,,GenotypingBySequencing
+W02032_05-001,JD,PLG1043,Lot043019,200ng,Enza_Pepper_v2_gbsqa/DB,,,S570,GTCCTAAG,DGS05,ATTCAGAA,,,,dunn@directedgenomics.com,,,,,Enza_Pepper_v2_gbsqa/DB,,Production,12M8B55T8B75T,,GenotypingBySequencing
+W02032_05-002,JD,PLG1043,Lot043019,200ng,Enza_Pepper_v2_gbsqa/DB,,,S571,GTCAGTCA,DGS05,ATTCAGAA,,,,dunn@directedgenomics.com,,,,,Enza_Pepper_v2_gbsqa/DB,,Production,12M8B55T8B75T,,GenotypingBySequencing
+W02032_05-003,JD,PLG1043,Lot043019,200ng,Enza_Pepper_v2_gbsqa/DB,,,S572,TCATCTCC,DGS05,ATTCAGAA,,,,dunn@directedgenomics.com,,,,,Enza_Pepper_v2_gbsqa/DB,,Production,12M8B55T8B75T,,GenotypingBySequencing
+W02032_05-004,JD,PLG1043,Lot043019,200ng,Enza_Pepper_v2_gbsqa/DB,,,S573,ATCTGACC,DGS05,ATTCAGAA,,,,dunn@directedgenomics.com,,,,,Enza_Pepper_v2_gbsqa/DB,,Production,12M8B55T8B75T,,GenotypingBySequencing
+W02032_06-001,JD,PLG1043,Lot043019,200ng,Enza_Pepper_v2_gbsqa/DB,,,S574,CAGGTTCA,DGS06,GAATTCGT,,,,dunn@directedgenomics.com,,,,,Enza_Pepper_v2_gbsqa/DB,,Production,12M8B55T8B75T,,GenotypingBySequencing
+W02032_06-002,JD,PLG1043,Lot043019,200ng,Enza_Pepper_v2_gbsqa/DB,,,S575,TCCATTGC,DGS06,GAATTCGT,,,,dunn@directedgenomics.com,,,,,Enza_Pepper_v2_gbsqa/DB,,Production,12M8B55T8B75T,,GenotypingBySequencing
+W02032_06-003,JD,PLG1043,Lot043019,200ng,Enza_Pepper_v2_gbsqa/DB,,,S577,AGCCTATC,DGS06,GAATTCGT,,,,dunn@directedgenomics.com,,,,,Enza_Pepper_v2_gbsqa/DB,,Production,12M8B55T8B75T,,GenotypingBySequencing
+W02032_06-004,JD,PLG1043,Lot043019,200ng,Enza_Pepper_v2_gbsqa/DB,,,S578,CTCGAACA,DGS06,GAATTCGT,,,,dunn@directedgenomics.com,,,,,Enza_Pepper_v2_gbsqa/DB,,Production,12M8B55T8B75T,,GenotypingBySequencing
+W02032_07-001,JD,HM24x,8,10ng,CancerHotSpot,,,S579,CCTTCCAT,DGS07,CTGAAGCT,,,,dunn@directedgenomics.com,,,,,CancerHotSpot,,Production,12M8B55T8B75T,,GenotypingBySequencing
+W02032_07-002,JD,HM24x,8,10ng,CancerHotSpot,,,S580,CAACACAG,DGS07,CTGAAGCT,,,,dunn@directedgenomics.com,,,,,CancerHotSpot,,Production,12M8B55T8B75T,,GenotypingBySequencing
+W02032_07-003,JD,HM24x,8,10ng,CancerHotSpot,,,S581,GGCAAGTT,DGS07,CTGAAGCT,,,,dunn@directedgenomics.com,,,,,CancerHotSpot,,Production,12M8B55T8B75T,,GenotypingBySequencing
+W02032_07-004,JD,HM24x,8,10ng,CancerHotSpot,,,S582,GGTGTACA,DGS07,CTGAAGCT,,,,dunn@directedgenomics.com,,,,,CancerHotSpot,,Production,12M8B55T8B75T,,GenotypingBySequencing
+W02032_08-001,JD,HM24x,8,10ng,CancerHotSpot,,,S583,TCTACGCA,DGS08,TAATGCGC,,,,dunn@directedgenomics.com,,,,,CancerHotSpot,,Production,12M8B55T8B75T,,GenotypingBySequencing
+W02032_08-002,JD,HM24x,8,10ng,CancerHotSpot,,,S584,TCCACGTT,DGS08,TAATGCGC,,,,dunn@directedgenomics.com,,,,,CancerHotSpot,,Production,12M8B55T8B75T,,GenotypingBySequencing
+W02032_08-003,JD,HM24x,8,10ng,CancerHotSpot,,,S585,GAACGGTT,DGS08,TAATGCGC,,,,dunn@directedgenomics.com,,,,,CancerHotSpot,,Production,12M8B55T8B75T,,GenotypingBySequencing
+W02032_08-004,JD,HM24x,8,10ng,CancerHotSpot,,,S586,GTCCTTGA,DGS08,TAATGCGC,,,,dunn@directedgenomics.com,,,,,CancerHotSpot,,Production,12M8B55T8B75T,,GenotypingBySequencing

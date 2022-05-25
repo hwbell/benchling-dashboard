@@ -1,0 +1,22 @@
+[Header],,,,,,,
+IEMFileVersion,5,,,,,,
+Investigator Name,Sebastian G.,,,,,,
+Experiment Name,20210617_hsmRNA_i1stdadapt_i4randomadapt,,,,,,
+Date,6/18/21,,,,,,
+Workflow,GenerateFASTQ,,,,,,
+Application,FASTQ Only,,,,,,
+Instrument Type,Miseq,,,,,,
+Assay,TruSeq LT,,,,,,
+Description,,,,,,,
+Chemistry,Default,,,,,,
+,,,,,,,
+[Reads],,,,,,,
+75,,,,,,,
+75,,,,,,,
+,,,,,,,
+[Settings],,,,,,,
+,,,,,,,
+[Data],,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,Sample_Project,Description
+1,,,,Index_1,ATCACG,,sgruenberg@neb.com
+4,,,,Index_4,TGACCA,,sgruenberg@neb.com

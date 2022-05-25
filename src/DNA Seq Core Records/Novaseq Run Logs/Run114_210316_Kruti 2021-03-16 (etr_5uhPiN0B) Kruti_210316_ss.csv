@@ -1,0 +1,36 @@
+[Header],,,,,,,,,,,,,,,,,,,,,,,,,
+IEMFileVersion,5,,,,,,,,,,,,,,,,,,,,,,,,
+Investigator Name,KMP,,,,,,,,,,,,,,,,,,,,,,,,
+Experiment Name,AB-WO4-081,,,,,,,,,,,,,,,,,,,,,,,,
+Date,3/15/21,,,,,,,,,,,,,,,,,,,,,,,,
+Workflow,GenerateFASTQ,,,,,,,,,,,,,,,,,,,,,,,,
+Application,FASTQ Only,,,,,,,,,,,,,,,,,,,,,,,,
+Assay,TruSeq HT,,,,,,,,,,,,,,,,,,,,,,,,
+Description,,,,,,,,,,,,,,,,,,,,,,,,,
+Chemistry,amplicon,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Reads],,,,,,,,,,,,,,,,,,,,,,,,,
+75,,,,,,,,,,,,,,,,,,,,,,,,,
+75,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Settings],,,,,,,,,,,,,,,,,,,,,,,,,
+ReverseComplement,0,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Data],,,,,,,,,,,,,,,,,,,,,,,,,
+Sample_ID,User,Sample_Name,Sample_Batch,Input_Amount,Condition,Sample_Plate,Sample_Well,Inline_ID,Index0,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Description,Library_ID,Library_Type,Sample_Type,Normal_Library_IDs,Target_Set,Genome,Analysis_Type,Read_Structure,Read_Length,Product
+AB-WO4-081-01,AB-WO4-081,HapMap24,x8-001b,30ng,SOP,,,,,DHT69,GGCAAGTT,Ri501-3_11,NNNNNNNNNNNNAGGCTATA,AB-WO4-081,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-081-02,AB-WO4-081,HapMap24,x8-001b,30ng,SOP,,,,,DHT70,GATCTTGC,Ri502-3_11,NNNNNNNNNNNNGCCTCTAT,AB-WO4-081,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-081-03,AB-WO4-081,HapMap24,x8-001b,30ng,150µlStrep,,,,,DHT71,CAATGCGA,Ri503-3_11,NNNNNNNNNNNNAGGATAGG,AB-WO4-081,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-081-04,AB-WO4-081,HapMap24,x8-001b,30ng,150µlStrep,,,,,DHT72,GGTGTACA,Ri504-3_11,NNNNNNNNNNNNTCAGAGCC,AB-WO4-081,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-081-05,AB-WO4-081,HapMap24,x8-001b,30ng,SOP-splitPCR,,,,,DHT73,TAGGAGCT,Ri505-3_11,NNNNNNNNNNNNCTTCGCCT,AB-WO4-081,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-081-06,AB-WO4-081,HapMap24,x8-001b,30ng,SOP-splitPCR,,,,,DHT74,CGAATTGC,Ri506-3_11,NNNNNNNNNNNNTAAGATTA,AB-WO4-081,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-081-07,AB-WO4-081,HapMap24,x8-001b,30ng,150µlStrep-splitPCR,,,,,DHT75,GTCCTAAG,Ri507-3_11,NNNNNNNNNNNNACGTCCTG,AB-WO4-081,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-081-08,AB-WO4-081,HapMap24,x8-001b,30ng,150µlStrep-splitPCR,,,,,DHT76,CTTAGGAC,Ri508-3_11,NNNNNNNNNNNNGTCAGTAC,AB-WO4-081,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-081-09,AB-WO4-081,HapMap24,x8-001b,30ng,ONHyb,,,,,DHT77,TCCACGTT,Ri509-3_11,NNNNNNNNNNNNGCAAGCAA,AB-WO4-081,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-081-10,AB-WO4-081,HapMap24,x8-001b,30ng,ONHyb,,,,,DHT78,CAACACAG,Ri510-3_11,NNNNNNNNNNNNAACCTCTC,AB-WO4-081,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-081-11,AB-WO4-081,HapMap24,x8-001b,30ng,ONHyb-150µlStrep,,,,,DHT79,GCCTTAAC,Ri511-3_11,NNNNNNNNNNNNAACCAGGT,AB-WO4-081,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-081-12,AB-WO4-081,HapMap24,x8-001b,30ng,ONHyb-150µlStrep,,,,,DHT80,GTAAGGTG,Ri512-3_11,NNNNNNNNNNNNTTCCGCTT,AB-WO4-081,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-081-13,AB-WO4-081,HapMap24,x8-001b,30ng,ONHyb-splitPCR,,,,,DHT81,AGCTACCA,Ri513-7A,NNNNNNNNNNNNTTGTTCCG,AB-WO4-081,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-081-14,AB-WO4-081,HapMap24,x8-001b,30ng,ONHyb-splitPCR,,,,,DHT82,CTTCACTG,Ri514-7A,NNNNNNNNNNNNAGCTTACC,AB-WO4-081,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-081-15,AB-WO4-081,HapMap24,x8-001b,30ng,ONHyb-150µlStrep-splitPCR,,,,,DHT83,GGTTGAAC,Ri515-7A,NNNNNNNNNNNNATGCCACA,AB-WO4-081,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-081-16,AB-WO4-081,HapMap24,x8-001b,30ng,ONHyb-150µlStrep-splitPCR,,,,,DHT84,GATAGCCA,Ri516-7A,NNNNNNNNNNNNTCCGTAGT,AB-WO4-081,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha

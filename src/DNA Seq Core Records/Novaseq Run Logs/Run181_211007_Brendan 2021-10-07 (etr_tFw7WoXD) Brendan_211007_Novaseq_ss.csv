@@ -1,0 +1,34 @@
+[Header],,,,,,,,,,,,,,,,,,,,,,,,,
+IEMFileVersion,5,,,,,,,,,,,,,,,,,,,,,,,,
+Investigator Name,BD,,,,,,,,,,,,,,,,,,,,,,,,
+Experiment Name,AB-WO4-150,,,,,,,,,,,,,,,,,,,,,,,,
+Date,10/6/21,,,,,,,,,,,,,,,,,,,,,,,,
+Workflow,GenerateFASTQ,,,,,,,,,,,,,,,,,,,,,,,,
+Application,FASTQ Only,,,,,,,,,,,,,,,,,,,,,,,,
+Assay,TruSeq HT,,,,,,,,,,,,,,,,,,,,,,,,
+Description,,,,,,,,,,,,,,,,,,,,,,,,,
+Chemistry,amplicon,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Reads],,,,,,,,,,,,,,,,,,,,,,,,,
+75,,,,,,,,,,,,,,,,,,,,,,,,,
+75,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Settings],,,,,,,,,,,,,,,,,,,,,,,,,
+ReverseComplement,0,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Data],,,,,,,,,,,,,,,,,,,,,,,,,
+Sample_ID,User,Sample_Name,Sample_Lot,Input_Amount,Condition,Sample_Plate,Sample_Well,Inline_ID,Index0,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Description,Library_ID,Library_Type,Sample_Type,Normal_Library_IDs,Target_Set,Genome,Analysis_Type,Read_Structure,Read_Length,Product
+AB-WO4-150-01,AB-WO4-150,FFPE-Colon,C505161,30ng,Liver Frag + End Prep,,,,,DHT43,TCCATTGC,Ri519-20210603,NNNNNNNNNNNNACCGAATC,AB-WO4-150,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-150-02,AB-WO4-150,FFPE-Colon,C505161,30ng,Liver Frag + EndPrep,,,,,DHT44,AGCGAGAT,Ri519-20210603,NNNNNNNNNNNNACCGAATC,AB-WO4-150,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-150-03,AB-WO4-150,FFPE-Liver,C602139,30ng,Colon Frag + EndPrep,,,,,DHT45,CAATAGCC,Ri519-20210603,NNNNNNNNNNNNACCGAATC,AB-WO4-150,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-150-04,AB-WO4-150,FFPE-Liver,C602139,30ng,Colon Frag + EndPrep,,,,,DHT46,AAGACACC,Ri519-20210603,NNNNNNNNNNNNACCGAATC,AB-WO4-150,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-150-05,AB-WO4-150,HapMap24,x9,30ng,HapMap24 Frag + EndPrep,,,,,DHT47,CCAGTTGA,Ri519-20210603,NNNNNNNNNNNNACCGAATC,AB-WO4-150,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-150-06,AB-WO4-150,HapMap24,x9,30ng,HapMap24 Frag + EndPrep,,,,,DHT48,TGGTGAAG,Ri519-20210603,NNNNNNNNNNNNACCGAATC,AB-WO4-150,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-150-07,AB-WO4-150,FFPE-Colon,C505161,30ng,Colon Shear,,,,,DHT49,AAGACCGT,Ri519-20210603,NNNNNNNNNNNNACCGAATC,AB-WO4-150,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-150-08,AB-WO4-150,FFPE-Colon,C505161,30ng,Colon Shear,,,,,DHT50,TTGCGAGA,Ri519-20210603,NNNNNNNNNNNNACCGAATC,AB-WO4-150,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-150-09,AB-WO4-150,FFPE-Liver,C602139,30ng,Liver Shear,,,,,DHT51,GCAATTCC,Ri519-20210603,NNNNNNNNNNNNACCGAATC,AB-WO4-150,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-150-10,AB-WO4-150,FFPE-Liver,C602139,30ng,Liver Shear,,,,,DHT52,GAATCCGT,Ri519-20210603,NNNNNNNNNNNNACCGAATC,AB-WO4-150,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-150-11,AB-WO4-150,HapMap24,x9-001c,30ng,HapMap24 Shear,,,,,DHT53,CCGCTTAA,Ri519-20210603,NNNNNNNNNNNNACCGAATC,AB-WO4-150,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-150-12,AB-WO4-150,HapMap24,x9-001c,30ng,HapMap24 Shear,,,,,DHT54,TACCTGCA,Ri519-20210603,NNNNNNNNNNNNACCGAATC,AB-WO4-150,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha

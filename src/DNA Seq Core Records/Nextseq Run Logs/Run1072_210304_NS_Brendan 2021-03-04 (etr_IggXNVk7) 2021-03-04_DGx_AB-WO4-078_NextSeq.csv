@@ -1,0 +1,38 @@
+﻿[Header],,,,,,,,,,,,,,,,,,,,,,,,,
+IEMFileVersion,5,,,,,,,,,,,,,,,,,,,,,,,,
+Investigator Name,BD,,,,,,,,,,,,,,,,,,,,,,,,
+Experiment Name,AB-WO4-078,,,,,,,,,,,,,,,,,,,,,,,,
+Date,3/4/21,,,,,,,,,,,,,,,,,,,,,,,,
+Workflow,GenerateFASTQ,,,,,,,,,,,,,,,,,,,,,,,,
+Application,FASTQ Only,,,,,,,,,,,,,,,,,,,,,,,,
+Assay,TruSeq HT,,,,,,,,,,,,,,,,,,,,,,,,
+Description,,,,,,,,,,,,,,,,,,,,,,,,,
+Chemistry,amplicon,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Reads],,,,,,,,,,,,,,,,,,,,,,,,,
+70,,,,,,,,,,,,,,,,,,,,,,,,,
+70,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Settings],,,,,,,,,,,,,,,,,,,,,,,,,
+ReverseComplement,0,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Data],,,,,,,,,,,,,,,,,,,,,,,,,
+Sample_ID,User,Sample_Name,Sample_Lot,Input_Amount,Condition,Sample_Plate,Sample_Well,Inline_ID,Index0,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Description,Library_ID,Library_Type,Sample_Type,Normal_Library_IDs,Target_Set,Genome,Analysis_Type,Read_Structure,Read_Length,Product
+AB-WO4-078-01,AB-WO4-078,NA12878,002c,30ng,ExoI-1µL ExoT-0.1µL,,,,,DHT17,AGGATAGC,Ri501-6A,NNNNNNNNNNNNAGGCTATA,AB-WO4-078,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-078-02,AB-WO4-078,NA12878,002c,30ng,ExoI-1µL ExoT-0.1µL,,,,,DHT18,CCTTCCAT,Ri502-6A,NNNNNNNNNNNNGCCTCTAT,AB-WO4-078,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-078-03,AB-WO4-078,NA12878,002c,30ng,ExoI-3µL ExoT-0.1µL,,,,,DHT19,GTCCTTGA,Ri503-6A,NNNNNNNNNNNNAGGATAGG,AB-WO4-078,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-078-04,AB-WO4-078,NA12878,002c,30ng,ExoI-3µL ExoT-0.1µL,,,,,DHT20,TGCGTAAC,Ri504-6A,NNNNNNNNNNNNTCAGAGCC,AB-WO4-078,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-078-05,AB-WO4-078,NA12878,002c,30ng,ExoI-5µL ExoT-0.1µL,,,,,DHT21,CACAGACT,Ri505-5A,NNNNNNNNNNNNCTTCGCCT,AB-WO4-078,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-078-06,AB-WO4-078,NA12878,002c,30ng,ExoI-5µL ExoT-0.1µL,,,,,DHT22,TTACGTGC,Ri506-5A,NNNNNNNNNNNNTAAGATTA,AB-WO4-078,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-078-07,AB-WO4-078,NA12878,002c,30ng,ExoI-1µL ExoT-0.2µL,,,,,DHT23,CCAAGGTT,Ri507-5A,NNNNNNNNNNNNACGTCCTG,AB-WO4-078,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-078-08,AB-WO4-078,NA12878,002c,30ng,ExoI-1µL ExoT-0.2µL,,,,,DHT24,CACGCAAT,Ri508-5A,NNNNNNNNNNNNGTCAGTAC,AB-WO4-078,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-078-09,AB-WO4-078,NA12878,002c,30ng,ExoI-3µL ExoT-0.2µL,,,,,DHT25,TTCCAGGT,Ri509-5A,NNNNNNNNNNNNGCAAGCAA,AB-WO4-078,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-078-10,AB-WO4-078,NA12878,002c,30ng,ExoI-3µL ExoT-0.2µL,,,,,DHT26,TCATCTCC,Ri510-5A,NNNNNNNNNNNNAACCTCTC,AB-WO4-078,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-078-11,AB-WO4-078,NA12878,002c,30ng,ExoI-5µL ExoT-0.2µL,,,,,DHT27,GAGAGTAC,Ri511-5A,NNNNNNNNNNNNAACCAGGT,AB-WO4-078,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-078-12,AB-WO4-078,NA12878,002c,30ng,ExoI-5µL ExoT-0.2µL,,,,,DHT28,GTCGTTAC,Ri512-5A,NNNNNNNNNNNNTTCCGCTT,AB-WO4-078,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-078-13,AB-WO4-078,NA12878,002c,30ng,ExoI-1µL ExoT-0.4µL,,,,,DHT29,GGAGGAAT,Ri513-7A,NNNNNNNNNNNNTTGTTCCG,AB-WO4-078,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-078-14,AB-WO4-078,NA12878,002c,30ng,ExoI-1µL ExoT-0.4µL,,,,,DHT30,AGGAACAC,Ri514-7A,NNNNNNNNNNNNAGCTTACC,AB-WO4-078,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-078-15,AB-WO4-078,NA12878,002c,30ng,ExoI-5µL ExoT-0.4µL,,,,,DHT31,CAGTGCTT,Ri515-7A,NNNNNNNNNNNNATGCCACA,AB-WO4-078,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-078-16,AB-WO4-078,NA12878,002c,30ng,ExoI-5µL ExoT-0.4µL,,,,,DHT32,CTTGCTAG,Ri516-7A,NNNNNNNNNNNNTCCGTAGT,AB-WO4-078,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha

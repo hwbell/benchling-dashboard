@@ -1,0 +1,30 @@
+[Header],,,,,,,
+IEMFileVersion,5,,,,,,
+Investigator Name,Rick and Vishnu,,,,,,
+Experiment Name,NicE-seq PARP & NEATseq_lamin,,,,,,
+Date,4/26/21,,,,,,
+Workflow,GenerateFASTQ,,,,,,
+Application,FASTQ Only,,,,,,
+Instrument Type,Miseq,,,,,,
+Assay,TruSeq LT,,,,,,
+Description,,,,,,,
+Chemistry,Default,,,,,,
+,,,,,,,
+[Reads],,,,,,,
+75,,,,,,,
+75,,,,,,,
+,,,,,,,
+[Settings],,,,,,,
+,,,,,,,
+[Data],,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,Sample_Project,Description
+1,,,,Index_1,ATCACG,,vus@neb.com
+3,,,,Index_3,TTAGGC,,vus@neb.com
+5,,,,Index_5,ACAGTG,,vus@neb.com
+7,,,,Index_7,CAGATC,,vus@neb.com
+9,,,,Index_9,GATCAG,,vus@neb.com
+10,,,,Index_10,TAGCTT,,vus@neb.com
+11,,,,Index_11,GGCTAC,,vus@neb.com
+25,,,,Index_25,ACTGAT,,vus@neb.com
+28,,,,Index_28,CAAAAG,,vus@neb.com
+33,,,,Index_33,CAGGCG,,vus@neb.com

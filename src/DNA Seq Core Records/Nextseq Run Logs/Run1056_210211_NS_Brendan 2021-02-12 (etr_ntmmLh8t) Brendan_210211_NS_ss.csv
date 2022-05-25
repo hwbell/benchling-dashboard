@@ -1,0 +1,68 @@
+﻿[Header],,,,,,,,,,,,,,,,,,,,,,,,,
+IEMFileVersion,5,,,,,,,,,,,,,,,,,,,,,,,,
+Investigator Name,BD,,,,,,,,,,,,,,,,,,,,,,,,
+Experiment Name,AB-WO4-069,,,,,,,,,,,,,,,,,,,,,,,,
+Date,2/10/21,,,,,,,,,,,,,,,,,,,,,,,,
+Workflow,GenerateFASTQ,,,,,,,,,,,,,,,,,,,,,,,,
+Application,FASTQ Only,,,,,,,,,,,,,,,,,,,,,,,,
+Assay,TruSeq HT,,,,,,,,,,,,,,,,,,,,,,,,
+Description,,,,,,,,,,,,,,,,,,,,,,,,,
+Chemistry,amplicon,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Reads],,,,,,,,,,,,,,,,,,,,,,,,,
+70,,,,,,,,,,,,,,,,,,,,,,,,,
+70,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Settings],,,,,,,,,,,,,,,,,,,,,,,,,
+ReverseComplement,0,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Data],,,,,,,,,,,,,,,,,,,,,,,,,
+Sample_ID,User,Sample_Name,Sample_Lot,Input_Amount,Condition,Sample_Plate,Sample_Well,Inline_ID,Index0,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Description,Library_ID,Library_Type,Sample_Type,Normal_Library_IDs,Target_Set,Genome,Analysis_Type,Read_Structure,Read_Length,Product
+AB-WO4-069-01,AB-WO4-069,HapMap24,x8-001c,30ng,SOP new,,,,,DHT61,CAGGTTCA,Ri501-5A,NNNNNNNNNNNNAGGCTATA,AB-WO4-069,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B128BM70T,,HsAlpha
+AB-WO4-069-02,AB-WO4-069,HapMap24,x8-001c,30ng,SOP new,,,,,DHT62,GAACGAAG,Ri502-5A,NNNNNNNNNNNNGCCTCTAT,AB-WO4-069,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B128BM70T,,HsAlpha
+AB-WO4-069-03,AB-WO4-069,HapMap24,x8-001c,30ng,Strep Beads 85µL,,,,,DHT63,CTCAGAAG,Ri504-5A,NNNNNNNNNNNNTCAGAGCC,AB-WO4-069,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B128BM70T,,HsAlpha
+AB-WO4-069-04,AB-WO4-069,HapMap24,x8-001c,30ng,Strep Beads 85µL,,,,,DHT64,CATGAGCA,Ri505-5A,NNNNNNNNNNNNCTTCGCCT,AB-WO4-069,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B128BM70T,,HsAlpha
+AB-WO4-069-05,AB-WO4-069,HapMap24,x8-001c,30ng,Strep Beads 95µL,,,,,DHT65,GACGAACT,Ri507-5A,NNNNNNNNNNNNACGTCCTG,AB-WO4-069,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B128BM70T,,HsAlpha
+AB-WO4-069-06,AB-WO4-069,HapMap24,x8-001c,30ng,Strep Beads 95µL,,,,,DHT66,AGACGCTA,Ri511-5A,NNNNNNNNNNNNAACCAGGT,AB-WO4-069,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B128BM70T,,HsAlpha
+AB-WO4-069-07,AB-WO4-069,HapMap24,x8-001c,30ng,Strep Beads 105µL,,,,,DHT67,ATAACGCC,Ri514-5A,NNNNNNNNNNNNAGCTTACC,AB-WO4-069,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B128BM70T,,HsAlpha
+AB-WO4-069-08,AB-WO4-069,HapMap24,x8-001c,30ng,Strep Beads 105µL,,,,,DHT68,GAATCACC,Ri515-5A,NNNNNNNNNNNNATGCCACA,AB-WO4-069,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B128BM70T,,HsAlpha
+AB-WO4-069-09,AB-WO4-069,HapMap24,x8-001c,30ng,Strep Beads 115µL,,,,,DHT69,GGCAAGTT,Ri516-5A,NNNNNNNNNNNNTCCGTAGT,AB-WO4-069,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B128BM70T,,HsAlpha
+AB-WO4-069-10,AB-WO4-069,HapMap24,x8-001c,30ng,Strep Beads 115µL,,,,,DHT70,GATCTTGC,Ri501-5A,NNNNNNNNNNNNAGGCTATA,AB-WO4-069,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B128BM70T,,HsAlpha
+AB-WO4-069-11,AB-WO4-069,HapMap24,x8-001c,30ng,Strep Beads 125µL,,,,,DHT71,CAATGCGA,Ri502-5A,NNNNNNNNNNNNGCCTCTAT,AB-WO4-069,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B128BM70T,,HsAlpha
+AB-WO4-069-12,AB-WO4-069,HapMap24,x8-001c,30ng,Strep Beads 125µL,,,,,DHT72,GGTGTACA,Ri503-5A,NNNNNNNNNNNNAGGATAGG,AB-WO4-069,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B128BM70T,,HsAlpha
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,

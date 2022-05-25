@@ -1,0 +1,32 @@
+[Header],,,,,,,
+IEMFileVersion,5,,,,,,
+Investigator Name,Gene Chin,,,,,,
+Experiment Name,RTFPAM5_OT,,,,,,
+Date,8/5/21,,,,,,
+Workflow,GenerateFASTQ,,,,,,
+Application,FASTQ Only,,,,,,
+Instrument Type,Nextseq,,,,,,
+Assay,TruSeq LT,,,,,,
+Description,,,,,,,
+Chemistry,Default,,,,,,
+,,,,,,,
+[Reads],,,,,,,
+75,,,,,,,
+75,,,,,,,
+,,,,,,,
+[Settings],,,,,,,
+,,,,,,,
+[Data],,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,Sample_Project,Description
+1,MV411_DMSO1,,,Index_7,CAGATC,,chinh@neb.com
+2,MV411_DMSO2,,,Index_10,TAGCTT,,chinh@neb.com
+3,MV411_DMSO3,,,Index_11,GGCTAC,,chinh@neb.com
+4,MV411_FHT1,,,Index_12,CTTGTA,,chinh@neb.com
+5,MV411_FHT2,,,Index_15,ATGTCA,,chinh@neb.com
+6,MV411_FHT3,,,Index_18,GTCCGC,,chinh@neb.com
+7,HCT116_50K_PK1,,,Index_20,GTGGCC,,chinh@neb.com
+8,HCT116_50K_PK2,,,Index_23,GAGTGG,,chinh@neb.com
+9,HCT116_50K_TLPK1,,,Index_35,CATTTT,,chinh@neb.com
+10,HCT116_50K_TLPK2,,,Index_42,TAATCG,,chinh@neb.com
+11,HCT116_50K_PK,,,Index_17,GTAGAG,,chinh@neb.com
+12,HCT116_50K_TLPK,,,Index_36,CCAACA,,chinh@neb.com

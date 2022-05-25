@@ -1,0 +1,40 @@
+﻿[Header],,,,,,,,,,,,,,,,,,,,,,,,,
+IEMFileVersion,5,,,,,,,,,,,,,,,,,,,,,,,,
+Investigator Name,BD,,,,,,,,,,,,,,,,,,,,,,,,
+Experiment Name,AB-WO4-136,,,,,,,,,,,,,,,,,,,,,,,,
+Date,7/8/21,,,,,,,,,,,,,,,,,,,,,,,,
+Workflow,GenerateFASTQ,,,,,,,,,,,,,,,,,,,,,,,,
+Application,FASTQ Only,,,,,,,,,,,,,,,,,,,,,,,,
+Assay,TruSeq HT,,,,,,,,,,,,,,,,,,,,,,,,
+Description,,,,,,,,,,,,,,,,,,,,,,,,,
+Chemistry,amplicon,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Reads],,,,,,,,,,,,,,,,,,,,,,,,,
+75,,,,,,,,,,,,,,,,,,,,,,,,,
+75,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Settings],,,,,,,,,,,,,,,,,,,,,,,,,
+ReverseComplement,0,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Data],,,,,,,,,,,,,,,,,,,,,,,,,
+Sample_ID,User,Sample_Name,Sample_Lot,Input_Amount,Condition,Sample_Plate,Sample_Well,Inline_ID,Index0,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Description,Library_ID,Library_Type,Sample_Type,Normal_Library_IDs,Target_Set,Genome,Analysis_Type,Read_Structure,Read_Length,Product
+AB-WO4-136-01,AB-WO4-136,HapMap24,x9-001b,30ng,42C + 12µL water in End Prep,,,,,DHT71,CAATGCGA,Ri512-20210527,NNNNNNNNNNNNTTCCGCTT,AB-WO4-136,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-136-02,AB-WO4-136,HapMap24,x9-001b,30ng,42C + 12µL water in End Prep,,,,,DHT72,GGTGTACA,Ri513-20210527,NNNNNNNNNNNNTTGTTCCG,AB-WO4-136,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-136-03,AB-WO4-136,HapMap24,x9-001b,30ng,42C 35min + 12µL water in End Prep,,,,,DHT73,TAGGAGCT,Ri514-20210527,NNNNNNNNNNNNAGCTTACC,AB-WO4-136,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-136-04,AB-WO4-136,HapMap24,x9-001b,30ng,42C 35min + 12µL water in End Prep,,,,,DHT74,CGAATTGC,Ri515-20210527,NNNNNNNNNNNNATGCCACA,AB-WO4-136,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-136-05,AB-WO4-136,HapMap24,x9-001b,30ng,42C TE,,,,,DHT75,GTCCTAAG,Ri512-20210527,NNNNNNNNNNNNTTCCGCTT,AB-WO4-136,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-136-06,AB-WO4-136,HapMap24,x9-001b,30ng,42C TE,,,,,DHT76,CTTAGGAC,Ri513-20210527,NNNNNNNNNNNNTTGTTCCG,AB-WO4-136,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-136-07,AB-WO4-136,HapMap24,x9-001b,30ng,42C Low TE,,,,,DHT77,TCCACGTT,Ri514-20210527,NNNNNNNNNNNNAGCTTACC,AB-WO4-136,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-136-08,AB-WO4-136,HapMap24,x9-001b,30ng,42C Low TE,,,,,DHT78,CAACACAG,Ri515-20210527,NNNNNNNNNNNNATGCCACA,AB-WO4-136,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-136-09,AB-WO4-136,HapMap24,x9-001b,30ng,42C 35min Low TE,,,,,DHT79,GCCTTAAC,Ri512-20210527,NNNNNNNNNNNNTTCCGCTT,AB-WO4-136,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-136-10,AB-WO4-136,HapMap24,x9-001b,30ng,42C 35min Low TE,,,,,DHT80,GTAAGGTG,Ri513-20210527,NNNNNNNNNNNNTTGTTCCG,AB-WO4-136,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-136-11,AB-WO4-136,HapMap24,x9-001b,30ng,42C TE 15min heat kill,,,,,DHT81,AGCTACCA,Ri514-20210527,NNNNNNNNNNNNAGCTTACC,AB-WO4-136,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-136-12,AB-WO4-136,HapMap24,x9-001b,30ng,42C TE 15min heat kill,,,,,DHT82,CTTCACTG,Ri515-20210527,NNNNNNNNNNNNATGCCACA,AB-WO4-136,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-136-13,AB-WO4-136,HapMap24,x9-001b,30ng,42C Low TE 15min heat kill,,,,,DHT83,GGTTGAAC,Ri512-20210527,NNNNNNNNNNNNTTCCGCTT,AB-WO4-136,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-136-14,AB-WO4-136,HapMap24,x9-001b,30ng,42C Low TE 15min heat kill,,,,,DHT84,GATAGCCA,Ri513-20210527,NNNNNNNNNNNNTTGTTCCG,AB-WO4-136,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-136-15,AB-WO4-136,HapMap24,x9-001b,30ng,42C 35min Low TE 15min heat kill,,,,,DHT85,TACTCCAG,Ri514-20210527,NNNNNNNNNNNNAGCTTACC,AB-WO4-136,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-136-16,AB-WO4-136,HapMap24,x9-001b,30ng,42C 35min Low TE 15min heat kill,,,,,DHT86,GGAAGAGA,Ri515-20210527,NNNNNNNNNNNNATGCCACA,AB-WO4-136,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-136-17,AB-WO4-136,HapMap24,x9-001b,30ng,HS SOP Sheared,,,,,DHT87,GCGTTAGA,Ri512-20210527,NNNNNNNNNNNNTTCCGCTT,AB-WO4-136,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-136-18,AB-WO4-136,HapMap24,x9-001b,30ng,HS SOP Sheared,,,,,DHT88,ATCTGACC,Ri513-20210527,NNNNNNNNNNNNTTGTTCCG,AB-WO4-136,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha

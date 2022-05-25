@@ -1,0 +1,35 @@
+[Header],,,,,,,
+IEMFileVersion,4,,,,,,
+Investigator Name,Romas Vaisvila,,,,,,
+Experiment Name,Rita_NIH_3T3_mouse_libraries,,,,,,
+Date,9/13/21,,,,,,
+Workflow,GenerateFASTQ,,,,,,
+Application,FASTQ Only,,,,,,
+Assay,TruSeq LT,,,,,,
+Description,,,,,,,
+Chemistry,Default,,,,,,
+,,,,,,,
+[Reads],,,,,,,
+75,,,,,,,
+75,,,,,,,
+,,,,,,,
+[Settings],,,,,,,
+,,,,,,,
+[Data],,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,Sample_Project,Description
+EMseqv2_10_01,,,,S01,ATCACG,,vaisvila@neb.com
+EMseqv2_10_02,,,,S02,CGATGT,,vaisvila@neb.com
+EMseqv2_11_01,,,,S03,TTAGGC,,vaisvila@neb.com
+EMseqv2_11_02,,,,S04,TGACCA,,vaisvila@neb.com
+EMseqv2_12_01,,,,S05,ACAGTG,,vaisvila@neb.com
+EMseqv2_12_02,,,,S06,GCCAAT,,vaisvila@neb.com
+EMseqv2_13_01,,,,S07,CAGATC,,vaisvila@neb.com
+EMseqv2_13_02,,,,S08,ACTTGA,,vaisvila@neb.com
+EMseq_12_01,,,,S09,GATCAG,,vaisvila@neb.com
+EMseq_12_02,,,,S10,TAGCTT,,vaisvila@neb.com
+EMseq_13_01,,,,S11,GGCTAC,,vaisvila@neb.com
+EMseq_13_02,,,,S12,CTTGTA,,vaisvila@neb.com
+EMseq_14_01,,,,S13,AGTCAA,,vaisvila@neb.com
+EMseq_14_01,,,,S14,AGTTCC,,vaisvila@neb.com
+EMseq_15_01,,,,S15,ATGTCA,,vaisvila@neb.com
+EMseq_15_02,,,,S16,CCGTCC,,vaisvila@neb.com

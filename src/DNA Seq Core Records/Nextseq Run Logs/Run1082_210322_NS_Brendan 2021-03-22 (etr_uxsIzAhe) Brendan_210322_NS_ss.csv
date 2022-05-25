@@ -1,0 +1,45 @@
+﻿[Header],,,,,,,,,,,,,,,,,,,,,,,,,
+IEMFileVersion,5,,,,,,,,,,,,,,,,,,,,,,,,
+Investigator Name,BD,,,,,,,,,,,,,,,,,,,,,,,,
+Experiment Name,AB-WO4-084,,,,,,,,,,,,,,,,,,,,,,,,
+Date,3/19/21,,,,,,,,,,,,,,,,,,,,,,,,
+Workflow,GenerateFASTQ,,,,,,,,,,,,,,,,,,,,,,,,
+Application,FASTQ Only,,,,,,,,,,,,,,,,,,,,,,,,
+Assay,TruSeq HT,,,,,,,,,,,,,,,,,,,,,,,,
+Description,,,,,,,,,,,,,,,,,,,,,,,,,
+Chemistry,amplicon,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Reads],,,,,,,,,,,,,,,,,,,,,,,,,
+70,,,,,,,,,,,,,,,,,,,,,,,,,
+70,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Settings],,,,,,,,,,,,,,,,,,,,,,,,,
+ReverseComplement,0,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Data],,,,,,,,,,,,,,,,,,,,,,,,,
+Sample_ID,User,Sample_Name,Sample_Lot,Input_Amount,Condition,Sample_Plate,Sample_Well,Inline_ID,Index0,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Description,Library_ID,Library_Type,Sample_Type,Normal_Library_IDs,Target_Set,Genome,Analysis_Type,Read_Structure,Read_Length,Product
+AB-WO4-084-01,AB-WO4-084,NA12878,002c,30ng,3Blunt MgCl2 2mM,,,,,DHT49,AAGACCGT,i501-20210311,TATAGCCTNNNNNNNNNNNN,AB-WO4-084,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB2,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-084-02,AB-WO4-084,NA12878,002c,30ng,3Blunt MgCl2 2mM,,,,,DHT50,TTGCGAGA,i502-20210311,ATAGAGGCNNNNNNNNNNNN,AB-WO4-084,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB2,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-084-03,AB-WO4-084,NA12878,002c,30ng,3Blunt MgCl2 2mM,,,,,DHT51,GCAATTCC,i503-20210311,CCTATCCTNNNNNNNNNNNN,AB-WO4-084,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB2,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-084-04,AB-WO4-084,NA12878,002c,30ng,3Blunt MgCl2 4mM,,,,,DHT52,GAATCCGT,i504-20210311,GGCTCTGANNNNNNNNNNNN,AB-WO4-084,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB2,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-084-05,AB-WO4-084,NA12878,002c,30ng,3Blunt MgCl2 4mM,,,,,DHT53,CCGCTTAA,i505-20210311,AGGCGAAGNNNNNNNNNNNN,AB-WO4-084,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB2,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-084-06,AB-WO4-084,NA12878,002c,30ng,3Blunt MgCl2 4mM,,,,,DHT54,TACCTGCA,i506-20210311,TAATCTTANNNNNNNNNNNN,AB-WO4-084,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB2,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-084-07,AB-WO4-084,NA12878,002c,30ng,3Blunt MgCl2 6.7mM,,,,,DHT55,GTCGATTG,i507-20210311,CAGGACGTNNNNNNNNNNNN,AB-WO4-084,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB2,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-084-08,AB-WO4-084,NA12878,002c,30ng,3Blunt MgCl2 6.7mM,,,,,DHT56,TATGGCAC,i508-20210311,GTACTGACNNNNNNNNNNNN,AB-WO4-084,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB2,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-084-09,AB-WO4-084,NA12878,002c,30ng,3Blunt MgCl2 6.7mM,,,,,DHT57,CTCGAACA,i509-20210311,TTGCTTGCNNNNNNNNNNNN,AB-WO4-084,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB2,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-084-10,AB-WO4-084,NA12878,002c,30ng,3Blunt ,,,,,DHT58,CAACTCCA,i510-20210311,GAGAGGTTNNNNNNNNNNNN,AB-WO4-084,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB2,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-084-11,AB-WO4-084,NA12878,002c,30ng,3Blunt 50mM NaCl,,,,,DHT59,GTCATCGT,i511-20210311,ACCTGGTTNNNNNNNNNNNN,AB-WO4-084,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB2,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-084-12,AB-WO4-084,NA12878,002c,30ng,3Blunt 50mM NaCl,,,,,DHT60,GGACATCA,i512-20210311,AAGCGGAANNNNNNNNNNNN,AB-WO4-084,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB2,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-084-13,AB-WO4-084,NA12878,002c,30ng,SOP,,,,,DHT61,CAGGTTCA,i513-20210225,CGGAACAANNNNNNNNNNNN,AB-WO4-084,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB2,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-084-14,AB-WO4-084,NA12878,002c,30ng,SOP,,,,,DHT62,GAACGAAG,i514-20210225,GGTAAGCTNNNNNNNNNNNN,AB-WO4-084,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB2,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-084-15,AB-WO4-084,NA12878,002c,30ng,NickT MM 2mM dNTP,,,,,DHT63,CTCAGAAG,i515-20210225,TGTGGCATNNNNNNNNNNNN,AB-WO4-084,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB2,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-084-16,AB-WO4-084,NA12878,002c,30ng,NickT MM 2mM dNTP,,,,,DHT64,CATGAGCA,i516-20210225,ACTACGGANNNNNNNNNNNN,AB-WO4-084,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB2,b38,Research,70T8B12M8B70T,,HsAlpha
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,

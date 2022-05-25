@@ -1,0 +1,34 @@
+[Header],,,,,,,,,
+IEMFileVersion,4,,,,,,,,
+Investigator Name,,Gene Chin,,,,,,,
+Experiment Name,,To develop NEAT-seq in FFPE Sample ,,,,,,,
+Date,,7-Sep-21,,,,,,,
+Workflow,GenerateFASTQ,,,,,,,,
+Application,FASTQ Only,,,,,,,,
+Assay,TruSeq HT,,,,,,,,
+Description,,,,,,,,,
+Chemistry,Amplicon,,,,,,,,
+,,,,,,,,,
+[Reads],,,,,,,,,
+75,,,,,,,,,
+75,,,,,,,,,
+[Settings],,,,,,,,,
+,,,,,,,,,
+[Data],,,,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Description
+50K_4_500pg_D1,50K_4_500pg_D1,,A1,S762,TTACCGAC,S512,CGTATTCG,,chinh@neb.com
+50K_4_500pg_D2,50K_4_500pg_D2,,B1,S713,TCGTCTGA,S586,TCAAGGAC,,chinh@neb.com
+50K_4_1ng_D1,50K_4_1ng_D1,,C1,S736,TTCCAGGT,S543,AAGCACTG,,chinh@neb.com
+50K_4_1ng_D2,50K_4_1ng_D2,,D1,S709,TACGGTCT,S575,GCAATGGA,,chinh@neb.com
+50K_4_1.5ng_D1,50K_4_1.5ng_D1,,E1,S732,AAGACCGT,S550,CAATCGAC,,chinh@neb.com
+50K_4_1.5ng_D2,50K_4_1.5ng_D2,,F1,S774,CAGGTTCA,S506,GGCGTTAT,,chinh@neb.com
+50K_4_2ng_D1,50K_4_2ng_D1,,G1,S747,TAGGAGCT,S524,GTTAAGGC,,chinh@neb.com
+50K_4_2ng_D2,50K_4_2ng_D2,,H1,S794,TACTCCAG,S590,CCTATACC,,chinh@neb.com
+50K_4_No DNA_D1,50K_4_No DNA_D1,,A2,S729,AGTGACCT,S591,CTCCTAGA,,chinh@neb.com
+50K_4_N0 DNA_D2,50K_4_N0 DNA_D2,,B2,S777,AGCCTATC,S526,GTTACGCA,,chinh@neb.com
+50K_1_500pg_D1,50K_1_500pg_D1,,C2,S772,TCATCTCC,S567,CTAGCAAG,,chinh@neb.com
+50K_1_500pg_D2,50K_1_500pg_D2,,D2,S725,CCAGTATC,S538,ATCTCGCT,,chinh@neb.com
+50K_1_1ng_D1,50K_1_1ng_D1,,E2,S755,TTGCGAGA,S566,GTGCCATA,,chinh@neb.com
+50K_1_1ng_D2,50K_1_1ng_D2,,F2,S760,GAACGAAG,S511,GGTGATTC,,chinh@neb.com
+50K_1_2ng_D1,50K_1_2ng_D1,,G2,S716,CGAATTGC,S559,CACCTTAC,,chinh@neb.com
+50K_1_2ng_D2,50K_1_2ng_D2,,H2,S708,GGAAGAGA,S521,TTCTCTCG,,chinh@neb.com

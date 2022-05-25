@@ -1,0 +1,30 @@
+﻿[Header],,,,,,,,,,,,,,,,,,,,,,,,,
+IEMFileVersion,5,,,,,,,,,,,,,,,,,,,,,,,,
+Investigator Name,BD,,,,,,,,,,,,,,,,,,,,,,,,
+Experiment Name,AB-WO4-145,,,,,,,,,,,,,,,,,,,,,,,,
+Date,8/10/21,,,,,,,,,,,,,,,,,,,,,,,,
+Workflow,GenerateFASTQ,,,,,,,,,,,,,,,,,,,,,,,,
+Application,FASTQ Only,,,,,,,,,,,,,,,,,,,,,,,,
+Assay,TruSeq HT,,,,,,,,,,,,,,,,,,,,,,,,
+Description,,,,,,,,,,,,,,,,,,,,,,,,,
+Chemistry,amplicon,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Reads],,,,,,,,,,,,,,,,,,,,,,,,,
+75,,,,,,,,,,,,,,,,,,,,,,,,,
+75,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Settings],,,,,,,,,,,,,,,,,,,,,,,,,
+ReverseComplement,0,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Data],,,,,,,,,,,,,,,,,,,,,,,,,
+Sample_ID,User,Sample_Name,Sample_Lot,Input_Amount,Condition,Sample_Plate,Sample_Well,Inline_ID,Index0,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Description,Library_ID,Library_Type,Sample_Type,Normal_Library_IDs,Target_Set,Genome,Analysis_Type,Read_Structure,Read_Length,Product
+AB-WO4-145-01,AB-WO4-145,HapMap24,x9-001b,30ng,Targeted Full Panel,,,,,DHT17,AGGATAGC,Ri517-20210721,NNNNNNNNNNNNGTGTAACC,AB-WO4-145,desmond@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-145-02,AB-WO4-145,HapMap24,x9-001b,30ng,Targeted Full Panel,,,,,DHT18,CCTTCCAT,Ri517-20210721,NNNNNNNNNNNNGTGTAACC,AB-WO4-145,desmond@directedgenomics.com,,,,,TargetedPanelHS/DB2,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-145-03,AB-WO4-145,HapMap24,x9-001b,30ng,Targeted Half Panel 50x15,,,,,DHT19,GTCCTTGA,Ri517-20210721,NNNNNNNNNNNNGTGTAACC,AB-WO4-145,desmond@directedgenomics.com,,,,,HalfTargetedPanelHS_50x15,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-145-04,AB-WO4-145,HapMap24,x9-001b,30ng,Targeted Half Panel 50x15,,,,,DHT20,TGCGTAAC,Ri517-20210721,NNNNNNNNNNNNGTGTAACC,AB-WO4-145,desmond@directedgenomics.com,,,,,HalfTargetedPanelHS_50x15,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-145-05,AB-WO4-145,HapMap24,x9-001b,30ng,Targeted Half Panel 50x15,,,,,DHT21,CACAGACT,Ri517-20210727,NNNNNNNNNNNNGTGTAACC,AB-WO4-145,desmond@directedgenomics.com,,,,,HalfTargetedPanelHS_50x15,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-145-06,AB-WO4-145,HapMap24,x9-001b,30ng,Targeted Half Panel 60x20,,,,,DHT22,TTACGTGC,Ri517-20210721,NNNNNNNNNNNNGTGTAACC,AB-WO4-145,desmond@directedgenomics.com,,,,,HalfTargetedPanelHS_60x20,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-145-07,AB-WO4-145,HapMap24,x9-001b,30ng,Targeted Half Panel 60x20,,,,,DHT23,CCAAGGTT,Ri517-20210727,NNNNNNNNNNNNGTGTAACC,AB-WO4-145,desmond@directedgenomics.com,,,,,HalfTargetedPanelHS_60x20,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-145-08,AB-WO4-145,HapMap24,x9-001b,30ng,Targeted Half Panel 60x20,,,,,DHT24,CACGCAAT,Ri517-20210721,NNNNNNNNNNNNGTGTAACC,AB-WO4-145,desmond@directedgenomics.com,,,,,HalfTargetedPanelHS_60x20,b38,Research,70T8B12M8B70T,,HsAlpha

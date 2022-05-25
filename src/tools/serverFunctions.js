@@ -1,9 +1,10 @@
-import {authOptions} from '../db/auth.js'
+import {authOptions, appAuthOptions} from '../db/auth.js'
 console.log(authOptions)
 // query and return based on date / citations
 export async function getEntries (apiUrl) {
   const myHeaders = new Headers();
-  const baseEncodedAuth = btoa(`${authOptions.user}:`);
+  const baseEncodedAuth = btoa(`${authOptions.key}:`);
+  // const appBaseEncodedAuth = btoa(`${appAuthOptions.user}:${appAuthOptions.key}`);
   console.log(baseEncodedAuth);
   myHeaders.append('Authorization', `Basic ${baseEncodedAuth}`);
 

@@ -2,11 +2,14 @@ import React from 'react'
 import logo from './logo.png';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import $ from 'jquery';
 
 import { getEntries } from './tools/serverFunctions';
+
 // import { entriesData } from './tools/sampleData';
 import { Spinner } from 'reactstrap';
-const apiUrl = `https://neb.benchling.com/api/v2/projects`;
+
+const apiUrl = `https://neb.benchling.com/api/v2/entries/etr_9ZPhUKMU`;
 
 
 class App extends React.Component {
@@ -20,40 +23,52 @@ class App extends React.Component {
     }
   }
   componentDidMount() {
-    let records = getEntries(apiUrl);
-    
-    console.log(records);
+    // let records = getEntries(apiUrl);
 
-    setTimeout(() => {
-      this.setState({
-        entries: records
-      });
-    }, 2000)
+    // console.log(records);
 
-    
+    // setTimeout(() => {
+    //   this.setState({
+    //     entries: records
+    //   });
+    // }, 2000)
+    // src/DNA Seq Core Records/Miseq Run Logs/210122_Sean_Miseq4 2021-01-26 (etr_q6JIYSTo).html
+    // src/210122_Sean_Miseq4 2021-01-26 (etr_q6JIYSTo).html
+    let htmlFileLocation = "./210122_Sean_Miseq4 2021-01-26 (etr_q6JIYSTo).html"
+    let encodedHtmlFileLocation = encodeURI(htmlFileLocation);
+    console.log(htmlFileLocation)
+    console.log(encodedHtmlFileLocation)
+    let rawLoaderLocation = 'raw-loader!' + htmlFileLocation;
+    console.log(rawLoaderLocation)
+
+    // eslint-disable-next-line import/no-webpack-loader-syntax
+    var htmlModule = require('raw-loader!./210122_Sean_Miseq4 2021-01-26 (etr_q6JIYSTo).html');
+    var html = htmlModule.default;
+    console.log(html);
+
   }
 
   renderSpinners() {
     return (
       <div className="spinners-holder">
         <Spinner
-            className="spinner"
-            color="primary"
-            type="grow"
-          >
-          </Spinner>
-          <Spinner
-            className="spinner"
-            color="primary"
-            type="grow"
-          >
-          </Spinner>
-          <Spinner
-            className="spinner"
-            color="primary"
-            type="grow"
-          >
-          </Spinner>
+          className="spinner"
+          color="primary"
+          type="grow"
+        >
+        </Spinner>
+        <Spinner
+          className="spinner"
+          color="primary"
+          type="grow"
+        >
+        </Spinner>
+        <Spinner
+          className="spinner"
+          color="primary"
+          type="grow"
+        >
+        </Spinner>
       </div>
     )
   }
@@ -69,7 +84,7 @@ class App extends React.Component {
       <div>
         {this.state.entries.map((entry) => {
           console.log(entry)
-          return(
+          return (
             <div>Hello!</div>
           )
         })}
@@ -99,9 +114,9 @@ class App extends React.Component {
 
           <p>just a moment ... </p>
           <div className="loading-spinners">
-          {!this.state.entries ? 
-            this.renderSpinners()
-          : null }
+            {!this.state.entries ?
+              this.renderSpinners()
+              : null}
           </div>
 
 

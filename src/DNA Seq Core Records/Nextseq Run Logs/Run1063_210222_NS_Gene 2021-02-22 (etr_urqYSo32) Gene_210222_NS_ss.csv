@@ -1,0 +1,40 @@
+[Header],,,,,,,
+IEMFileVersion,5,,,,,,
+Investigator Name,Gene Chin,,,,,,
+Experiment Name,Improvement_of_Nice_seq,,,,,,
+Date,2/22/21,,,,,,
+Workflow,GenerateFASTQ,,,,,,
+Application,FASTQ Only,,,,,,
+Instrument Type,Miseq,,,,,,
+Assay,TruSeq LT,,,,,,
+Description,,,,,,,
+Chemistry,Default,,,,,,
+,,,,,,,
+[Reads],,,,,,,
+75,,,,,,,
+75,,,,,,,
+,,,,,,,
+[Settings],,,,,,,
+,,,,,,,
+[Data],,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,Sample_Project,Description
+1,250K_IgG_Index14,,,Index_14,AGTTCC,,chinh@neb.com
+2,250K_IgG_Index15,,,,Index_15,ATGTCA,,chinh@neb.com
+3,250K_H3K27ac_Index16,,,,Index_16,CCGTCC,,chinh@neb.com
+4,250K_H3K27ac_Index18,,,,Index_18,GTCCGC,,chinh@neb.com
+5,250K_H3K27me3_Index20,,,,Index_20,GTGGCC,,chinh@neb.com
+6,250K_H3K27ac_Index3_TLPKRT,,,,Index_3,TTAGGC,,chinh@neb.com
+7,250K_H3K27me3_Index6_TLPKRT,,,,Index_6,GCCAAT,,chinh@neb.com
+8,250K_H3K4me3_Index10_TLPK_RT,,,,Index_10,TAGCTT,,chinh@neb.com
+9,250K_H3K4me3_Index17_TLPKRT,,,,Index_17,GTAGAG,,chinh@neb.com
+10,250K_CTCF_Index32_TLPKRT,,,,Index_32,CACTCA,,chinh@neb.com
+11,250K_CTCF_Index35_TLPKRT,,,,Index_35,CATTTT,,chinh@neb.com
+12,250K_EzH2_Index21_TLPKRT,,,,Index_21,GTTTCG,,chinh@neb.com
+13,250K_EzH2_Index22_TLPKRT,,,,Index_22,CGTACG,,chinh@neb.com
+14,250K_H3K27ac_Index7,,,,Index_7,CAGATC,,chinh@neb.com
+15,250K_H3K27me3_Index8,,,,Index_8,ACTTGA,,chinh@neb.com
+16,250K_H3K4me3_Index9,,,,Index_9,GATCAG,,chinh@neb.com
+17,250K_H3K4me3_Index11,,,,Index_11,GGCTAC,,chinh@neb.com
+18,250K_CTCF_Index23,,,,Index_23,GAGTGG,,chinh@neb.com
+19,250K_EzH2_Index26,,,,Index_26,ATGAGC,,chinh@neb.com
+20,250K_EzH2_Index1,,,,Index_1,ATCACG,,chinh@neb.com

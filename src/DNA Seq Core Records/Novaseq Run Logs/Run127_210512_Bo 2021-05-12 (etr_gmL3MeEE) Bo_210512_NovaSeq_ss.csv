@@ -1,0 +1,60 @@
+[Header],,,,,,,,,
+IEMFileVersion,4,,,,,,,,
+Investigator Name,Bo Yan,,,,,,,,
+Experiment Name,,,,,,,,,
+Date,5/11/21,,,,,,,,
+Workflow,GenerateFASTQ,,,,,,,,
+Application,FASTQ Only,,,,,,,,
+Assay,,,,,,,,,
+Description,100bp Paired-end Novaseq v1.5 S1 kit,,,,,,,,
+Chemistry,Amplicon,,,,,,,,
+,,,,,,,,,
+[Reads],,,,,,,,,
+100,,,,,,,,,
+100,,,,,,,,,
+[Settings],,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+[Data],,,,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Description
+LC_target_E1,LC_target_E1,E6440,E1,S732,AAGACCGT,S550,CAATCGAC,LC_target,yan@neb.com
+LC_target_E2,LC_target_E2,E6440,E2,S755,TTGCGAGA,S566,GTGCCATA,LC_target,yan@neb.com
+LC_target_E3,LC_target_E3,E6440,E3,S722,GCAATTCC,S578,TGTTCGAG,LC_target,yan@neb.com
+LC_target_E4,LC_target_E4,E6440,E4,S742,GAATCCGT,S551,TGGAGTTG,LC_target,yan@neb.com
+LC_target_E5,LC_target_E5,E6440,E5,S753,CCGCTTAA,S548,ACGATGAC,LC_target,yan@neb.com
+LC_target_E6,LC_target_E6,E6440,E6,S737,TACCTGCA,S576,TGATGTCC,LC_target,yan@neb.com
+LC_target_E7,LC_target_E7,E6440,E7,S750,GTCGATTG,S532,ACGGTCTT,LC_target,yan@neb.com
+LC_target_E8,LC_target_E8,E6440,E8,S766,TATGGCAC,S555,TCTCGCAA,LC_target,yan@neb.com
+TarRep_400bp,TarRep_400bp,E6440,E9,S778,CTCGAACA,S522,GGAATTGC,AccSeq_target,yan@neb.com
+TarRep_500bp,TarRep_500bp,E6440,E10,S751,CAACTCCA,S542,ACGGATTC,AccSeq_target,yan@neb.com
+TarCon,TarCon,E6440,G7,S724,GCCTTAAC,S547,AGCTCCTA,AccSeq_target,yan@neb.com
+Eco38,Eco38,E6440,H9,S792,CAGCATAC,S534,TCTAACGC,RIMseq,yan@neb.com
+KPN42,KPN42,E6440,H10,S793,CTCGACTT,S573,GGTCAGAT,RIMseq,yan@neb.com
+SEN52,SEN52,E6440,H11,S720,CTTCGGTT,S514,CTCTGGTT,RIMseq,yan@neb.com
+Loop_Enrich,Loop_Enrich,E6440,H7,S790,GGTATAGG,S594,CTGGAGTA,loop,yan@neb.com
+Loop_Control,Loop_Control,E6440,H8,S721,CGAGAGAA,S508,TCTCTTCC,loop,yan@neb.com
+C2527,C2527,E6440,G1,S747,TAGGAGCT,S524,GTTAAGGC,RNAseq,yan@neb.com
+NEB1441,NEB1441,E6440,G2,S716,CGAATTGC,S559,CACCTTAC,RNAseq,yan@neb.com
+ATCC728,ATCC728,E6440,G3,S770,GTCCTAAG,S540,TGGTAGCT,RNAseq,yan@neb.com
+MG1655Rich,MG1655Rich,E6440,G4,S749,CTTAGGAC,S565,CAGTGAAG,RNAseq,yan@neb.com
+MG1655M9,MG1655M9,E6440,G5,S784,TCCACGTT,S541,GTTCAACC,RNAseq,yan@neb.com
+Mix,Mix,E6440,G6,S780,CAACACAG,S530,TGGCTATC,RNAseq,yan@neb.com
+sc_control,sc_control,E6440,A1,S762,TTACCGAC,S512,CGTATTCG,click-cap,wyang@neb.com
+nsc_click,nsc_click,E6440,C1,S736,TTCCAGGT,S543,AAGCACTG,click-cap,wyang@neb.com
+sb_control,sb_control,E6440,A2,S729,AGTGACCT,S591,CTCCTAGA,click-cap,wyang@neb.com
+nsc_control,nsc_control,E6440,C2,S772,TCATCTCC,S567,CTAGCAAG,click-cap,wyang@neb.com
+npc_click,npc_click,E6440,C3,S757,GAGAGTAC,S545,TGCTTCCA,click-cap,wyang@neb.com
+sc_click,sc_click,E6440,A4,S763,CAAGGTAC,S505,GAGATACG,click-cap,wyang@neb.com
+npc_control,npc_control,E6440,C4,S735,GTCGTTAC,S554,GCTTAGCT,click-cap,wyang@neb.com
+pc_click,pc_click,E6440,C5,S704,GGAGGAAT,S585,AACCGTTC,click-cap,wyang@neb.com
+rock_rna,rock_rna,E6440,D6,S739,CTTACAGC,S503,CTTCACCA,phage RNA,wyang@neb.com
+sb_click,sb_click,E6440,A7,S712,CGAATACG,S562,GTCGGTAA,click-cap,wyang@neb.com
+marsh_rna,marsh_rna,E6440,D7,S775,TCCATTGC,S509,AGACCGTA,phage RNA,wyang@neb.com
+pc_control,pc_control,E6440,A10,S705,CGTATCTC,S563,GTACCTTG,click-cap,wyang@neb.com
+pb_click,pb_click,E6440,A11,S719,GTACACCT,S569,CATGAGGA,click-cap,wyang@neb.com
+p2_rna,p2_rna,E6440,B11,S744,CCAAGGTT,S552,GCTATCCT,phage RNA,wyang@neb.com
+pb_control,pb_control,E6440,A12,S731,CGGCATTA,S571,TGACTGAC,click-cap,wyang@neb.com
+6h+adaptor,6h+adaptor,E7660,NA,i701,ATTACTCG,s512,CGTATTCG,PT ,6h+adaptor
+uncut+adaptor,uncut+adaptor,E7661,NA,i702,TCCGGAGA,s512,CGTATTCG,PT ,uncut+adaptor
+ocean_ecowi,ocean_ecowi,E7662,NA,i705,ATTCAGAA,s512,CGTATTCG,PT ,ocean_ecowi + sonication
+ocean_uncut,ocean_uncut,E7663,NA,i706,GAATTCGT,s512,CGTATTCG,PT ,ocean_uncut + sonication

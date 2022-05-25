@@ -1,0 +1,28 @@
+[Header],,,,,,,,,,,,,,,,,,,,,,,,,
+IEMFileVersion,5,,,,,,,,,,,,,,,,,,,,,,,,
+Investigator Name,KMP,,,,,,,,,,,,,,,,,,,,,,,,
+Experiment Name,20211025-Alpha1,,,,,,,,,,,,,,,,,,,,,,,,
+Date,10/26/21,,,,,,,,,,,,,,,,,,,,,,,,
+Workflow,GenerateFASTQ,,,,,,,,,,,,,,,,,,,,,,,,
+Application,FASTQ Only,,,,,,,,,,,,,,,,,,,,,,,,
+Assay,TruSeq HT,,,,,,,,,,,,,,,,,,,,,,,,
+Description,,,,,,,,,,,,,,,,,,,,,,,,,
+Chemistry,amplicon,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Reads],,,,,,,,,,,,,,,,,,,,,,,,,
+70,,,,,,,,,,,,,,,,,,,,,,,,,
+70,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Settings],,,,,,,,,,,,,,,,,,,,,,,,,
+ReverseComplement,0,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Data],,,,,,,,,,,,,,,,,,,,,,,,,
+Sample_ID,User,Sample_Name,Sample_Lot,Input_Amount,Condition,Sample_Plate,Sample_Well,Inline_ID,Index0,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Description,Library_ID,Library_Type,Sample_Type,Normal_Library_IDs,Target_Set,Genome,Analysis_Type,Read_Structure,Read_Length,Product
+20211025-Alpha1-01,20211025-Alpha1,HM24x,9-001c,10ng,Alpha1-60bp-DB,,,,,DHT55,GTCGATTG,Ri501-,NNNNNNNNNNNNAGGCTATA,20211025-Alpha1,patel@directedgenomics.com,,,,,Alpha1_60bp/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+20211025-Alpha1-02,20211025-Alpha1,HM24x,9-001c,10ng,Alpha1-60bp-DB,,,,,DHT56,TATGGCAC,Ri504-,NNNNNNNNNNNNTCAGAGCC,20211025-Alpha1,patel@directedgenomics.com,,,,,Alpha1_60bp/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+20211025-Alpha1-03,20211025-Alpha1,HM24x,9-001c,25ng,Alpha1-60bp-DB,,,,,DHT57,CTCGAACA,Ri505-,NNNNNNNNNNNNCTTCGCCT,20211025-Alpha1,patel@directedgenomics.com,,,,,Alpha1_60bp/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+20211025-Alpha1-04,20211025-Alpha1,HM24x,9-001c,25ng,Alpha1-60bp-DB,,,,,DHT58,CAACTCCA,Ri517-,NNNNNNNNNNNNGTGTAACC,20211025-Alpha1,patel@directedgenomics.com,,,,,Alpha1_60bp/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+20211025-Alpha1-05,20211025-Alpha1,HM24x,9-001c,50ng,Alpha1-60bp-DB,,,,,DHT59,GTCATCGT,Ri518-,NNNNNNNNNNNNTGTGTGCT,20211025-Alpha1,patel@directedgenomics.com,,,,,Alpha1_60bp/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+20211025-Alpha1-06,20211025-Alpha1,HM24x,9-001c,50ng,Alpha1-60bp-DB,,,,,DHT60,GGACATCA,Ri519-,NNNNNNNNNNNNACCGAATC,20211025-Alpha1,desmond@directedgenomics.com,,,,,Alpha1_60bp/DB,b38,Research,70T8B12M8B70T,,HsAlpha

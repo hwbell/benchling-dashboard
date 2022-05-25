@@ -1,0 +1,39 @@
+[Header],,,,,,,
+IEMFileVersion,5,,,,,,
+Investigator Name,Vishnu SK,,,,,,
+Experiment Name,RNAseq PARP,,,,,,
+Date,3/29/21,,,,,,
+Workflow,GenerateFASTQ,,,,,,
+Application,FASTQ Only,,,,,,
+Instrument Type,Miseq,,,,,,
+Assay,TruSeq LT,,,,,,
+Description,,,,,,,
+Chemistry,Default,,,,,,
+,,,,,,,
+[Reads],,,,,,,
+75,,,,,,,
+75,,,,,,,
+,,,,,,,
+[Settings],,,,,,,
+,,,,,,,
+[Data],,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,Sample_Project,Description
+1,,,,Index_1,ATCACG,,vus@neb.com
+2,,,,Index_2,CGATGT,,vus@neb.com
+4,,,,Index_4,TGACCA,,vus@neb.com
+5,,,,Index_5,ACAGTG,,vus@neb.com
+7,,,,Index_7,CAGATC,,vus@neb.com
+9,,,,Index_9,GATCAG,,vus@neb.com
+10,,,,Index_10,TAGCTT,,vus@neb.com
+12,,,,Index_12,CTTGTA,,vus@neb.com
+13,,,,Index_13,AGTCAA,,vus@neb.com
+14,,,,Index_14,AGTTCC,,vus@neb.com
+16,,,,Index_16,CCGTCC,,vus@neb.com
+18,,,,Index_18,GTCCGC,,vus@neb.com
+20,,,,Index_20,GTGGCC,,vus@neb.com
+22,,,,Index_22,CGTACG,,vus@neb.com
+25,,,,Index_25,ACTGAT,,vus@neb.com
+27,,,,Index_27,ATTCCT,,vus@neb.com
+29,,,,Index_29,CAACTA,,vus@neb.com
+31,,,,Index_31,CACGAT,,vus@neb.com
+48,,,,Index_48,TCGGCA,,vus@neb.com

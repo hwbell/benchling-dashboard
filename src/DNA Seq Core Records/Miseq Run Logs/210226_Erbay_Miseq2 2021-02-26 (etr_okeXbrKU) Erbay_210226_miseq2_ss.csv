@@ -1,0 +1,29 @@
+[Header],,,,,,,
+IEMFileVersion,4,,,,,,
+Investigator Name,Erbay Yigit_2x18cycles,,,,,,
+Experiment Name,Erbay,,,,,,
+Date,2/23/21,,,,,,
+Workflow,SmallRNA,,,,,,
+Application,Small RNA,,,,,,
+Assay,TruSeq Small RNA,,,,,,
+Description,,,,,,,
+Chemistry,Default,,,,,,
+,,,,,,,
+[Reads],,,,,,,
+18,,,,,,,
+18,,,,,,,
+[Settings],,,,,,,
+ReverseComplement,0,,,,,,
+,,,,,,,
+[Data],,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,Sample_Project,Description
+1,NoEnzyme,,,A001,ATCACG,,yigit@neb.com
+2,MazF_Ec,,,A002,CGATGT,,yigit@neb.com
+3,MazF_Ec_1_10,,,A003,TTAGGC,,yigit@neb.com
+4,MazF_Ec_1_100,,,A004,TGACCA,,yigit@neb.com
+5,MazF_Ha,,,A005,ACAGTG,,yigit@neb.com
+6,MazF_Ha_1_10,,,A006,GCCAAT,,yigit@neb.com
+7,MazF_Ha_1_100,,,A007,CAGATC,,yigit@neb.com
+8,PureExp_dhfr,,,A008,ACTTGA,,yigit@neb.com
+9,PureExp_MazF_Ha_1_10,,,A009,GATCAG,,yigit@neb.com
+10,control_no_lib,,,A010,TAGCTT,,yigit@neb.com

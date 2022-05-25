@@ -1,0 +1,29 @@
+[Header],,,,,,,
+IEMFileVersion,5,,,,,,
+Investigator Name,DD,,,,,,
+Experiment Name,Induro_Illumina,,,,,,
+Date,3/9/21,,,,,,
+Workflow,GenerateFASTQ,,,,,,
+Application,FASTQ Only,,,,,,
+Instrument Type,Miseq,,,,,,
+Assay,TruSeq LT,,,,,,
+Description,,,,,,,
+Chemistry,Default,,,,,,
+,,,,,,,
+[Reads],,,,,,,
+300,,,,,,,
+,,,,,,,
+,,,,,,,
+[Settings],,,,,,,
+,,,,,,,
+[Data],,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,Sample_Project,Description
+I86,,,,Index_86,GGAAGAGA,,mdezoysa@neb.com
+I87,,,,Index_87,GCGTTAGA,,mdezoysa@neb.com
+I91,,,,Index_91,GGTATAGG,,mdezoysa@neb.com
+I92,,,,Index_92,CGAGAGAA,,mdezoysa@neb.com
+I93,,,,Index_93,CAGCATAC,,mdezoysa@neb.com
+I95,,,,Index_95,CTTCGGTT,,mdezoysa@neb.com
+I96,,,,Index_96,CCACAACA,,mdezoysa@neb.com
+I85,,,,Index_85,TACTCCAG,,mdezoysa@neb.com
+I94,,,,Index_94,CTCGACTT,,mdezoysa@neb.com

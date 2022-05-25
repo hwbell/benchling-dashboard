@@ -1,0 +1,30 @@
+[Header],,,,,,,
+IEMFileVersion,5,,,,,,
+Investigator Name,Tony Dawson,,,,,,
+Experiment Name,RMazFlib_20210615,,,,,,
+Date,6/16/21,,,,,,
+Workflow,GenerateFASTQ,,,,,,
+Application,FASTQ Only,,,,,,
+Instrument Type,Nextseq,,,,,,
+Assay,TruSeq LT,,,,,,
+Description,,,,,,,
+Chemistry,Default,,,,,,
+,,,,,,,
+[Reads],,,,,,,
+9,,,,,,,
+9,,,,,,,
+,,,,,,,
+[Settings],,,,,,,
+,,,,,,,
+[Data],,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,Sample_Project,Description
+1,,,,Index_1,ATCACG,,adawson@neb.com
+16,,,,Index_16,CCGTCC,,adawson@neb.com
+21,,,,Index_21,GTTTCG,,adawson@neb.com
+24,,,,Index_24,GGTAGC,,adawson@neb.com
+31,,,,Index_31,CACGAT,,adawson@neb.com
+37,,,,Index_37,CGGAAT,,adawson@neb.com
+38,,,,Index_38,CTAGCT,,adawson@neb.com
+39,,,,Index_39,CTATAC,,adawson@neb.com
+40,,,,Index_40,CTCAGA,,adawson@neb.com
+41,,,,Index_41,GACGAC,,adawson@neb.com

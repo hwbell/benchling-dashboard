@@ -1,0 +1,38 @@
+[Header],,,,,,,,,
+IEMFileVersion,4,,,,,,,,
+Investigator Name,BSS,,,,,,,,
+Experiment Name,BSS_Exp97,,,,,,,,
+Date,3/10/21,,,,,,,,
+Workflow,GenerateFASTQ,,,,,,,,
+Application,FASTQ Only,,,,,,,,
+Assay,TruSeq HT,,,,,,,,
+Description,BSS_Exp97,,,,,,,,
+Chemistry,Amplicon,,,,,,,,
+,,,,,,,,,
+[Reads],,,,,,,,,
+76,,,,,,,,,
+76,,,,,,,,,
+,,,,,,,,,
+[Settings],,,,,,,,,
+ReverseComplement,0,,,,,,,,
+,,,,,,,,,
+[Data],,,,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Description
+50ng_NA12878_BufferNoKClBSAlargebatch_150mMKCl_0.25BSA__4ulsEM_20mins_37degrees_15mins65degrees-1,,,A6,S771,GTCAGTCA,,,,bsexton@neb.com
+50ng_NA12878_BufferNoKClBSAlargebatch_150mMKCl_0.25BSA__4ulsEM_20mins_37degrees_15mins65degrees-2,,,B6,S779,CCTTCCAT,,,,bsexton@neb.com
+50ng_NA12878_BufferNoKClBSAlargebatch_150mMKCl_4ulsEM_20mins_37degrees_15mins65degrees-1,,,C6,S788,AGGAACAC,,,,bsexton@neb.com
+50ng_NA12878_BufferNoKClBSAlargebatch_150mMKCl_4ulsEM_20mins_37degrees_15mins65degrees-2,,,D6,S739,CTTACAGC,,,,bsexton@neb.com
+50ng_NA12878_Covaris-1,,,E6,S737,TACCTGCA,,,,bsexton@neb.com
+50ng_NA12878_Covaris-2,,,F6,S728,AGACGCTA,,,,bsexton@neb.com
+50ng_Hela_BufferNoKClBSAlargebatch_150mMKCl_0.25BSA__4ulsEM_20mins_37degrees_15mins65degrees-1,,,G6,S780,CAACACAG,,,,bsexton@neb.com
+50ng_Hela_BufferNoKClBSAlargebatch_150mMKCl_0.25BSA__4ulsEM_20mins_37degrees_15mins65degrees-2,,,H6,S761,GTACCACA,,,,bsexton@neb.com
+50ng_Hela_BufferNoKClBSAlargebatch_150mMKCl_4ulsEM_20mins_37degrees_15mins65degrees-1,,,A7,S712,CGAATACG,,,,bsexton@neb.com
+50ng_Hela_BufferNoKClBSAlargebatch_150mMKCl_4ulsEM_20mins_37degrees_15mins65degrees-2,,,B7,S786,GTCCTTGA,,,,bsexton@neb.com
+50ng_Hela_Covaris-1,,,C7,S743,CAGTGCTT,,,,bsexton@neb.com
+50ng_Hela_Covaris-2,,,D7,S775,TCCATTGC,,,,bsexton@neb.com
+50ng_Ecoli_BufferNoKClBSAlargebatch_150mMKCl_0.25BSA__4ulsEM_20mins_37degrees_15mins65degrees-1,,,E7,S750,GTCGATTG,,,,bsexton@neb.com
+50ng_Ecoli_BufferNoKClBSAlargebatch_150mMKCl_0.25BSA__4ulsEM_20mins_37degrees_15mins65degrees-2,,,F7,S706,ATAACGCC,,,,bsexton@neb.com
+50ng_Ecoli_BufferNoKClBSAlargebatch_150mMKCl_4ulsEM_20mins_37degrees_15mins65degrees-1,,,G7,S724,GCCTTAAC,,,,bsexton@neb.com
+50ng_Ecoli_BufferNoKClBSAlargebatch_150mMKCl_4ulsEM_20mins_37degrees_15mins65degrees-2,,,H7,S790,GGTATAGG,,,,bsexton@neb.com
+50ng_Ecoli_Covaris-1,,,A8,S791,TCTAGGAG,,,,bsexton@neb.com
+50ng_Ecoli_Covaris-2,,,,,,,,,bsexton@neb.com

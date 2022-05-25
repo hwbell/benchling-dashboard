@@ -1,0 +1,44 @@
+[Header],,,,,,,,,,,,,,,,,,,,,,,,,
+IEMFileVersion,5,,,,,,,,,,,,,,,,,,,,,,,,
+Investigator Name,,,,,,,,,,,,,,,,,,,,,,,,,
+Experiment Name,AB-WO4-090_092,,,,,,,,,,,,,,,,,,,,,,,,
+Date,4/5/21,,,,,,,,,,,,,,,,,,,,,,,,
+Workflow,GenerateFASTQ,,,,,,,,,,,,,,,,,,,,,,,,
+Application,FASTQ Only,,,,,,,,,,,,,,,,,,,,,,,,
+Assay,TruSeq HT,,,,,,,,,,,,,,,,,,,,,,,,
+Description,,,,,,,,,,,,,,,,,,,,,,,,,
+Chemistry,amplicon,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Reads],,,,,,,,,,,,,,,,,,,,,,,,,
+75,,,,,,,,,,,,,,,,,,,,,,,,,
+75,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Settings],,,,,,,,,,,,,,,,,,,,,,,,,
+ReverseComplement,0,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Data],,,,,,,,,,,,,,,,,,,,,,,,,
+Sample_ID,User,Sample_Name,Sample_Batch,Input_Amount,Condition,Sample_Plate,Sample_Well,Inline_ID,Index0,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Description,Library_ID,Library_Type,Sample_Type,Normal_Library_IDs,Target_Set,Genome,Analysis_Type,Read_Structure,Read_Length,Product
+AB-WO4-090-01,AB-WO4-090,HM24x8,x8,30ng,SOP,,,,,DHT57,CTCGAACA,Ri501-20210329,NNNNNNNNNNNNAGGCTATA,AB-WO4-090,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-090-02,AB-WO4-090,HM24x8,x8,30ng,SOP,,,,,DHT58,CAACTCCA,Ri502-20210329,NNNNNNNNNNNNGCCTCTAT,AB-WO4-090,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-090-03,AB-WO4-090,HM24x8,x8,30ng,SOP,,,,,DHT59,GTCATCGT,Ri503-20210329,NNNNNNNNNNNNAGGATAGG,AB-WO4-090,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-090-04,AB-WO4-090,HM24x8,x8,30ng,LinAmp-longAmp,,,,,DHT60,GGACATCA,Ri504-20210329,NNNNNNNNNNNNTCAGAGCC,AB-WO4-090,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-090-05,AB-WO4-090,HM24x8,x8,30ng,LinAmp-longAmp,,,,,DHT61,CAGGTTCA,Ri505-20210329,NNNNNNNNNNNNCTTCGCCT,AB-WO4-090,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-090-06,AB-WO4-090,HM24x8,x8,30ng,LinAmp-longAmp,,,,,DHT62,GAACGAAG,Ri506-20210329,NNNNNNNNNNNNTAAGATTA,AB-WO4-090,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-090-07,AB-WO4-090,HM24x8,x8,30ng,FinalPCR-UltraII-GS,,,,,DHT63,CTCAGAAG,Ri507-20210329,NNNNNNNNNNNNACGTCCTG,AB-WO4-090,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-090-08,AB-WO4-090,HM24x8,x8,30ng,FinalPCR-UltraII-GS,,,,,DHT64,CATGAGCA,Ri508-20210329,NNNNNNNNNNNNGTCAGTAC,AB-WO4-090,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-090-09,AB-WO4-090,HM24x8,x8,30ng,LinAmp62,,,,,DHT65,GACGAACT,Ri509-20210329,NNNNNNNNNNNNGCAAGCAA,AB-WO4-090,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-090-10,AB-WO4-090,HM24x8,x8,30ng,LinAmp62,,,,,DHT66,AGACGCTA,Ri510-20210329,NNNNNNNNNNNNAACCTCTC,AB-WO4-090,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-090-11,AB-WO4-090,HM24x8,x8,30ng,LinAmp62,,,,,DHT67,ATAACGCC,Ri511-20210329,NNNNNNNNNNNNAACCAGGT,AB-WO4-090,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-090-12,AB-WO4-090,HM24x8,x8,30ng,LinAmp62-LongAmp,,,,,DHT68,GAATCACC,Ri512-20210329,NNNNNNNNNNNNTTCCGCTT,AB-WO4-090,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-090-13,AB-WO4-090,HM24x8,x8,30ng,LinAmp62-LongAmp,,,,,DHT69,GGCAAGTT,Ri513-20210329,NNNNNNNNNNNNTTGTTCCG,AB-WO4-090,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-090-14,AB-WO4-090,HM24x8,x8,30ng,LinAmp62_FinalPCR-UltraII-GS,,,,,DHT70,GATCTTGC,Ri514-20210329,NNNNNNNNNNNNAGCTTACC,AB-WO4-090,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-090-15,AB-WO4-090,HM24x8,x8,30ng,LinAmp62_FinalPCR-UltraII-GS,,,,,DHT71,CAATGCGA,Ri515-20210329,NNNNNNNNNNNNATGCCACA,AB-WO4-090,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-092-01,AB-WO4-092,HM24x8,x8,30ng,SOP_75ulStrepBeads,,,,,DHT72,GGTGTACA,Ri516-20210329,NNNNNNNNNNNNTCCGTAGT,AB-WO4-092,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-092-02,AB-WO4-092,HM24x8,x8,30ng,SOP_75ulStrepBeads,,,,,DHT73,TAGGAGCT,Ri517-20210329,NNNNNNNNNNNNGTGTAACC,AB-WO4-092,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-092-03,AB-WO4-092,HM24x8,x8,30ng,SOP_75ulStrepBeads,,,,,DHT74,CGAATTGC,Ri518-20210329,NNNNNNNNNNNNTGTGTGCT,AB-WO4-092,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-092-04,AB-WO4-092,HM24x8,x8,30ng,150ulStrepBeads,,,,,DHT75,GTCCTAAG,Ri519-20210329,NNNNNNNNNNNNACCGAATC,AB-WO4-092,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-092-05,AB-WO4-092,HM24x8,x8,30ng,150ulStrepBeads,,,,,DHT76,CTTAGGAC,Ri520-20210329,NNNNNNNNNNNNACACCGTA,AB-WO4-092,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-092-06,AB-WO4-092,HM24x8,x8,30ng,150ulStrepBeads,,,,,DHT77,TCCACGTT,Ri521-20210329,NNNNNNNNNNNNAACACGAC,AB-WO4-092,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-092-07,AB-WO4-092,HM24x8,x8,30ng,200ulStrepBeads,,,,,DHT78,CAACACAG,Ri522-20210329,NNNNNNNNNNNNGTGGTCTT,AB-WO4-092,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-092-08,AB-WO4-092,HM24x8,x8,30ng,200ulStrepBeads,,,,,DHT79,GCCTTAAC,Ri523-20210329,NNNNNNNNNNNNACACTCAG,AB-WO4-092,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha
+AB-WO4-092-09,AB-WO4-092,HM24x8,x8,30ng,200ulStrepBeads,,,,,DHT80,GTAAGGTG,Ri524-20210329,NNNNNNNNNNNNGCGTTATG,AB-WO4-092,patel@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,75T8B12M8B75T,,HsAlpha

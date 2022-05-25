@@ -1,0 +1,53 @@
+[Header],,,,,,,,,,,,,,,,,,,,,,,,,
+IEMFileVersion,5,,,,,,,,,,,,,,,,,,,,,,,,
+Investigator Name,BD,,,,,,,,,,,,,,,,,,,,,,,,
+Experiment Name,AB-WO4-074,,,,,,,,,,,,,,,,,,,,,,,,
+Date,2/26/21,,,,,,,,,,,,,,,,,,,,,,,,
+Workflow,GenerateFASTQ,,,,,,,,,,,,,,,,,,,,,,,,
+Application,FASTQ Only,,,,,,,,,,,,,,,,,,,,,,,,
+Assay,TruSeq HT,,,,,,,,,,,,,,,,,,,,,,,,
+Description,,,,,,,,,,,,,,,,,,,,,,,,,
+Chemistry,amplicon,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Reads],,,,,,,,,,,,,,,,,,,,,,,,,
+70,,,,,,,,,,,,,,,,,,,,,,,,,
+70,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Settings],,,,,,,,,,,,,,,,,,,,,,,,,
+ReverseComplement,0,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Data],,,,,,,,,,,,,,,,,,,,,,,,,
+Sample_ID,User,Sample_Name,Sample_Lot,Input_Amount,Condition,Sample_Plate,Sample_Well,Inline_ID,Index0,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Description,Library_ID,Library_Type,Sample_Type,Normal_Library_IDs,Target_Set,Genome,Analysis_Type,Read_Structure,Read_Length,Product
+AB-WO4-074-01,AB-WO4-074,HapMap24,x8-001b,30ng,ON hyb BluntSU 20µM,,,,,DHT73,TAGGAGCT,Ri501-6A,NNNNNNNNNNNNAGGCTATA,AB-WO4-074,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-074-02,AB-WO4-074,HapMap24,x8-001b,30ng,ON hyb BluntSU 20µM,,,,,DHT74,CGAATTGC,Ri502-6A,NNNNNNNNNNNNGCCTCTAT,AB-WO4-074,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-074-03,AB-WO4-074,HapMap24,x8-001b,30ng,ON hyb Ligase 20µL,,,,,DHT75,GTCCTAAG,Ri503-6A,NNNNNNNNNNNNAGGATAGG,AB-WO4-074,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-074-04,AB-WO4-074,HapMap24,x8-001b,30ng,ON hyb Ligase 20µL,,,,,DHT76,CTTAGGAC,Ri504-6A,NNNNNNNNNNNNTCAGAGCC,AB-WO4-074,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-074-05,AB-WO4-074,HapMap24,x8-001b,30ng,ON hyb BluntSU 20µM Ligase 20µL,,,,,DHT77,TCCACGTT,Ri505-5A,NNNNNNNNNNNNCTTCGCCT,AB-WO4-074,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-074-06,AB-WO4-074,HapMap24,x8-001b,30ng,ON hyb BluntSU 20µM Ligase 20µL,,,,,DHT78,CAACACAG,Ri506-5A,NNNNNNNNNNNNTAAGATTA,AB-WO4-074,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-074-07,AB-WO4-074,HapMap24,x8-001b,30ng,ON hyb SOP,,,,,DHT79,GCCTTAAC,Ri507-5A,NNNNNNNNNNNNACGTCCTG,AB-WO4-074,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-074-08,AB-WO4-074,HapMap24,x8-001b,30ng,ON hyb SOP,,,,,DHT80,GTAAGGTG,Ri508-5A,NNNNNNNNNNNNGTCAGTAC,AB-WO4-074,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-074-09,AB-WO4-074,HapMap24,x8-001b,30ng,ON hyb BluntSU 20µM 30min,,,,,DHT81,AGCTACCA,Ri509-5A,NNNNNNNNNNNNGCAAGCAA,AB-WO4-074,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-074-10,AB-WO4-074,HapMap24,x8-001b,30ng,ON hyb BluntSU 20µM 30min,,,,,DHT82,CTTCACTG,Ri510-5A,NNNNNNNNNNNNAACCTCTC,AB-WO4-074,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-074-11,AB-WO4-074,HapMap24,x8-001b,30ng,ON hyb Ligase 20µL 30min,,,,,DHT83,GGTTGAAC,Ri511-5A,NNNNNNNNNNNNAACCAGGT,AB-WO4-074,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-074-12,AB-WO4-074,HapMap24,x8-001b,30ng,ON hyb Ligase 20µL 30min,,,,,DHT84,GATAGCCA,Ri512-5A,NNNNNNNNNNNNTTCCGCTT,AB-WO4-074,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-074-13,AB-WO4-074,HapMap24,x8-001b,30ng,ON hyb BluntSU 20µM Ligase 20µL 30min,,,,,DHT85,TACTCCAG,Ri513-5A,NNNNNNNNNNNNTTGTTCCG,AB-WO4-074,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b39,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-074-14,AB-WO4-074,HapMap24,x8-001b,30ng,ON hyb BluntSU 20µM Ligase 20µL 30min,,,,,DHT86,GGAAGAGA,Ri514-5A,NNNNNNNNNNNNAGCTTACC,AB-WO4-074,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b40,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-074-15,AB-WO4-074,HapMap24,x8-001b,30ng,ON hyb Ligation 30min,,,,,DHT87,GCGTTAGA,Ri515-5A,NNNNNNNNNNNNATGCCACA,AB-WO4-074,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b41,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-074-16,AB-WO4-074,HapMap24,x8-001b,30ng,ON hyb Ligation 30min,,,,,DHT88,ATCTGACC,Ri516-5A,NNNNNNNNNNNNTCCGTAGT,AB-WO4-074,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b42,Research,70T8B12M8B70T,,HsAlpha
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,

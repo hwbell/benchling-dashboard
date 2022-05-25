@@ -1,0 +1,34 @@
+[Header],,,,,,,,,,,,,,,,,,,,,,,,,
+IEMFileVersion,5,,,,,,,,,,,,,,,,,,,,,,,,
+Investigator Name,BD,,,,,,,,,,,,,,,,,,,,,,,,
+Experiment Name,AB-WO4-088,,,,,,,,,,,,,,,,,,,,,,,,
+Date,3/25/21,,,,,,,,,,,,,,,,,,,,,,,,
+Workflow,GenerateFASTQ,,,,,,,,,,,,,,,,,,,,,,,,
+Application,FASTQ Only,,,,,,,,,,,,,,,,,,,,,,,,
+Assay,TruSeq HT,,,,,,,,,,,,,,,,,,,,,,,,
+Description,,,,,,,,,,,,,,,,,,,,,,,,,
+Chemistry,amplicon,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Reads],,,,,,,,,,,,,,,,,,,,,,,,,
+70,,,,,,,,,,,,,,,,,,,,,,,,,
+70,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Settings],,,,,,,,,,,,,,,,,,,,,,,,,
+ReverseComplement,0,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+[Data],,,,,,,,,,,,,,,,,,,,,,,,,
+Sample_ID,User,Sample_Name,Sample_Lot,Input_Amount,Condition,Sample_Plate,Sample_Well,Inline_ID,Index0,I7_Index_ID,index,I5_Index_ID,index2,Sample_Project,Description,Library_ID,Library_Type,Sample_Type,Normal_Library_IDs,Target_Set,Genome,Analysis_Type,Read_Structure,Read_Length,Product
+AB-WO4-088-01,AB-WO4-088,HapMap24,x9-001a,30ng,SOP,,,,,DHT45,CAATAGCC,Ri501-20210218,NNNNNNNNNNNNAGGCTATA,AB-WO4-088,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-088-02,AB-WO4-088,HapMap24,x9-001a,30ng,SOP,,,,,DHT46,AAGACACC,Ri502-20210218,NNNNNNNNNNNNGCCTCTAT,AB-WO4-088,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-088-03,AB-WO4-088,HapMap24,x9-001a,30ng,new NEB polymerase,,,,,DHT47,CCAGTTGA,Ri503-20210218,NNNNNNNNNNNNAGGATAGG,AB-WO4-088,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-088-04,AB-WO4-088,HapMap24,x9-001a,30ng,new NEB polymerase,,,,,DHT48,TGGTGAAG,Ri507-20210311,NNNNNNNNNNNNACGTCCTG,AB-WO4-088,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-088-05,AB-WO4-088,HapMap24,x9-001a,30ng,Phusion,,,,,DHT49,AAGACCGT,Ri508-20210311,NNNNNNNNNNNNGTCAGTAC,AB-WO4-088,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-088-06,AB-WO4-088,HapMap24,x9-001a,30ng,Phusion,,,,,DHT50,TTGCGAGA,Ri510-20210311,NNNNNNNNNNNNAACCTCTC,AB-WO4-088,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-088-07,AB-WO4-088,HapMap24,x9-001a,30ng,M0494 62C anneal,,,,,DHT51,GCAATTCC,Ri511-20210311,NNNNNNNNNNNNAACCAGGT,AB-WO4-088,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-088-08,AB-WO4-088,HapMap24,x9-001a,30ng,M0494 62C anneal,,,,,DHT52,GAATCCGT,Ri512-20210311,NNNNNNNNNNNNTTCCGCTT,AB-WO4-088,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-088-09,AB-WO4-088,HapMap24,x9-001a,30ng,new NEB polymerase 62C anneal,,,,,DHT53,CCGCTTAA,Ri513-20210225,NNNNNNNNNNNNTTGTTCCG,AB-WO4-088,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-088-10,AB-WO4-088,HapMap24,x9-001a,30ng,new NEB polymerase 62C anneal,,,,,DHT54,TACCTGCA,Ri514-20210225,NNNNNNNNNNNNAGCTTACC,AB-WO4-088,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-088-11,AB-WO4-088,HapMap24,x9-001a,30ng,Phusion 62C anneal,,,,,DHT55,GTCGATTG,Ri515-20210225,NNNNNNNNNNNNATGCCACA,AB-WO4-088,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha
+AB-WO4-088-12,AB-WO4-088,HapMap24,x9-001a,30ng,Phusion 62C anneal,,,,,DHT56,TATGGCAC,Ri516-20210225,NNNNNNNNNNNNTCCGTAGT,AB-WO4-088,desmond@directedgenomics.com,,,,,ExpandedPanelHS/DB,b38,Research,70T8B12M8B70T,,HsAlpha

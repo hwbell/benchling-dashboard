@@ -9,7 +9,7 @@ import { getEntries } from './tools/serverFunctions';
 // import { entriesData } from './tools/sampleData';
 import { Spinner } from 'reactstrap';
 
-const apiUrl = `https://neb.benchling.com/api/v2/entries/etr_9ZPhUKMU`;
+// const apiUrl = `https://neb.benchling.com/api/v2/entries/etr_9ZPhUKMU`;
 
 
 class App extends React.Component {
@@ -32,17 +32,19 @@ class App extends React.Component {
     //     entries: records
     //   });
     // }, 2000)
+
     // src/DNA Seq Core Records/Miseq Run Logs/210122_Sean_Miseq4 2021-01-26 (etr_q6JIYSTo).html
-    // src/210122_Sean_Miseq4 2021-01-26 (etr_q6JIYSTo).html
-    let htmlFileLocation = "./210122_Sean_Miseq4 2021-01-26 (etr_q6JIYSTo).html"
+    // src/DNA Seq Core Records/Nextseq Run Logs/Run 321_210805_NB_Deyra 2021-08-06 (etr_Ib40XD2q).html
+    let htmlFileLocation = "DNA Seq Core Records/Nextseq Run Logs/Run 321_210805_NB_Deyra 2021-08-06 (etr_Ib40XD2q)"
+    console.log(`./${htmlFileLocation}.html`)
     let encodedHtmlFileLocation = encodeURI(htmlFileLocation);
     console.log(htmlFileLocation)
     console.log(encodedHtmlFileLocation)
-    let rawLoaderLocation = 'raw-loader!' + htmlFileLocation;
-    console.log(rawLoaderLocation)
 
+    var path = require('path');
+    
     // eslint-disable-next-line import/no-webpack-loader-syntax
-    var htmlModule = require('raw-loader!./210122_Sean_Miseq4 2021-01-26 (etr_q6JIYSTo).html');
+    var htmlModule = require(`raw-loader!./${htmlFileLocation}.html`);
     var html = htmlModule.default;
     console.log(html);
 

@@ -2,9 +2,6 @@ import React from 'react'
 import logo from './logo.png';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import $ from 'jquery';
-
-import { getEntries } from './tools/serverFunctions';
 
 // import { entriesData } from './tools/sampleData';
 import { Spinner } from 'reactstrap';
@@ -21,37 +18,73 @@ class App extends React.Component {
       records: null,
       stats: null,
     }
+
+    // this.readFiles = this.readFiles.bind(this);
   }
   componentDidMount() {
-    // let records = getEntries(apiUrl);
+    console.log('mounted!')
 
-    // console.log(records);
+    // let htmlFileLocation = "DNA Seq Core Records/Nextseq Run Logs/Run 321_210805_NB_Deyra 2021-08-06 (etr_Ib40XD2q)"
+    // console.log(`./${htmlFileLocation}.html`)
+    // let encodedHtmlFileLocation = encodeURI(htmlFileLocation);
+    // console.log(htmlFileLocation)
+    // console.log(encodedHtmlFileLocation)
 
-    // setTimeout(() => {
-    //   this.setState({
-    //     entries: records
-    //   });
-    // }, 2000)
+    // // eslint-disable-next-line import/no-webpack-loader-syntax
+    // var htmlModule = require(`raw-loader!./${htmlFileLocation}.html`);
+    // var html = htmlModule.default;
+    // console.log(html);
 
-    // src/DNA Seq Core Records/Miseq Run Logs/210122_Sean_Miseq4 2021-01-26 (etr_q6JIYSTo).html
-    // src/DNA Seq Core Records/Nextseq Run Logs/Run 321_210805_NB_Deyra 2021-08-06 (etr_Ib40XD2q).html
-    let htmlFileLocation = "DNA Seq Core Records/Nextseq Run Logs/Run 321_210805_NB_Deyra 2021-08-06 (etr_Ib40XD2q)"
-    console.log(`./${htmlFileLocation}.html`)
-    let encodedHtmlFileLocation = encodeURI(htmlFileLocation);
-    console.log(htmlFileLocation)
-    console.log(encodedHtmlFileLocation)
+    this.readFiles('./DNA Seq Core Records/');
 
-    var path = require('path');
-    
+  }
+
+  readFiles(folder) {
+    // DNA Seq Core Records
+    function importAll(r) {
+      return r.keys().map(r);
+    }
     // eslint-disable-next-line import/no-webpack-loader-syntax
-    var htmlModule = require(`raw-loader!./${htmlFileLocation}.html`);
-    var html = htmlModule.default;
-    console.log(html);
+    const htmlFiles = importAll(require.context('raw-loader!./DNA Seq Core Records/Nextseq Run Logs/', false, /\.html$/));
+    console.log(typeof(htmlFiles[0]))
+    console.log(typeof(htmlFiles[0].default))
+
+    let file = htmlFiles[0].default;
+
+    // cluster density
+    let cdInd = file.indexOf('Cluster Density')
+    let cdInfo = file.slice(cdInd, cdInd+30)
+    console.log(cdInfo)
+
+    // clusters passing filter
+    let cpfInd = file.indexOf('Clusters Passing Filter')
+    let cpfInfo = file.slice(cpfInd, cpfInd+30)
+    console.log(cpfInfo)
+
+    // estimated yield
+    let eyInd = file.indexOf('Estimated Yield')
+    let eyInfo = file.slice(eyInd, eyInd+30)
+    console.log(eyInfo)
+
+    // q30
+    let qInd = file.indexOf('Q30')
+    let qInfo = file.slice(qInd, qInd+30)
+    console.log(qInfo)
+
+    this.setState({
+      records: htmlFiles
+    });
+
+    
+  }
+
+  mapFileInfo() {
 
   }
 
   renderSpinners() {
     return (
+      // show when data is there
       <div className="spinners-holder">
         <Spinner
           className="spinner"

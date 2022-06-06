@@ -44,16 +44,22 @@ class App extends React.Component {
     function importAll(r) {
       return r.keys().map(r);
     }
-    // eslint-disable-next-line import/no-webpack-loader-syntax
-    const htmlFiles = importAll(require.context('raw-loader!./DNA Seq Core Records/Nextseq Run Logs/', false, /\.html$/));
-    console.log(typeof (htmlFiles[0]))
-    console.log(typeof (htmlFiles[0].default))
 
-    // set to state and then crunch #s
+    // seems like doing require in a loop via variables is problematic. Leave it hardcoded for now ...
+    // eslint-disable-next-line import/no-webpack-loader-syntax
+    let nextseqFiles = importAll(require.context(`raw-loader!./DNA Seq Core Records/Nextseq Run Logs/`, false, /\.html$/));
+    // eslint-disable-next-line import/no-webpack-loader-syntax
+    let miseqFiles = importAll(require.context(`raw-loader!./DNA Seq Core Records/Miseq Run Logs/`, false, /\.html$/));
+    // eslint-disable-next-line import/no-webpack-loader-syntax
+    let novaseqFiles = importAll(require.context(`raw-loader!./DNA Seq Core Records/Novaseq Run Logs/`, false, /\.html$/));
+
+    let allFiles = nextseqFiles.concat(miseqFiles, novaseqFiles);
+    // console.log(allFiles)
+    // set to state and then map info
     this.setState({
-      records: htmlFiles
+      records: allFiles
     }, () => {
-      this.mapFileInfo(htmlFiles)
+      this.mapFileInfo(allFiles)
     });
 
   }
@@ -62,57 +68,25 @@ class App extends React.Component {
   // ex {CD: ..., CPF: ..., EY: ..., Q30: ...} for each run
   mapFileInfo(htmlStrings) {
     // console.log(htmlStrings[0].default)
-    let totalRunsInfo = {};
+    let totalRunsInfo = [];
     let statsNeeded = ['Date', 'Run Type', 'Cluster Density', 'Clusters Passing Filter', 'Estimated Yield', 'Q30', 'Sample @'];
 
-    let file = htmlStrings[0].default;
-    let infoObj = {};
+    for (let i = 0; i < htmlStrings.length; i++) {
+      let file = htmlStrings[i].default;
+      let infoObj = {};
 
-    // *try to find a fixe for the date, it has too much info*
-    statsNeeded.forEach((stat, i) => {
-      let ind = file.indexOf(stat);
-      let info = file.slice(ind, ind + 35);
-      info = info.slice(info.indexOf(':')+1, info.indexOf('<')).trim();
-      console.log(info);
-      // if (i > 0) {
-      //   infoObj[stat] = info;
-      // }
-    })
+      // *try to find a fix for the date, it has too much info*
+      statsNeeded.forEach((stat, i) => {
+        let ind = file.indexOf(stat);
+        let info = file.slice(ind, ind + 35);
+        info = info.slice(info.indexOf(':') + 1, info.indexOf('<')).trim();
+        infoObj[stat] = info;
+      });
+      totalRunsInfo.push(infoObj);
+    }
 
-    console.log(infoObj);
+    console.log(totalRunsInfo[4])
 
-
-    // htmlStrings.forEach((html, i) => {
-
-    //   let file = htmlStrings[i].default;
-    //   statsNeeded.forEach((stat) => {
-    //     let ind = file.indexOf(stat);
-    //     let info = file.slice(ind, ind + 30);
-    //     console.log(info);
-    //   })
-
-    // })
-
-
-    // // cluster density
-    // let cdInd = file.indexOf('Cluster Density')
-    // let cdInfo = file.slice(cdInd, cdInd+30)
-    // console.log(cdInfo)
-
-    // // clusters passing filter
-    // let cpfInd = file.indexOf('Clusters Passing Filter')
-    // let cpfInfo = file.slice(cpfInd, cpfInd+30)
-    // console.log(cpfInfo)
-
-    // // estimated yield
-    // let eyInd = file.indexOf('Estimated Yield')
-    // let eyInfo = file.slice(eyInd, eyInd+30)
-    // console.log(eyInfo)
-
-    // // q30
-    // let qInd = file.indexOf('Q30')
-    // let qInfo = file.slice(qInd, qInd+30)
-    // console.log(qInfo)
   }
 
   renderSpinners() {

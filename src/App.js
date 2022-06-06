@@ -46,40 +46,73 @@ class App extends React.Component {
     }
     // eslint-disable-next-line import/no-webpack-loader-syntax
     const htmlFiles = importAll(require.context('raw-loader!./DNA Seq Core Records/Nextseq Run Logs/', false, /\.html$/));
-    console.log(typeof(htmlFiles[0]))
-    console.log(typeof(htmlFiles[0].default))
+    console.log(typeof (htmlFiles[0]))
+    console.log(typeof (htmlFiles[0].default))
 
-    let file = htmlFiles[0].default;
-
-    // cluster density
-    let cdInd = file.indexOf('Cluster Density')
-    let cdInfo = file.slice(cdInd, cdInd+30)
-    console.log(cdInfo)
-
-    // clusters passing filter
-    let cpfInd = file.indexOf('Clusters Passing Filter')
-    let cpfInfo = file.slice(cpfInd, cpfInd+30)
-    console.log(cpfInfo)
-
-    // estimated yield
-    let eyInd = file.indexOf('Estimated Yield')
-    let eyInfo = file.slice(eyInd, eyInd+30)
-    console.log(eyInfo)
-
-    // q30
-    let qInd = file.indexOf('Q30')
-    let qInfo = file.slice(qInd, qInd+30)
-    console.log(qInfo)
-
+    // set to state and then crunch #s
     this.setState({
       records: htmlFiles
+    }, () => {
+      this.mapFileInfo(htmlFiles)
     });
 
-    
   }
 
-  mapFileInfo() {
+  // this funcion will read the desired info from all the html strings and create and basic object with the info
+  // ex {CD: ..., CPF: ..., EY: ..., Q30: ...} for each run
+  mapFileInfo(htmlStrings) {
+    // console.log(htmlStrings[0].default)
+    let totalRunsInfo = {};
+    let statsNeeded = ['Date', 'Run Type', 'Cluster Density', 'Clusters Passing Filter', 'Estimated Yield', 'Q30', 'Sample @'];
 
+    let file = htmlStrings[0].default;
+    let infoObj = {};
+
+    // *try to find a fixe for the date, it has too much info*
+    statsNeeded.forEach((stat, i) => {
+      let ind = file.indexOf(stat);
+      let info = file.slice(ind, ind + 35);
+      info = info.slice(info.indexOf(':')+1, info.indexOf('<')).trim();
+      console.log(info);
+      // if (i > 0) {
+      //   infoObj[stat] = info;
+      // }
+    })
+
+    console.log(infoObj);
+
+
+    // htmlStrings.forEach((html, i) => {
+
+    //   let file = htmlStrings[i].default;
+    //   statsNeeded.forEach((stat) => {
+    //     let ind = file.indexOf(stat);
+    //     let info = file.slice(ind, ind + 30);
+    //     console.log(info);
+    //   })
+
+    // })
+
+
+    // // cluster density
+    // let cdInd = file.indexOf('Cluster Density')
+    // let cdInfo = file.slice(cdInd, cdInd+30)
+    // console.log(cdInfo)
+
+    // // clusters passing filter
+    // let cpfInd = file.indexOf('Clusters Passing Filter')
+    // let cpfInfo = file.slice(cpfInd, cpfInd+30)
+    // console.log(cpfInfo)
+
+    // // estimated yield
+    // let eyInd = file.indexOf('Estimated Yield')
+    // let eyInfo = file.slice(eyInd, eyInd+30)
+    // console.log(eyInfo)
+
+    // // q30
+    // let qInd = file.indexOf('Q30')
+    // let qInfo = file.slice(qInd, qInd+30)
+    // console.log(qInfo)
   }
 
   renderSpinners() {

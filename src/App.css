@@ -10,17 +10,14 @@
   background-color: rgb(161, 161, 161);
   color: whitesmoke;
   font-size: 22px;
-  padding: 8px;
-
+  padding: 18px;
+  box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
 }
 .App-logo {
   height: 6vmin;
   pointer-events: none;
   border-radius: 10px;
 }
-
-
-
 .App-content {
   background-color: whitesmoke;
   min-height: 100vh;
@@ -32,8 +29,12 @@
   color: rgb(88, 88, 88);
 }
 
-.loading-spinners {
-
+.data-buttons {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 40%
 }
 .spinner {
   margin: 8px;

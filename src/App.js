@@ -3,11 +3,9 @@ import logo from './logo.png';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-// import { entriesData } from './tools/sampleData';
-import { Spinner } from 'reactstrap';
+import { Spinner, Button } from 'reactstrap';
 
-// const apiUrl = `https://neb.benchling.com/api/v2/entries/etr_9ZPhUKMU`;
-
+const instruments = ['All Instruments', 'MiSeq', 'NextSeq', 'NovaSeq']
 
 class App extends React.Component {
 
@@ -19,21 +17,10 @@ class App extends React.Component {
       stats: null,
     }
 
-    // this.readFiles = this.readFiles.bind(this);
+    this.showData = this.showData.bind(this);
   }
   componentDidMount() {
     console.log('mounted!')
-
-    // let htmlFileLocation = "DNA Seq Core Records/Nextseq Run Logs/Run 321_210805_NB_Deyra 2021-08-06 (etr_Ib40XD2q)"
-    // console.log(`./${htmlFileLocation}.html`)
-    // let encodedHtmlFileLocation = encodeURI(htmlFileLocation);
-    // console.log(htmlFileLocation)
-    // console.log(encodedHtmlFileLocation)
-
-    // // eslint-disable-next-line import/no-webpack-loader-syntax
-    // var htmlModule = require(`raw-loader!./${htmlFileLocation}.html`);
-    // var html = htmlModule.default;
-    // console.log(html);
 
     this.readFiles('./DNA Seq Core Records/');
 
@@ -54,20 +41,30 @@ class App extends React.Component {
     let novaseqFiles = importAll(require.context(`raw-loader!./DNA Seq Core Records/Novaseq Run Logs/`, false, /\.html$/));
 
     let allFiles = nextseqFiles.concat(miseqFiles, novaseqFiles);
-    // console.log(allFiles)
-    // set to state and then map info
+
+    // separate based on instrument
+    let allData = this.mapFileInfo(allFiles)
+    let miseqData = this.mapFileInfo(miseqFiles)
+    let nextseqData = this.mapFileInfo(nextseqFiles)
+    let novaseqData = this.mapFileInfo(novaseqFiles)
+
+    // set to state 
     this.setState({
-      records: allFiles
+      records: allFiles,
+      allData,
+      miseqData,
+      nextseqData,
+      novaseqData
     }, () => {
-      this.mapFileInfo(allFiles)
+      console.log('data separated by instrument')
     });
 
   }
 
-  // this funcion will read the desired info from all the html strings and create and basic object with the info
+  // this funcion will read the desired info from the html strings and create and basic object with the info
   // ex {CD: ..., CPF: ..., EY: ..., Q30: ...} for each run
   mapFileInfo(htmlStrings) {
-    // console.log(htmlStrings[0].default)
+
     let totalRunsInfo = [];
     let statsNeeded = ['Date', 'Run Type', 'Cluster Density', 'Clusters Passing Filter', 'Estimated Yield', 'Q30', 'Sample @'];
 
@@ -85,13 +82,18 @@ class App extends React.Component {
       totalRunsInfo.push(infoObj);
     }
 
-    console.log(totalRunsInfo[4])
+    return totalRunsInfo;
+
+  }
+
+  // this will extract one metric from the data set, ex Cluster Density, and create an array for recharts
+  pullFieldData(field, data) {
 
   }
 
   renderSpinners() {
     return (
-      // show when data is there
+      // hide when data is there
       <div className="spinners-holder">
         <Spinner
           className="spinner"
@@ -134,6 +136,10 @@ class App extends React.Component {
     )
   }
 
+  showData(instrument) {
+    console.log(`showing data for ${instrument}`)
+  }
+
   render() {
     return (
       <div className="App">
@@ -147,20 +153,27 @@ class App extends React.Component {
           >
             <img src={logo} className="App-logo" alt="logo" />
           </a>
-          <p>Check Status</p>
-          <p>View Data Trends</p>
           <p>Benchling Dashboard</p>
+          <p>Explore Entries</p>
+          <p>View Data Trends</p>
         </div>
 
         <div className="App-content">
 
-          <p>just a moment ... </p>
-          <div className="loading-spinners">
-            {!this.state.entries ?
-              this.renderSpinners()
-              : null}
-          </div>
+          {!this.state.records ?
+            <div className="loading-spinners">
+              <p>just a moment ... </p>
 
+              {this.renderSpinners()}
+
+            </div>
+            : null}
+
+          <div className="data-buttons">
+            {instruments.map((instrument) => {
+              return <Button key={instrument} color="primary btn-lg" onClick={() => this.showData(instrument)}>{instrument}</Button>
+            })}
+          </div>
 
         </div>
       </div>

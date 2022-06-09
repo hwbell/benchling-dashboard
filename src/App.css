@@ -39,3 +39,14 @@
 .spinner {
   margin: 8px;
 }
+.scatter-plot-display { 
+  /* font-size: 18pt; */
+  width: 80%;
+}
+.recharts-text {
+  font-size: 12pt;
+}
+.recharts-responsive-container {
+  min-width: 400px;
+  min-height: 400px;
+}

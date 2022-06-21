@@ -7,7 +7,9 @@ import { Button } from 'reactstrap';
 
 import BarChartDisplay from './Components/BarChartDisplay.js';
 
-
+const monthNames = ["January", "February", "March", "April", "May", "June",
+  "July", "August", "September", "October", "November", "December"
+];
 const instruments = ['All Instruments', 'MiSeq', 'NextSeq', 'NovaSeq']
 
 // NOTES //
@@ -29,7 +31,7 @@ class App extends React.Component {
       dataToPlot: null,
     }
 
-    this.showData = this.showData.bind(this);
+    this.showTotalRuns = this.showTotalRuns.bind(this);
   }
   componentDidMount() {
     console.log('mounted!')
@@ -118,24 +120,70 @@ class App extends React.Component {
 
   // this will extract one metric from the data set, ex Cluster Density, and create an array for recharts
   pullFieldData(field, data) {
-    // {
-    //   name: 'Page A',
-    //   uv: 4000,
-    //   pv: 2400,
-    //   amt: 2400,
-    // }
-
     console.log(field)
     console.log(data.length)
-
-
   }
 
-  showData(instrument) {
+  // this will show the total runs for an instrument / all instruments
+  showTotalRuns(instrument) {
     console.log(`showing data for ${instrument}`)
 
     let data = this.state.data[instrument];
-    console.log(data)
+
+    // the Bar Chart accepts data in the form:
+    // [{
+    //   name: 'January 2021',
+    //   runs: 45,
+    //   yield: 2400, //in GB
+    //   CPF: 91,
+    //   Q30: 86,
+    // }, ...]
+
+    // first make buckets for the months ... we can average things to appear in the above form after
+    // each bucket is one month
+    let monthBuckets = [];
+    data.forEach((obj, i) => {
+      let date = new Date(obj.Date);
+      let thisBucket = { 
+        month: date.getMonth(), 
+        year: date.getFullYear(), 
+        name: `${monthNames[date.getMonth()]} ${date.getFullYear()}`, 
+        runs: []
+      }
+      // check for some nonsense entries
+      if (thisBucket.year < 2021) {
+        thisBucket.year = 2021;
+      }
+      // if it has real date info, use it
+      if (thisBucket.name !== 'undefined NaN') {
+        monthBuckets.push(thisBucket)
+      }
+    });
+
+    // once everything has a name property, filter the unique ones
+    let uniqueBuckets = monthBuckets.filter((value, index, self) =>
+      index === self.findIndex((t) => (
+        t.name === value.name
+      ))
+    );
+    // console.log(uniqueBuckets)
+
+    // crunch data to buckets
+    uniqueBuckets.forEach((bucket,i) => {
+      console.log(`evaluating for ${bucket.name}`)
+      console.log(data)
+      data.forEach((obj) => {
+        let objDate = new Date(obj.Date);
+        let belongsInThisBucket = (objDate.getMonth() === bucket.month && objDate.getFullYear() === bucket.year);
+        console.log(belongsInThisBucket)
+        if (belongsInThisBucket) {
+          bucket.runs.push(obj);
+        }
+      })
+      console.log(bucket)
+    })
+
+
   }
 
   render() {
@@ -160,7 +208,7 @@ class App extends React.Component {
 
           <div className="data-buttons">
             {instruments.map((instrument) => {
-              return <Button key={instrument} color="primary btn-lg" onClick={() => this.showData(instrument)}>{instrument}</Button>
+              return <Button key={instrument} color="primary btn-lg" onClick={() => this.showTotalRuns(instrument)}>{instrument}</Button>
             })}
           </div>
 

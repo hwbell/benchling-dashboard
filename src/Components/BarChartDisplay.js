@@ -76,8 +76,8 @@ class BarChartDisplay extends React.Component {
             <Tooltip />
             <Legend />
             <Bar dataKey="pv" stackId="a" fill="#8884d8" />
-            <Bar dataKey="uv" stackId="a" fill="#82ca9d" />
-            <Bar dataKey="amt" stackId="a" fill="#82ca9d" />
+            {/* <Bar dataKey="uv" stackId="a" fill="#82ca9d" />
+            <Bar dataKey="amt" stackId="a" fill="#82ca9d" /> */}
           </BarChart>
         </ResponsiveContainer>
       </div>

@@ -168,7 +168,7 @@ class App extends React.Component {
     );
     // console.log(uniqueBuckets)
 
-    // crunch data to buckets
+    // add data to buckets
     uniqueBuckets.forEach((bucket,i) => {
       console.log(`evaluating for ${bucket.name}`)
       console.log(data)
@@ -182,7 +182,10 @@ class App extends React.Component {
       })
       console.log(bucket)
     })
-
+    
+    this.setState({
+      dataToPlot: uniqueBuckets
+    })
 
   }
 
@@ -212,7 +215,7 @@ class App extends React.Component {
             })}
           </div>
 
-          {this.state.data ?
+          {this.state.dataToPlot ?
             <BarChartDisplay data={this.state.dataToPlot} />
             : null}
         </div>

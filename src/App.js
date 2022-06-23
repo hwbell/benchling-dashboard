@@ -5,12 +5,12 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 import { Button } from 'reactstrap';
 
-import BarChartDisplay from './Components/BarChartDisplay.js';
+import LineChartDisplay from './Components/LineChartDisplay.js';
 
 const monthNames = ["January", "February", "March", "April", "May", "June",
   "July", "August", "September", "October", "November", "December"
 ];
-const instruments = ['All Instruments', 'MiSeq', 'NextSeq', 'NovaSeq']
+const instruments = ['All', 'MiSeq', 'NextSeq', 'NovaSeq']
 
 // NOTES //
 // make a bar chart with # of runs per instrument
@@ -31,10 +31,10 @@ class App extends React.Component {
       dataToPlot: null,
     }
 
-    this.showTotalRuns = this.showTotalRuns.bind(this);
+    this.showRuns = this.showRuns.bind(this);
   }
   componentDidMount() {
-    console.log('mounted!')
+    console.log('App mounted')
 
     this.readFiles('./DNA Seq Core Records/');
 
@@ -66,7 +66,7 @@ class App extends React.Component {
     this.setState({
       records: allFiles,
       data: {
-        'All Instruments': allData,
+        'All': allData,
         'MiSeq': miseqData,
         'NextSeq': nextseqData,
         'NovaSeq': novaseqData
@@ -113,19 +113,19 @@ class App extends React.Component {
       totalRunsInfo.push(infoObj);
 
     }
-    // console.log(totalRunsInfo[0])
+    // console.log(totalRunsInfo[0])  
     return totalRunsInfo;
 
   }
 
   // this will extract one metric from the data set, ex Cluster Density, and create an array for recharts
   pullFieldData(field, data) {
-    console.log(field)
-    console.log(data.length)
+    // console.log(field)
+    // console.log(data.length)
   }
 
   // this will show the total runs for an instrument / all instruments
-  showTotalRuns(instrument) {
+  showRuns(instrument) {
     console.log(`showing data for ${instrument}`)
 
     let data = this.state.data[instrument];
@@ -144,15 +144,16 @@ class App extends React.Component {
     let monthBuckets = [];
     data.forEach((obj, i) => {
       let date = new Date(obj.Date);
-      let thisBucket = { 
-        month: date.getMonth(), 
-        year: date.getFullYear(), 
-        name: `${monthNames[date.getMonth()]} ${date.getFullYear()}`, 
+      let thisBucket = {
+        month: date.getMonth(),
+        year: date.getFullYear(),
+        name: `${monthNames[date.getMonth()]} ${date.getFullYear()}`,
         runs: []
       }
       // check for some nonsense entries
       if (thisBucket.year < 2021) {
         thisBucket.year = 2021;
+        thisBucket.name = `${monthNames[date.getMonth()]} 2021`;
       }
       // if it has real date info, use it
       if (thisBucket.name !== 'undefined NaN') {
@@ -160,31 +161,38 @@ class App extends React.Component {
       }
     });
 
-    // once everything has a name property, filter the unique ones
+    // once every bucket has a name property, filter the unique ones
     let uniqueBuckets = monthBuckets.filter((value, index, self) =>
       index === self.findIndex((t) => (
         t.name === value.name
       ))
     );
-    // console.log(uniqueBuckets)
+
+    // sort by year, then by month 
+    uniqueBuckets.sort((a,b) => {
+      return a.month - b.month
+    }).sort((a,b) => {
+      return a.year - b.year
+    })
 
     // add data to buckets
-    uniqueBuckets.forEach((bucket,i) => {
-      console.log(`evaluating for ${bucket.name}`)
-      console.log(data)
+    uniqueBuckets.forEach((bucket, i) => {
+      // console.log(`evaluating for ${bucket.name}`)
+      // console.log(data)
       data.forEach((obj) => {
         let objDate = new Date(obj.Date);
         let belongsInThisBucket = (objDate.getMonth() === bucket.month && objDate.getFullYear() === bucket.year);
-        console.log(belongsInThisBucket)
         if (belongsInThisBucket) {
           bucket.runs.push(obj);
         }
       })
-      console.log(bucket)
+      // console.log(bucket)
     })
-    
+
     this.setState({
       dataToPlot: uniqueBuckets
+    }, () => {
+      console.log(this.state.dataToPlot)
     })
 
   }
@@ -208,16 +216,18 @@ class App extends React.Component {
         </div>
 
         <div className="App-content">
+          {!this.state.dataToPlot ?
+            <div style={{margin: 30}}>Click on an instrument to show data!</div>
+            : null}
 
           <div className="data-buttons">
             {instruments.map((instrument) => {
-              return <Button key={instrument} color="primary btn-lg" onClick={() => this.showTotalRuns(instrument)}>{instrument}</Button>
+              return <Button key={instrument} color="primary btn-lg" onClick={() => this.showRuns(instrument)}>{instrument}</Button>
             })}
           </div>
 
-          {this.state.dataToPlot ?
-            <BarChartDisplay data={this.state.dataToPlot} />
-            : null}
+          <LineChartDisplay key={'line-chart'} data={this.state.dataToPlot} />
+
         </div>
       </div>
     );

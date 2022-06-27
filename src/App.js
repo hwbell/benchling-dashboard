@@ -190,7 +190,10 @@ class App extends React.Component {
     })
 
     this.setState({
-      dataToPlot: uniqueBuckets
+      dataToPlot: {
+        data: uniqueBuckets,
+        instrument
+      }
     }, () => {
       console.log(this.state.dataToPlot)
     })

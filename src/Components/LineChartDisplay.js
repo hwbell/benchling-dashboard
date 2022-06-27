@@ -1,6 +1,6 @@
 import React from 'react'
 import '../App.css';
-import { BarChart, Bar, Cell, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts';
+import { BarChart, Bar, Cell, LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts';
 
 
 const data = [
@@ -66,7 +66,7 @@ class LineChartDisplay extends React.Component {
 
   componentDidUpdate(prevProps) {
     if (this.props.data !== prevProps.data) {
-      if (this.props.data) {
+      if (this.props.data.data) {
         this.formatData();
       }
     }
@@ -77,8 +77,18 @@ class LineChartDisplay extends React.Component {
     // console.log(this.props.data)
     console.log('formatting data')
 
-    let formattedData = this.props.data.map((obj) => {
+    // this will hold all the objects in the end, in the recharts format, with averaged data for each month
+    let allFormattedData = [];
+
+    // we'll create a recharts data object for each month bucket with the averages
+    this.props.data.data.forEach((obj) => {
+      let formattedRun = {
+        name: obj.name
+      };
+
+      // console.log(formattedRun)
       // console.log(obj)
+
       // make an array of each metric - CD, CPF, etc
       let metrics = ['Cluster Density', 'Clusters Passing Filter', 'Estimated Yield', 'Q30'];
 
@@ -89,16 +99,14 @@ class LineChartDisplay extends React.Component {
           // console.log(run)
           // check if it is there first
           if (!!run[metric]) {
-            console.log(`computing data for ${metric}:`)
-            // console.log(run[metric]);
+            // console.log(`computing data for ${metric}:`)
             metricArr.push(run[metric]);
 
           } else {
-            console.log(`missing data for ${metric}`)
+            // console.log(`missing some data for ${metric}`)
           }
         });
 
-        console.log(metricArr)
         // convert to actual numbers from the strings
         let numericMetricArr = metricArr.map((string) => {
           // this works already for everything but q30 ... so extract the q30 info from between the last space and the % sign
@@ -109,21 +117,26 @@ class LineChartDisplay extends React.Component {
           }
 
         });
-        console.log(numericMetricArr)
+        // console.log(numericMetricArr)
         // dump anything that isn't a number and average
         let cleaned = numericMetricArr.filter(num => !isNaN(num));
         let average = cleaned.reduce((a, b) => a + b, 0) / cleaned.length;
-        console.log(`average: ${average}`)
+        // console.log(`average: ${average}`)
+
+        // now add the average to the recharts object
+        formattedRun[metric] = parseInt(average);
 
       });
 
+      // add the recharts object with all the metric avgs to the allFormattedData array
+      allFormattedData.push(formattedRun)
 
     });
+    console.log(allFormattedData)
 
-    console.log(formattedData)
-    this.setState({ formattedData });
-    return formattedData;
-
+    this.setState({
+      formattedData: allFormattedData
+    });
   }
 
   render() {
@@ -132,10 +145,30 @@ class LineChartDisplay extends React.Component {
     return (
       <div className="scatter-plot-display">
         {this.props.data ?
-          <div>{this.props.data[0].name} - {this.props.data[this.props.data.length - 1].name}</div>
+          <div>{this.props.data.data[0].name} - {this.props.data.data[this.props.data.data.length - 1].name}</div>
           : null}
 
         <ResponsiveContainer width="100%" height="100%">
+          <LineChart
+            width={'80%'}
+            height={'50%'}
+            data={this.state.formattedData || data}
+            margin={{
+              top: 20
+            }}
+          >
+            <CartesianGrid strokeDasharray="3 3" />
+            <XAxis dataKey="name" />
+            <YAxis />
+            <Tooltip />
+            <Legend />
+            <Line type="monotone" dataKey="Estimated Yield" stroke="#8884d8" activeDot={{ r: 8 }} />
+            <Line type="monotone" dataKey="Cluster Density" stroke="#8884d8" activeDot={{ r: 8 }} />
+            <Line type="monotone" dataKey="Q30" stroke="#8884d8" activeDot={{ r: 8 }} />
+          </LineChart>
+        </ResponsiveContainer>
+
+        {/* <ResponsiveContainer width="100%" height="100%">
           <BarChart
             width={'80%'}
             height={'50%'}
@@ -149,11 +182,12 @@ class LineChartDisplay extends React.Component {
             <YAxis />
             <Tooltip />
             <Legend />
-            <Bar dataKey={this.state.dataKey} stackId="a" fill="#8884d8" />
+            <Bar dataKey="Cluster Density" stackId="a" fill="#8884d8" />
+
             {/* <Bar dataKey="uv" stackId="a" fill="#82ca9d" />
-            <Bar dataKey="amt" stackId="a" fill="#82ca9d" /> */}
+            <Bar dataKey="amt" stackId="a" fill="#82ca9d" /> 
           </BarChart>
-        </ResponsiveContainer>
+        </ResponsiveContainer> */}
       </div>
     );
   }

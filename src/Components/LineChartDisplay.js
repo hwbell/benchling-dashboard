@@ -72,28 +72,51 @@ class LineChartDisplay extends React.Component {
     }
   }
 
+  // this basically parses the existing data structure into one that the chart can understand
   formatData() {
+    // console.log(this.props.data)
     console.log('formatting data')
 
     let formattedData = this.props.data.map((obj) => {
+      // console.log(obj)
       // make an array of each metric - CD, CPF, etc
       let metrics = ['Cluster Density', 'Clusters Passing Filter', 'Estimated Yield', 'Q30'];
-      metrics.forEach((metric) => {
-        // check if it is there first
-        if (!!obj.runs[metric]) {
-          let metricData = obj.runs.map((run) => {
-            return run[metric]
-          });
-          var total = 0;
-          for (var i = 0; i < metricData.length; i++) {
-            total += metricData[i];
-          }
-          var avg = total / metricData.length;
-          // append to the formattedData
-          formattedData[metric] = avg;
-        }
 
-      })
+      // create averages, one metric at a time - push into array and then calculate mean after. this way it won't miss any data and can only fail to use numbers at the very end when parsInt() is used
+      metrics.forEach((metric) => {
+        let metricArr = [];
+        obj.runs.forEach((run) => {
+          // console.log(run)
+          // check if it is there first
+          if (!!run[metric]) {
+            console.log(`computing data for ${metric}:`)
+            // console.log(run[metric]);
+            metricArr.push(run[metric]);
+
+          } else {
+            console.log(`missing data for ${metric}`)
+          }
+        });
+
+        console.log(metricArr)
+        // convert to actual numbers from the strings
+        let numericMetricArr = metricArr.map((string) => {
+          // this works already for everything but q30 ... so extract the q30 info from between the last space and the % sign
+          if (metric === 'Q30' && string.lastIndexOf(' ') !== -1) {
+            return parseInt(string.slice(string.lastIndexOf(' '), string.indexOf('%')));
+          } else {
+            return parseInt(string);
+          }
+
+        });
+        console.log(numericMetricArr)
+        // dump anything that isn't a number and average
+        let cleaned = numericMetricArr.filter(num => !isNaN(num));
+        let average = cleaned.reduce((a, b) => a + b, 0) / cleaned.length;
+        console.log(`average: ${average}`)
+
+      });
+
 
     });
 
